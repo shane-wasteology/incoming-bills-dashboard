@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Incoming Bills Dashboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', -apple-system, sans-serif; background: linear-gradient(180deg, #1e2a38 0%, #151f2b 100%); color: #e2e8f0; min-height: 100vh; }
+    .container { padding: 24px; max-width: 1400px; margin: 0 auto; }
+    .header { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; border-bottom: 1px solid #3d4f63; padding-bottom: 16px; }
+    .logo { width: 44px; height: 44px; border-radius: 8px; background: #4A9B52; display: flex; align-items: center; justify-content: center; color: #fff; font-weight: 700; font-size: 18px; }
+    .title { font-size: 18px; font-weight: 600; color: #4A9B52; letter-spacing: 2px; text-transform: uppercase; }
+    .subtitle { font-size: 12px; color: #64748b; margin-top: 2px; }
+    .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
+    .kpi-card { background: #2a3a4d; border: 1px solid #3d4f63; border-radius: 8px; padding: 16px; }
+    .kpi-label { font-size: 10px; color: #64748b; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+    .kpi-value { font-size: 28px; font-weight: 700; color: #4A9B52; }
+    .kpi-value.alert { color: #f59e0b; }
+    .kpi-sub { font-size: 11px; color: #64748b; margin-top: 4px; }
+    .tab-row { display: flex; gap: 4px; margin-bottom: 20px; }
+    .tab { padding: 8px 16px; font-size: 12px; font-weight: 500; text-transform: uppercase; letter-spacing: 1px; border: none; border-radius: 4px; cursor: pointer; font-family: inherit; background: transparent; color: #64748b; border: 1px solid #3d4f63; }
+    .tab.active { background: #4A9B52; color: #fff; border-color: #4A9B52; }
+    .panel { background: #2a3a4d; border: 1px solid #3d4f63; border-radius: 8px; padding: 20px; display: none; }
+    .panel.active { display: block; }
+    .panel-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+    .panel-title { font-size: 13px; font-weight: 600; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px; display: flex; align-items: center; gap: 8px; }
+    .panel-title::before { content: ''; width: 12px; height: 12px; background: #4A9B52; border-radius: 2px; }
+    .chart-container { height: 320px; margin-bottom: 16px; position: relative; }
+    .info-box { margin-top: 16px; padding: 10px 14px; background: rgba(74, 155, 82, 0.1); border: 1px solid rgba(74, 155, 82, 0.2); border-radius: 6px; font-size: 11px; color: #4A9B52; }
+    .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 16px; }
+    .stat-box { background: #1e2a38; border: 1px solid #3d4f63; border-radius: 6px; padding: 12px; }
+    .stat-label { font-size: 10px; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-value { font-size: 18px; font-weight: 700; color: #4A9B52; margin-top: 4px; }
+    .select { background: #1e2a38; border: 1px solid #3d4f63; border-radius: 4px; padding: 6px 12px; font-size: 12px; color: #e2e8f0; cursor: pointer; min-width: 180px; }
+    .legend { font-size: 11px; color: #94a3b8; display: flex; align-items: center; gap: 6px; }
+    .legend-line { width: 20px; height: 2px; background: #f59e0b; }
+    table { width: 100%; border-collapse: collapse; font-size: 12px; }
+    th { text-align: left; padding: 10px 12px; color: #64748b; font-weight: 500; text-transform: uppercase; font-size: 10px; border-bottom: 1px solid #3d4f63; }
+    th.right { text-align: right; }
+    td { padding: 10px 12px; border-bottom: 1px solid #1e2a38; color: #e2e8f0; }
+    td.right { text-align: right; }
+    td.muted { color: #94a3b8; }
+    td.red { color: #ef4444; font-weight: 600; }
+    .badge { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 10px; font-weight: 600; text-transform: uppercase; background: rgba(239, 68, 68, 0.2); color: #ef4444; border: 1px solid rgba(239, 68, 68, 0.3); }
+    .alert-box { margin-top: 20px; padding: 12px 16px; background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 6px; font-size: 11px; color: #f59e0b; }
+    svg text { font-family: 'Segoe UI', -apple-system, sans-serif; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="logo">W</div>
+      <div>
+        <div class="title">Incoming Bills</div>
+        <div class="subtitle">Invoice volume monitoring • Data through 12/17/2025</div>
+      </div>
+    </div>
+
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Yesterday</div>
+        <div class="kpi-value" id="kpi-yesterday">398</div>
+        <div class="kpi-sub">12/17</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">December MTD</div>
+        <div class="kpi-value" id="kpi-mtd">4,917</div>
+        <div class="kpi-sub">17 days</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Year to Date</div>
+        <div class="kpi-value" id="kpi-ytd">159,850</div>
+        <div class="kpi-sub">Jan - Nov 2025</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Alerts (Nov Close)</div>
+        <div class="kpi-value alert" id="kpi-alerts">8</div>
+        <div class="kpi-sub">vendors below 25%</div>
+      </div>
+    </div>
+
+    <div class="tab-row">
+      <button class="tab active" data-tab="daily">Daily MTD</button>
+      <button class="tab" data-tab="monthly">Monthly Trend</button>
+      <button class="tab" data-tab="alerts">Alerts (8)</button>
+    </div>
+
+    <div class="panel active" id="panel-daily">
+      <div class="panel-header">
+        <div class="panel-title">December 2025 — Daily Invoice Count</div>
+        <div class="legend"><span class="legend-line"></span> Avg 289/day</div>
+      </div>
+      <div class="chart-container" id="daily-chart"></div>
+      <div class="info-box">Weekend days shown at reduced opacity. Orange dashed line = daily average (289 invoices).</div>
+      <div class="stat-grid">
+        <div class="stat-box"><div class="stat-label">MTD Total</div><div class="stat-value">4,917</div></div>
+        <div class="stat-box"><div class="stat-label">Daily Avg</div><div class="stat-value">289</div></div>
+        <div class="stat-box"><div class="stat-label">Peak Day</div><div class="stat-value">12/16</div></div>
+        <div class="stat-box"><div class="stat-label">Peak Volume</div><div class="stat-value">425</div></div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-monthly">
+      <div class="panel-header">
+        <div class="panel-title">Monthly Invoice Volume</div>
+        <select class="select" id="vendor-select">
+          <option value="All Vendors">All Vendors</option>
+          <option value="Waste Management">Waste Management</option>
+          <option value="Republic Services">Republic Services</option>
+          <option value="GFL Environmental">GFL Environmental</option>
+          <option value="Rumpke">Rumpke</option>
+        </select>
+      </div>
+      <div class="chart-container" id="monthly-chart"></div>
+      <div class="info-box">Showing completed months only (Jan - Nov 2025).</div>
+      <div class="stat-grid">
+        <div class="stat-box"><div class="stat-label">YTD Total</div><div class="stat-value" id="stat-ytd">159,850</div></div>
+        <div class="stat-box"><div class="stat-label">Monthly Avg</div><div class="stat-value" id="stat-monthly-avg">14,532</div></div>
+        <div class="stat-box"><div class="stat-label">Peak Month</div><div class="stat-value" id="stat-peak-month">Nov</div></div>
+        <div class="stat-box"><div class="stat-label">Peak Volume</div><div class="stat-value" id="stat-peak-vol">16,200</div></div>
+      </div>
+    </div>
+
+    <div class="panel" id="panel-alerts">
+      <div class="panel-header">
+        <div class="panel-title">Vendors Below 25% (Oct → Nov)</div>
+        <div style="font-size: 11px; color: #64748b;">8 vendors flagged</div>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Vendor</th>
+            <th class="right">Oct Count</th>
+            <th class="right">Nov Count</th>
+            <th class="right">% of Prior</th>
+            <th class="right">Status</th>
+          </tr>
+        </thead>
+        <tbody id="alerts-table"></tbody>
+      </table>
+      <div class="alert-box">⚠ Action Required: Investigate why these vendors have reduced invoice volume. Common causes: vendor contract ended, billing address changed, invoices routing to wrong location.</div>
+      <div class="info-box">Alerts trigger on month close only. Compares last two completed months.</div>
+    </div>
+  </div>
+
+  <script>
+    // ============================================================
+    // SAMPLE DATA - Replace with your actual data
+    // ============================================================
+    var dailyData = [
+      { day: '12/1', count: 245, isWeekend: true },
+      { day: '12/2', count: 312, isWeekend: false },
+      { day: '12/3', count: 289, isWeekend: false },
+      { day: '12/4', count: 278, isWeekend: false },
+      { day: '12/5', count: 265, isWeekend: false },
+      { day: '12/6', count: 298, isWeekend: true },
+      { day: '12/7', count: 87, isWeekend: true },
+      { day: '12/8', count: 52, isWeekend: true },
+      { day: '12/9', count: 356, isWeekend: false },
+      { day: '12/10', count: 378, isWeekend: false },
+      { day: '12/11', count: 345, isWeekend: false },
+      { day: '12/12', count: 389, isWeekend: false },
+      { day: '12/13', count: 312, isWeekend: true },
+      { day: '12/14', count: 95, isWeekend: true },
+      { day: '12/15', count: 118, isWeekend: true },
+      { day: '12/16', count: 425, isWeekend: false },
+      { day: '12/17', count: 398, isWeekend: false }
+    ];
+
+    var monthlyData = {
+      'All Vendors': [
+        { month: 'Jan', count: 12450 }, { month: 'Feb', count: 13200 }, { month: 'Mar', count: 14100 },
+        { month: 'Apr', count: 13800 }, { month: 'May', count: 14500 }, { month: 'Jun', count: 15200 },
+        { month: 'Jul', count: 14800 }, { month: 'Aug', count: 15600 }, { month: 'Sep', count: 14200 },
+        { month: 'Oct', count: 15800 }, { month: 'Nov', count: 16200 }
+      ],
+      'Waste Management': [
+        { month: 'Jan', count: 2450 }, { month: 'Feb', count: 2600 }, { month: 'Mar', count: 2800 },
+        { month: 'Apr', count: 2700 }, { month: 'May', count: 2900 }, { month: 'Jun', count: 3100 },
+        { month: 'Jul', count: 2950 }, { month: 'Aug', count: 3200 }, { month: 'Sep', count: 2850 },
+        { month: 'Oct', count: 3150 }, { month: 'Nov', count: 3300 }
+      ],
+      'Republic Services': [
+        { month: 'Jan', count: 1850 }, { month: 'Feb', count: 1920 }, { month: 'Mar', count: 2100 },
+        { month: 'Apr', count: 2050 }, { month: 'May', count: 2200 }, { month: 'Jun', count: 2350 },
+        { month: 'Jul', count: 2280 }, { month: 'Aug', count: 2400 }, { month: 'Sep', count: 2150 },
+        { month: 'Oct', count: 2380 }, { month: 'Nov', count: 2500 }
+      ],
+      'GFL Environmental': [
+        { month: 'Jan', count: 1200 }, { month: 'Feb', count: 1350 }, { month: 'Mar', count: 1420 },
+        { month: 'Apr', count: 1380 }, { month: 'May', count: 1500 }, { month: 'Jun', count: 1580 },
+        { month: 'Jul', count: 1520 }, { month: 'Aug', count: 1650 }, { month: 'Sep', count: 1480 },
+        { month: 'Oct', count: 1620 }, { month: 'Nov', count: 1700 }
+      ],
+      'Rumpke': [
+        { month: 'Jan', count: 980 }, { month: 'Feb', count: 1050 }, { month: 'Mar', count: 1120 },
+        { month: 'Apr', count: 1080 }, { month: 'May', count: 1150 }, { month: 'Jun', count: 1200 },
+        { month: 'Jul', count: 1180 }, { month: 'Aug', count: 1250 }, { month: 'Sep', count: 1100 },
+        { month: 'Oct', count: 1230 }, { month: 'Nov', count: 1280 }
+      ]
+    };
+
+    var alertsData = [
+      { vendor: 'ABC Disposal Services', priorCount: 120, currentCount: 15, pct: 12.5 },
+      { vendor: 'XYZ Waste Solutions', priorCount: 85, currentCount: 12, pct: 14.1 },
+      { vendor: 'Metro Recycling Inc', priorCount: 64, currentCount: 8, pct: 12.5 },
+      { vendor: 'City Sanitation Corp', priorCount: 52, currentCount: 10, pct: 19.2 },
+      { vendor: 'Green Earth Disposal', priorCount: 45, currentCount: 5, pct: 11.1 },
+      { vendor: 'Premier Waste Mgmt', priorCount: 38, currentCount: 7, pct: 18.4 },
+      { vendor: 'County Trash Services', priorCount: 42, currentCount: 9, pct: 21.4 },
+      { vendor: 'Suburban Hauling LLC', priorCount: 35, currentCount: 6, pct: 17.1 }
+    ];
+
+    // ============================================================
+    // TAB SWITCHING
+    // ============================================================
+    document.querySelectorAll('.tab').forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
+        document.querySelectorAll('.panel').forEach(function(p) { p.classList.remove('active'); });
+        tab.classList.add('active');
+        document.getElementById('panel-' + tab.dataset.tab).classList.add('active');
+      });
+    });
+
+    // ============================================================
+    // DAILY BAR CHART
+    // ============================================================
+    function renderDailyChart() {
+      var container = document.getElementById('daily-chart');
+      var width = container.clientWidth || 900;
+      var height = 320;
+      var padding = { top: 20, right: 30, bottom: 50, left: 50 };
+      var chartWidth = width - padding.left - padding.right;
+      var chartHeight = height - padding.top - padding.bottom;
+
+      var maxCount = Math.max.apply(null, dailyData.map(function(d) { return d.count; })) || 1;
+      maxCount = Math.ceil(maxCount / 100) * 100 + 50;
+      var barWidth = Math.floor(chartWidth / dailyData.length) - 6;
+      var dailyAvg = Math.round(dailyData.reduce(function(s, d) { return s + d.count; }, 0) / dailyData.length);
+
+      var svg = '<svg width="' + width + '" height="' + height + '">';
+      
+      // Grid lines and Y axis labels
+      for (var i = 0; i <= 4; i++) {
+        var y = padding.top + (chartHeight / 4) * i;
+        var val = Math.round(maxCount - (maxCount / 4) * i);
+        svg += '<line x1="' + padding.left + '" y1="' + y + '" x2="' + (width - padding.right) + '" y2="' + y + '" stroke="#3d4f63" stroke-dasharray="3,3"/>';
+        svg += '<text x="' + (padding.left - 10) + '" y="' + (y + 4) + '" fill="#64748b" font-size="11" text-anchor="end">' + val + '</text>';
+      }
+
+      // Bars
+      dailyData.forEach(function(d, idx) {
+        var x = padding.left + idx * (chartWidth / dailyData.length) + 3;
+        var barHeight = (d.count / maxCount) * chartHeight;
+        var yPos = padding.top + chartHeight - barHeight;
+        var opacity = d.isWeekend ? 0.4 : 1;
+        svg += '<rect x="' + x + '" y="' + yPos + '" width="' + barWidth + '" height="' + barHeight + '" fill="#4A9B52" opacity="' + opacity + '" rx="3"/>';
+        svg += '<text x="' + (x + barWidth / 2) + '" y="' + (height - 15) + '" fill="#64748b" font-size="10" text-anchor="middle">' + d.day + '</text>';
+      });
+
+      // Average line
+      var avgY = padding.top + chartHeight - (dailyAvg / maxCount) * chartHeight;
+      svg += '<line x1="' + padding.left + '" y1="' + avgY + '" x2="' + (width - padding.right) + '" y2="' + avgY + '" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,4"/>';
+
+      svg += '</svg>';
+      container.innerHTML = svg;
+    }
+
+    // ============================================================
+    // MONTHLY LINE CHART
+    // ============================================================
+    function renderMonthlyChart(vendor) {
+      var data = monthlyData[vendor] || [];
+      var container = document.getElementById('monthly-chart');
+      var width = container.clientWidth || 900;
+      var height = 320;
+      var padding = { top: 20, right: 30, bottom: 50, left: 60 };
+      var chartWidth = width - padding.left - padding.right;
+      var chartHeight = height - padding.top - padding.bottom;
+
+      if (!data.length) {
+        container.innerHTML = '<div style="text-align:center;padding:80px;color:#64748b;">No data</div>';
+        return;
+      }
+
+      var maxCount = Math.max.apply(null, data.map(function(d) { return d.count; })) || 1;
+      maxCount = Math.ceil(maxCount / 1000) * 1000 + 500;
+      var ytd = data.reduce(function(s, d) { return s + d.count; }, 0);
+      var avg = Math.round(ytd / data.length);
+      var peak = data.reduce(function(m, d) { return d.count > m.count ? d : m; });
+
+      document.getElementById('stat-ytd').textContent = ytd.toLocaleString();
+      document.getElementById('stat-monthly-avg').textContent = avg.toLocaleString();
+      document.getElementById('stat-peak-month').textContent = peak.month;
+      document.getElementById('stat-peak-vol').textContent = peak.count.toLocaleString();
+
+      var svg = '<svg width="' + width + '" height="' + height + '">';
+      
+      // Grid
+      for (var i = 0; i <= 4; i++) {
+        var y = padding.top + (chartHeight / 4) * i;
+        var val = maxCount - (maxCount / 4) * i;
+        var label = val >= 1000 ? (val / 1000).toFixed(0) + 'k' : Math.round(val);
+        svg += '<line x1="' + padding.left + '" y1="' + y + '" x2="' + (width - padding.right) + '" y2="' + y + '" stroke="#3d4f63" stroke-dasharray="3,3"/>';
+        svg += '<text x="' + (padding.left - 10) + '" y="' + (y + 4) + '" fill="#64748b" font-size="11" text-anchor="end">' + label + '</text>';
+      }
+
+      // Line path
+      var path = '';
+      var points = [];
+      data.forEach(function(d, idx) {
+        var x = padding.left + (idx / (data.length - 1 || 1)) * chartWidth;
+        var yPos = padding.top + chartHeight - (d.count / maxCount) * chartHeight;
+        points.push({ x: x, y: yPos, month: d.month, count: d.count });
+        path += (idx === 0 ? 'M' : 'L') + x + ',' + yPos;
+      });
+      svg += '<path d="' + path + '" fill="none" stroke="#4A9B52" stroke-width="2.5"/>';
+
+      // Dots and labels
+      points.forEach(function(p) {
+        svg += '<circle cx="' + p.x + '" cy="' + p.y + '" r="5" fill="#4A9B52"/>';
+        svg += '<circle cx="' + p.x + '" cy="' + p.y + '" r="3" fill="#2a3a4d"/>';
+        svg += '<text x="' + p.x + '" y="' + (height - 15) + '" fill="#64748b" font-size="11" text-anchor="middle">' + p.month + '</text>';
+      });
+
+      svg += '</svg>';
+      container.innerHTML = svg;
+    }
+
+    // ============================================================
+    // ALERTS TABLE
+    // ============================================================
+    function renderAlerts() {
+      var tbody = document.getElementById('alerts-table');
+      var html = '';
+      alertsData.forEach(function(r) {
+        var drop = (100 - r.pct).toFixed(0);
+        html += '<tr>';
+        html += '<td>' + r.vendor + '</td>';
+        html += '<td class="right muted">' + r.priorCount + '</td>';
+        html += '<td class="right red">' + r.currentCount + '</td>';
+        html += '<td class="right red">' + r.pct.toFixed(1) + '%</td>';
+        html += '<td class="right"><span class="badge">↓ ' + drop + '% drop</span></td>';
+        html += '</tr>';
+      });
+      tbody.innerHTML = html;
+    }
+
+    // ============================================================
+    // VENDOR SELECT
+    // ============================================================
+    document.getElementById('vendor-select').addEventListener('change', function() {
+      renderMonthlyChart(this.value);
+    });
+
+    // ============================================================
+    // INIT
+    // ============================================================
+    renderDailyChart();
+    renderMonthlyChart('All Vendors');
+    renderAlerts();
+
+    window.addEventListener('resize', function() {
+      renderDailyChart();
+      renderMonthlyChart(document.getElementById('vendor-select').value);
+    });
+  </script>
+</body>
+</html>
