@@ -126,7 +126,7 @@
       <img src="logo.png" alt="Wasteology" class="logo">
       <div>
         <div class="title">Incoming Bills</div>
-        <div class="subtitle">Invoice volume monitoring &bull; Data through <span id="data-date">--</span></div>
+        <div class="subtitle">Invoice volume monitoring &bull; Data through <span id="data-date">--</span> &bull; Excludes Obsolete &amp; Duplicate status</div>
       </div>
     </div>
 
@@ -174,10 +174,10 @@
       <div class="chart-container">
         <canvas id="daily-chart"></canvas>
       </div>
-      <div class="info-box">Weekend days shown at reduced opacity. Orange dashed line = daily average.</div>
+      <div class="info-box">Weekend days shown at reduced opacity. Orange dashed line = YTD daily average.</div>
       <div class="stat-grid">
         <div class="stat-box"><div class="stat-label">MTD Total</div><div class="stat-value" id="stat-mtd-total">--</div></div>
-        <div class="stat-box"><div class="stat-label">Daily Avg</div><div class="stat-value" id="stat-daily-avg">--</div></div>
+        <div class="stat-box"><div class="stat-label">YTD Daily Avg</div><div class="stat-value" id="stat-daily-avg">--</div></div>
         <div class="stat-box"><div class="stat-label">Peak Day</div><div class="stat-value" id="stat-peak-day">--</div></div>
         <div class="stat-box"><div class="stat-label">Peak Volume</div><div class="stat-value" id="stat-peak-volume">--</div></div>
       </div>
@@ -285,6 +285,11 @@
           };
         });
         
+        // Remove the most recent day (current day - show day -1 as most recent)
+        if (dailyDataAll.length > 0) {
+          dailyDataAll.pop();
+        }
+        
         // Get available months
         var monthOrder = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         var monthsInData = [...new Set(dailyDataAll.map(d => d.month))];
@@ -293,7 +298,14 @@
         // Parse monthly data
         var monthlyRows = parseCSV(results[1]);
         monthlyData = {};
+        
+        // Get current month to exclude
+        var currentMonth = monthOrder[new Date().getMonth()];
+        
         monthlyRows.forEach(function(r) {
+          // Skip current month
+          if (r.month === currentMonth) return;
+          
           var vendor = r.vendor;
           if (!monthlyData[vendor]) monthlyData[vendor] = [];
           monthlyData[vendor].push({
@@ -357,6 +369,9 @@
       });
       vendorTotals.sort(function(a, b) { return b.total - a.total; });
       
+      // Limit to top 20
+      var top20 = vendorTotals.slice(0, 20);
+      
       var allOpt = document.createElement('option');
       allOpt.value = 'All Vendors';
       allOpt.textContent = 'All Vendors';
@@ -367,7 +382,7 @@
       sep.textContent = '-- Top 20 by Volume --';
       select.appendChild(sep);
       
-      vendorTotals.forEach(function(v) {
+      top20.forEach(function(v) {
         var opt = document.createElement('option');
         opt.value = v.vendor;
         opt.textContent = v.vendor;
@@ -430,13 +445,16 @@
       var backgroundColors = dailyData.map(d => d.isWeekend ? 'rgba(74, 155, 82, 0.4)' : 'rgba(74, 155, 82, 1)');
       
       var mtdTotal = counts.reduce((s, c) => s + c, 0);
-      var dailyAvg = Math.round(mtdTotal / counts.length);
       var peakIdx = counts.indexOf(Math.max(...counts));
+      
+      // Calculate YTD daily average (from all data, not just current month)
+      var ytdTotal = dailyDataAll.reduce((s, d) => s + d.count, 0);
+      var ytdDailyAvg = Math.round(ytdTotal / dailyDataAll.length);
 
       // Update stats
-      document.getElementById('daily-avg-label').textContent = 'Avg ' + dailyAvg + '/day';
+      document.getElementById('daily-avg-label').textContent = 'YTD Avg ' + ytdDailyAvg + '/day';
       document.getElementById('stat-mtd-total').textContent = mtdTotal.toLocaleString();
-      document.getElementById('stat-daily-avg').textContent = dailyAvg.toLocaleString();
+      document.getElementById('stat-daily-avg').textContent = ytdDailyAvg.toLocaleString();
       document.getElementById('stat-peak-day').textContent = labels[peakIdx];
       document.getElementById('stat-peak-volume').textContent = Math.max(...counts).toLocaleString();
 
@@ -488,7 +506,7 @@
           afterDraw: function(chart) {
             var yAxis = chart.scales.y;
             var ctx = chart.ctx;
-            var y = yAxis.getPixelForValue(dailyAvg);
+            var y = yAxis.getPixelForValue(ytdDailyAvg);
             ctx.save();
             ctx.strokeStyle = '#f59e0b';
             ctx.lineWidth = 2;
