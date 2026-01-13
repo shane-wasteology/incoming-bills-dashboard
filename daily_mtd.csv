@@ -1,326 +1,345 @@
-month,day,isWeekend,count
-Jan,Jan 01,false,220
-Jan,Jan 02,false,1318
-Jan,Jan 03,false,804
-Jan,Jan 04,true,67
-Jan,Jan 05,true,37
-Jan,Jan 06,false,1166
-Jan,Jan 07,false,423
-Jan,Jan 08,false,285
-Jan,Jan 09,false,715
-Jan,Jan 10,false,322
-Jan,Jan 11,true,18
-Jan,Jan 12,true,9
-Jan,Jan 13,false,243
-Jan,Jan 14,false,389
-Jan,Jan 15,false,482
-Jan,Jan 16,false,635
-Jan,Jan 17,false,1030
-Jan,Jan 18,true,20
-Jan,Jan 19,true,59
-Jan,Jan 20,false,649
-Jan,Jan 21,false,202
-Jan,Jan 22,false,210
-Jan,Jan 23,false,293
-Jan,Jan 24,false,218
-Jan,Jan 25,true,37
-Jan,Jan 26,true,102
-Jan,Jan 27,false,433
-Jan,Jan 28,false,401
-Jan,Jan 29,false,282
-Jan,Jan 30,false,636
-Jan,Jan 31,false,575
-Feb,Feb 01,true,305
-Feb,Feb 02,true,148
-Feb,Feb 03,false,987
-Feb,Feb 04,false,1601
-Feb,Feb 05,false,649
-Feb,Feb 06,false,430
-Feb,Feb 07,false,181
-Feb,Feb 08,true,43
-Feb,Feb 09,true,1
-Feb,Feb 10,false,495
-Feb,Feb 11,false,671
-Feb,Feb 12,false,396
-Feb,Feb 13,false,346
-Feb,Feb 14,false,421
-Feb,Feb 15,true,21
-Feb,Feb 16,true,163
-Feb,Feb 17,false,253
-Feb,Feb 18,false,1092
-Feb,Feb 19,false,165
-Feb,Feb 20,false,287
-Feb,Feb 21,false,546
-Feb,Feb 22,true,16
-Feb,Feb 23,true,9
-Feb,Feb 24,false,364
-Feb,Feb 25,false,362
-Feb,Feb 26,false,375
-Feb,Feb 27,false,454
-Feb,Feb 28,false,698
-Mar,Mar 01,true,474
-Mar,Mar 02,true,134
-Mar,Mar 03,false,1334
-Mar,Mar 04,false,1722
-Mar,Mar 05,false,698
-Mar,Mar 06,false,692
-Mar,Mar 07,false,217
-Mar,Mar 08,true,2
-Mar,Mar 09,true,28
-Mar,Mar 10,false,461
-Mar,Mar 11,false,410
-Mar,Mar 12,false,534
-Mar,Mar 13,false,320
-Mar,Mar 14,false,179
-Mar,Mar 15,true,70
-Mar,Mar 16,true,15
-Mar,Mar 17,false,391
-Mar,Mar 18,false,1101
-Mar,Mar 19,false,218
-Mar,Mar 20,false,359
-Mar,Mar 21,false,221
-Mar,Mar 22,true,349
-Mar,Mar 23,true,46
-Mar,Mar 24,false,304
-Mar,Mar 25,false,204
-Mar,Mar 27,false,737
-Mar,Mar 28,false,274
-Mar,Mar 29,true,72
-Mar,Mar 30,true,15
-Mar,Mar 31,false,275
-Apr,Apr 01,false,2020
-Apr,Apr 02,false,1045
-Apr,Apr 03,false,1196
-Apr,Apr 04,false,779
-Apr,Apr 05,true,34
-Apr,Apr 07,false,324
-Apr,Apr 08,false,894
-Apr,Apr 09,false,641
-Apr,Apr 10,false,249
-Apr,Apr 11,false,156
-Apr,Apr 12,true,18
-Apr,Apr 13,true,43
-Apr,Apr 14,false,287
-Apr,Apr 15,false,218
-Apr,Apr 16,false,601
-Apr,Apr 17,false,1244
-Apr,Apr 18,false,484
-Apr,Apr 19,true,19
-Apr,Apr 20,true,12
-Apr,Apr 21,false,339
-Apr,Apr 22,false,186
-Apr,Apr 23,false,236
-Apr,Apr 24,false,140
-Apr,Apr 25,false,264
-Apr,Apr 26,true,38
-Apr,Apr 27,true,49
-Apr,Apr 28,false,404
-Apr,Apr 29,false,639
-Apr,Apr 30,false,662
-May,May 01,false,622
-May,May 02,false,2086
-May,May 03,true,155
-May,May 04,true,44
-May,May 05,false,1045
-May,May 06,false,672
-May,May 07,false,84
-May,May 09,false,319
-May,May 10,true,17
-May,May 11,true,38
-May,May 12,false,236
-May,May 13,false,374
-May,May 14,false,579
-May,May 15,false,603
-May,May 16,false,299
-May,May 19,false,846
-May,May 20,false,1186
-May,May 21,false,416
-May,May 22,false,353
-May,May 23,false,254
-May,May 24,true,48
-May,May 25,true,13
-May,May 26,false,11
-May,May 27,false,281
-May,May 28,false,495
-May,May 29,false,602
-May,May 30,false,780
-May,May 31,true,110
-Jun,Jun 01,true,137
-Jun,Jun 02,false,1246
-Jun,Jun 03,false,1414
-Jun,Jun 04,false,1071
-Jun,Jun 05,false,373
-Jun,Jun 06,false,262
-Jun,Jun 07,true,10
-Jun,Jun 08,true,17
-Jun,Jun 09,false,732
-Jun,Jun 10,false,755
-Jun,Jun 11,false,434
-Jun,Jun 12,false,210
-Jun,Jun 13,false,162
-Jun,Jun 14,true,45
-Jun,Jun 15,true,42
-Jun,Jun 16,false,768
-Jun,Jun 17,false,352
-Jun,Jun 18,false,1137
-Jun,Jun 19,false,608
-Jun,Jun 20,false,209
-Jun,Jun 21,true,4
-Jun,Jun 22,true,17
-Jun,Jun 23,false,330
-Jun,Jun 24,false,186
-Jun,Jun 25,false,211
-Jun,Jun 26,false,409
-Jun,Jun 27,false,467
-Jun,Jun 28,true,18
-Jun,Jun 29,true,20
-Jun,Jun 30,false,767
-Jul,Jul 01,false,1406
-Jul,Jul 02,false,2045
-Jul,Jul 03,false,729
-Jul,Jul 04,false,36
-Jul,Jul 05,true,20
-Jul,Jul 06,true,50
-Jul,Jul 07,false,1033
-Jul,Jul 08,false,471
-Jul,Jul 09,false,519
-Jul,Jul 10,false,392
-Jul,Jul 11,false,278
-Jul,Jul 12,true,42
-Jul,Jul 13,true,31
-Jul,Jul 14,false,183
-Jul,Jul 15,false,736
-Jul,Jul 16,false,488
-Jul,Jul 17,false,76
-Jul,Jul 18,false,165
-Jul,Jul 21,false,352
-Jul,Jul 22,false,1046
-Jul,Jul 23,false,613
-Jul,Jul 24,false,181
-Jul,Jul 25,false,214
-Jul,Jul 26,true,10
-Jul,Jul 27,true,25
-Jul,Jul 28,false,275
-Jul,Jul 29,false,410
-Jul,Jul 30,false,308
-Jul,Jul 31,false,1205
-Aug,Aug 01,false,1069
-Aug,Aug 02,true,159
-Aug,Aug 03,true,84
-Aug,Aug 04,false,1172
-Aug,Aug 05,false,362
-Aug,Aug 06,false,1700
-Aug,Aug 07,false,250
-Aug,Aug 08,false,187
-Aug,Aug 13,false,1214
-Aug,Aug 14,false,240
-Aug,Aug 15,false,210
-Aug,Aug 18,false,1225
-Aug,Aug 19,false,101
-Aug,Aug 20,false,365
-Aug,Aug 21,false,597
-Aug,Aug 22,false,234
-Aug,Aug 23,true,4
-Aug,Aug 24,true,72
-Aug,Aug 25,false,188
-Aug,Aug 26,false,362
-Aug,Aug 27,false,222
-Aug,Aug 28,false,155
-Sep,Sep 02,false,1887
-Sep,Sep 03,false,1509
-Sep,Sep 04,false,564
-Sep,Sep 05,false,596
-Sep,Sep 06,true,28
-Sep,Sep 07,true,13
-Sep,Sep 08,false,196
-Sep,Sep 09,false,446
-Sep,Sep 10,false,85
-Sep,Sep 11,false,44
-Sep,Sep 12,false,429
-Sep,Sep 13,true,27
-Sep,Sep 14,true,20
-Sep,Sep 15,false,401
-Sep,Sep 16,false,566
-Sep,Sep 17,false,402
-Sep,Sep 18,false,126
-Sep,Sep 19,false,559
-Sep,Sep 20,true,13
-Sep,Sep 23,false,459
-Sep,Sep 24,false,1169
-Sep,Sep 25,false,1371
-Sep,Sep 27,true,165
-Sep,Sep 29,false,1104
-Sep,Sep 30,false,955
-Oct,Oct 01,false,688
-Oct,Oct 02,false,1542
-Oct,Oct 03,false,586
-Oct,Oct 04,true,66
-Oct,Oct 05,true,1
-Oct,Oct 07,false,788
-Oct,Oct 08,false,326
-Oct,Oct 09,false,104
-Oct,Oct 10,false,1887
-Oct,Oct 14,false,627
-Oct,Oct 15,false,175
-Oct,Oct 17,false,382
-Oct,Oct 18,true,513
-Oct,Oct 19,true,519
-Oct,Oct 20,false,529
-Oct,Oct 21,false,579
-Oct,Oct 22,false,720
-Oct,Oct 23,false,257
-Oct,Oct 24,false,963
-Oct,Oct 25,true,74
-Oct,Oct 26,true,102
-Oct,Oct 27,false,259
-Oct,Oct 28,false,401
-Oct,Oct 29,false,539
-Oct,Oct 30,false,261
-Oct,Oct 31,false,1011
-Nov,Nov 01,true,233
-Nov,Nov 02,true,184
-Nov,Nov 03,false,1633
-Nov,Nov 04,false,1978
-Nov,Nov 05,false,1415
-Nov,Nov 06,false,482
-Nov,Nov 07,false,507
-Nov,Nov 08,true,9
-Nov,Nov 10,false,555
-Nov,Nov 11,false,297
-Nov,Nov 12,false,350
-Nov,Nov 13,false,275
-Nov,Nov 14,false,104
-Nov,Nov 15,true,229
-Nov,Nov 17,false,493
-Nov,Nov 18,false,497
-Nov,Nov 19,false,977
-Nov,Nov 20,false,451
-Nov,Nov 21,false,194
-Nov,Nov 22,true,37
-Nov,Nov 23,true,106
-Nov,Nov 24,false,552
-Nov,Nov 25,false,499
-Nov,Nov 26,false,227
-Nov,Nov 27,false,13
-Nov,Nov 28,false,834
-Nov,Nov 29,true,98
-Nov,Nov 30,true,297
-Dec,Dec 01,false,2191
-Dec,Dec 02,false,1860
-Dec,Dec 03,false,1217
-Dec,Dec 04,false,603
-Dec,Dec 05,false,605
-Dec,Dec 06,true,39
-Dec,Dec 07,true,97
-Dec,Dec 08,false,628
-Dec,Dec 09,false,297
-Dec,Dec 10,false,448
-Dec,Dec 11,false,392
-Dec,Dec 12,false,282
-Dec,Dec 13,true,4
-Dec,Dec 14,true,1
-Dec,Dec 15,false,427
-Dec,Dec 16,false,850
-Dec,Dec 17,false,499
-Dec,Dec 18,false,617
-Dec,Dec 19,false,496
+month,day,count,isWeekend
+Jan,1/1,220,false
+Jan,1/2,1318,false
+Jan,1/3,804,false
+Jan,1/4,67,true
+Jan,1/5,37,true
+Jan,1/6,1166,false
+Jan,1/7,423,false
+Jan,1/8,285,false
+Jan,1/9,715,false
+Jan,1/10,322,false
+Jan,1/11,18,true
+Jan,1/12,9,true
+Jan,1/13,243,false
+Jan,1/14,389,false
+Jan,1/15,482,false
+Jan,1/16,635,false
+Jan,1/17,1030,false
+Jan,1/18,20,true
+Jan,1/19,59,true
+Jan,1/20,649,false
+Jan,1/21,202,false
+Jan,1/22,210,false
+Jan,1/23,293,false
+Jan,1/24,218,false
+Jan,1/25,37,true
+Jan,1/26,102,true
+Jan,1/27,433,false
+Jan,1/28,401,false
+Jan,1/29,282,false
+Jan,1/30,636,false
+Jan,1/31,576,false
+Feb,2/1,305,true
+Feb,2/2,148,true
+Feb,2/3,987,false
+Feb,2/4,1601,false
+Feb,2/5,649,false
+Feb,2/6,430,false
+Feb,2/7,181,false
+Feb,2/8,43,true
+Feb,2/9,1,true
+Feb,2/10,495,false
+Feb,2/11,671,false
+Feb,2/12,396,false
+Feb,2/13,346,false
+Feb,2/14,421,false
+Feb,2/15,21,true
+Feb,2/16,163,true
+Feb,2/17,253,false
+Feb,2/18,1092,false
+Feb,2/19,165,false
+Feb,2/20,287,false
+Feb,2/21,546,false
+Feb,2/22,16,true
+Feb,2/23,9,true
+Feb,2/24,364,false
+Feb,2/25,362,false
+Feb,2/26,375,false
+Feb,2/27,454,false
+Feb,2/28,698,false
+Mar,3/1,474,true
+Mar,3/2,134,true
+Mar,3/3,1334,false
+Mar,3/4,1722,false
+Mar,3/5,698,false
+Mar,3/6,692,false
+Mar,3/7,217,false
+Mar,3/8,2,true
+Mar,3/9,28,true
+Mar,3/10,461,false
+Mar,3/11,410,false
+Mar,3/12,534,false
+Mar,3/13,320,false
+Mar,3/14,179,false
+Mar,3/15,70,true
+Mar,3/16,15,true
+Mar,3/17,391,false
+Mar,3/18,1101,false
+Mar,3/19,218,false
+Mar,3/20,359,false
+Mar,3/21,221,false
+Mar,3/22,349,true
+Mar,3/23,46,true
+Mar,3/24,304,false
+Mar,3/25,204,false
+Mar,3/27,737,false
+Mar,3/28,274,false
+Mar,3/29,72,true
+Mar,3/30,15,true
+Mar,3/31,275,false
+Apr,4/1,2020,false
+Apr,4/2,1045,false
+Apr,4/3,1196,false
+Apr,4/4,779,false
+Apr,4/5,34,true
+Apr,4/7,324,false
+Apr,4/8,894,false
+Apr,4/9,641,false
+Apr,4/10,249,false
+Apr,4/11,156,false
+Apr,4/12,18,true
+Apr,4/13,43,true
+Apr,4/14,287,false
+Apr,4/15,218,false
+Apr,4/16,601,false
+Apr,4/17,1244,false
+Apr,4/18,484,false
+Apr,4/19,19,true
+Apr,4/20,12,true
+Apr,4/21,339,false
+Apr,4/22,186,false
+Apr,4/23,236,false
+Apr,4/24,140,false
+Apr,4/25,264,false
+Apr,4/26,38,true
+Apr,4/27,49,true
+Apr,4/28,404,false
+Apr,4/29,639,false
+Apr,4/30,662,false
+May,5/1,622,false
+May,5/2,2086,false
+May,5/3,155,true
+May,5/4,44,true
+May,5/5,1045,false
+May,5/6,672,false
+May,5/7,84,false
+May,5/9,319,false
+May,5/10,17,true
+May,5/11,38,true
+May,5/12,236,false
+May,5/13,374,false
+May,5/14,579,false
+May,5/15,603,false
+May,5/16,299,false
+May,5/19,846,false
+May,5/20,1186,false
+May,5/21,416,false
+May,5/22,353,false
+May,5/23,254,false
+May,5/24,48,true
+May,5/25,13,true
+May,5/26,11,false
+May,5/27,281,false
+May,5/28,495,false
+May,5/29,602,false
+May,5/30,780,false
+May,5/31,110,true
+Jun,6/1,137,true
+Jun,6/2,1246,false
+Jun,6/3,1414,false
+Jun,6/4,1071,false
+Jun,6/5,374,false
+Jun,6/6,262,false
+Jun,6/7,10,true
+Jun,6/8,17,true
+Jun,6/9,732,false
+Jun,6/10,755,false
+Jun,6/11,434,false
+Jun,6/12,210,false
+Jun,6/13,162,false
+Jun,6/14,45,true
+Jun,6/15,42,true
+Jun,6/16,768,false
+Jun,6/17,352,false
+Jun,6/18,1137,false
+Jun,6/19,608,false
+Jun,6/20,209,false
+Jun,6/21,4,true
+Jun,6/22,17,true
+Jun,6/23,330,false
+Jun,6/24,186,false
+Jun,6/25,211,false
+Jun,6/26,409,false
+Jun,6/27,467,false
+Jun,6/28,18,true
+Jun,6/29,20,true
+Jun,6/30,767,false
+Jul,7/1,1406,false
+Jul,7/2,2045,false
+Jul,7/3,729,false
+Jul,7/4,36,false
+Jul,7/5,20,true
+Jul,7/6,50,true
+Jul,7/7,1033,false
+Jul,7/8,471,false
+Jul,7/9,519,false
+Jul,7/10,392,false
+Jul,7/11,278,false
+Jul,7/12,42,true
+Jul,7/13,31,true
+Jul,7/14,183,false
+Jul,7/15,736,false
+Jul,7/16,488,false
+Jul,7/17,76,false
+Jul,7/18,165,false
+Jul,7/21,352,false
+Jul,7/22,1046,false
+Jul,7/23,613,false
+Jul,7/24,181,false
+Jul,7/25,214,false
+Jul,7/26,10,true
+Jul,7/27,25,true
+Jul,7/28,275,false
+Jul,7/29,410,false
+Jul,7/30,308,false
+Jul,7/31,1205,false
+Aug,8/1,1069,false
+Aug,8/2,159,true
+Aug,8/3,84,true
+Aug,8/4,1172,false
+Aug,8/5,362,false
+Aug,8/6,1700,false
+Aug,8/7,250,false
+Aug,8/8,187,false
+Aug,8/13,1214,false
+Aug,8/14,240,false
+Aug,8/15,210,false
+Aug,8/18,1225,false
+Aug,8/19,101,false
+Aug,8/20,365,false
+Aug,8/21,597,false
+Aug,8/22,234,false
+Aug,8/23,4,true
+Aug,8/24,72,true
+Aug,8/25,188,false
+Aug,8/26,361,false
+Aug,8/27,222,false
+Aug,8/28,155,false
+Sep,9/2,1887,false
+Sep,9/3,1509,false
+Sep,9/4,564,false
+Sep,9/5,596,false
+Sep,9/6,28,true
+Sep,9/7,13,true
+Sep,9/8,196,false
+Sep,9/9,446,false
+Sep,9/10,85,false
+Sep,9/11,44,false
+Sep,9/12,428,false
+Sep,9/13,27,true
+Sep,9/14,20,true
+Sep,9/15,401,false
+Sep,9/16,566,false
+Sep,9/17,402,false
+Sep,9/18,126,false
+Sep,9/19,559,false
+Sep,9/20,13,true
+Sep,9/23,459,false
+Sep,9/24,1170,false
+Sep,9/25,1371,false
+Sep,9/27,165,true
+Sep,9/29,1104,false
+Sep,9/30,954,false
+Oct,10/1,688,false
+Oct,10/2,1543,false
+Oct,10/3,587,false
+Oct,10/4,66,true
+Oct,10/5,1,true
+Oct,10/7,788,false
+Oct,10/8,326,false
+Oct,10/9,104,false
+Oct,10/10,1886,false
+Oct,10/14,626,false
+Oct,10/15,174,false
+Oct,10/17,382,false
+Oct,10/18,513,true
+Oct,10/19,520,true
+Oct,10/20,528,false
+Oct,10/21,577,false
+Oct,10/22,719,false
+Oct,10/23,257,false
+Oct,10/24,959,false
+Oct,10/25,74,true
+Oct,10/26,102,true
+Oct,10/27,260,false
+Oct,10/28,400,false
+Oct,10/29,539,false
+Oct,10/30,261,false
+Oct,10/31,1000,false
+Nov,11/1,232,true
+Nov,11/2,184,true
+Nov,11/3,1623,false
+Nov,11/4,1973,false
+Nov,11/5,1413,false
+Nov,11/6,482,false
+Nov,11/7,503,false
+Nov,11/8,9,true
+Nov,11/10,557,false
+Nov,11/11,295,false
+Nov,11/12,347,false
+Nov,11/13,275,false
+Nov,11/14,104,false
+Nov,11/15,229,true
+Nov,11/17,493,false
+Nov,11/18,484,false
+Nov,11/19,944,false
+Nov,11/20,449,false
+Nov,11/21,194,false
+Nov,11/22,37,true
+Nov,11/23,106,true
+Nov,11/24,552,false
+Nov,11/25,494,false
+Nov,11/26,225,false
+Nov,11/27,13,false
+Nov,11/28,809,false
+Nov,11/29,98,true
+Nov,11/30,297,true
+Dec,12/1,2136,false
+Dec,12/2,1749,false
+Dec,12/3,1207,false
+Dec,12/4,594,false
+Dec,12/5,588,false
+Dec,12/6,39,true
+Dec,12/7,97,true
+Dec,12/8,624,false
+Dec,12/9,291,false
+Dec,12/10,436,false
+Dec,12/11,372,false
+Dec,12/12,266,false
+Dec,12/13,4,true
+Dec,12/15,411,false
+Dec,12/16,781,false
+Dec,12/17,463,false
+Dec,12/18,588,false
+Dec,12/19,829,false
+Dec,12/20,410,true
+Dec,12/22,341,false
+Dec,12/23,200,false
+Dec,12/24,101,false
+Dec,12/26,366,false
+Dec,12/27,21,true
+Dec,12/29,560,false
+Dec,12/30,887,false
+Dec,12/31,552,false
+Jan,1/1,561,false
+Jan,1/2,1298,false
+Jan,1/3,578,true
+Jan,1/4,37,true
+Jan,1/5,1609,false
+Jan,1/6,2050,false
+Jan,1/7,578,false
+Jan,1/8,450,false
+Jan,1/9,412,false
+Jan,1/10,117,true
+Jan,1/12,466,false
