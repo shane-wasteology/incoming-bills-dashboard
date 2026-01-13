@@ -1,252 +1,67 @@
 month,vendor,count
-Jan,Active Waste Solutions,66
-Jan,All Vendors,12281
-Jan,Aspen Waste Systems,47
-Jan,Boren Brothers LLC,95
-Jan,Casella Waste Systems,35
-Jan,Cockey's Enterprises,39
-Jan,Frontier Waste,47
-Jan,Fusion Waste,67
-Jan,GFL Environmental,394
-Jan,Hamilton Alliance,159
-Jan,LRS,79
-Jan,Meridian Waste,120
-Jan,Priority Waste,94
-Jan,Republic Services,519
-Jan,Rumpke,420
-Jan,SmartTrash,91
-Jan,Standard Waste Services,238
-Jan,Universal Waste Systems,264
-Jan,Waste Connections,716
-Jan,Waste Management,615
-Jan,Waste Pro,270
-Feb,Active Waste Solutions,74
-Feb,All Vendors,11479
-Feb,Aspen Waste Systems,48
-Feb,Boren Brothers LLC,101
-Feb,Casella Waste Systems,79
-Feb,Cockey's Enterprises,208
-Feb,Frontier Waste,46
-Feb,Fusion Waste,77
-Feb,GFL Environmental,453
-Feb,Hamilton Alliance,145
-Feb,LRS,96
-Feb,Meridian Waste,120
-Feb,Priority Waste,89
-Feb,Republic Services,382
-Feb,Rumpke,417
-Feb,SmartTrash,91
-Feb,Standard Waste Services,169
-Feb,Universal Waste Systems,248
-Feb,Waste Connections,566
-Feb,Waste Management,612
-Feb,Waste Pro,260
-Mar,Active Waste Solutions,66
-Mar,All Vendors,11856
-Mar,Aspen Waste Systems,58
-Mar,Boren Brothers LLC,89
-Mar,Casella Waste Systems,130
-Mar,Cockey's Enterprises,174
-Mar,Frontier Waste,64
-Mar,Fusion Waste,77
-Mar,GFL Environmental,441
-Mar,Hamilton Alliance,146
-Mar,LRS,95
-Mar,Meridian Waste,118
-Mar,Priority Waste,75
-Mar,Republic Services,426
-Mar,Rumpke,447
-Mar,SmartTrash,93
-Mar,Standard Waste Services,140
-Mar,Universal Waste Systems,259
-Mar,Waste Connections,676
-Mar,Waste Management,617
-Mar,Waste Pro,223
-Apr,Active Waste Solutions,78
-Apr,All Vendors,13221
-Apr,Aspen Waste Systems,56
-Apr,Boren Brothers LLC,97
-Apr,Casella Waste Systems,122
-Apr,Cockey's Enterprises,170
-Apr,Frontier Waste,68
-Apr,Fusion Waste,76
-Apr,GFL Environmental,476
-Apr,Hamilton Alliance,147
-Apr,LRS,91
-Apr,Meridian Waste,125
-Apr,Priority Waste,5
-Apr,Republic Services,596
-Apr,Rumpke,431
-Apr,SmartTrash,67
-Apr,Standard Waste Services,140
-Apr,Universal Waste Systems,260
-Apr,Waste Connections,880
-Apr,Waste Management,670
-Apr,Waste Pro,307
-May,Active Waste Solutions,76
-May,All Vendors,12568
-May,Aspen Waste Systems,102
-May,Boren Brothers LLC,98
-May,Casella Waste Systems,91
-May,Cockey's Enterprises,182
-May,Frontier Waste,198
-May,Fusion Waste,78
-May,GFL Environmental,498
-May,Hamilton Alliance,134
-May,LRS,84
-May,Meridian Waste,134
-May,Priority Waste,111
-May,Republic Services,444
-May,Rumpke,452
-May,SmartTrash,94
-May,Standard Waste Services,138
-May,Universal Waste Systems,266
-May,Waste Connections,743
-May,Waste Management,671
-May,Waste Pro,262
-Jun,Active Waste Solutions,67
-Jun,All Vendors,12414
-Jun,Aspen Waste Systems,101
-Jun,Boren Brothers LLC,106
-Jun,Casella Waste Systems,132
-Jun,Cockey's Enterprises,200
-Jun,Frontier Waste,64
-Jun,Fusion Waste,66
-Jun,GFL Environmental,492
-Jun,Hamilton Alliance,160
-Jun,LRS,82
-Jun,Meridian Waste,128
-Jun,Priority Waste,3
-Jun,Republic Services,420
-Jun,Rumpke,431
-Jun,SmartTrash,104
-Jun,Standard Waste Services,149
-Jun,Universal Waste Systems,260
-Jun,Waste Connections,722
-Jun,Waste Management,683
-Jun,Waste Pro,274
-Jul,Active Waste Solutions,73
-Jul,All Vendors,13339
-Jul,Aspen Waste Systems,101
-Jul,Boren Brothers LLC,118
-Jul,Casella Waste Systems,140
-Jul,Cockey's Enterprises,313
-Jul,Frontier Waste,60
-Jul,Fusion Waste,68
-Jul,GFL Environmental,382
-Jul,Hamilton Alliance,158
-Jul,LRS,113
-Jul,Meridian Waste,214
-Jul,Priority Waste,155
-Jul,Republic Services,542
-Jul,Rumpke,437
-Jul,SmartTrash,102
-Jul,Standard Waste Services,137
-Jul,Universal Waste Systems,273
-Jul,Waste Connections,790
-Jul,Waste Management,683
-Jul,Waste Pro,293
-Aug,Active Waste Solutions,73
-Aug,All Vendors,10171
-Aug,Aspen Waste Systems,97
-Aug,Boren Brothers LLC,119
-Aug,Casella Waste Systems,91
-Aug,Cockey's Enterprises,167
-Aug,Frontier Waste,63
-Aug,Fusion Waste,68
-Aug,GFL Environmental,477
-Aug,Hamilton Alliance,138
-Aug,LRS,51
-Aug,Meridian Waste,106
-Aug,Priority Waste,57
-Aug,Republic Services,346
-Aug,Rumpke,436
-Aug,Standard Waste Services,107
-Aug,Universal Waste Systems,253
-Aug,Waste Connections,434
-Aug,Waste Management,643
-Aug,Waste Pro,194
-Sep,Active Waste Solutions,35
-Sep,All Vendors,13133
-Sep,Aspen Waste Systems,116
-Sep,Boren Brothers LLC,120
-Sep,Casella Waste Systems,135
-Sep,Cockey's Enterprises,179
-Sep,Frontier Waste,77
-Sep,Fusion Waste,69
-Sep,GFL Environmental,523
-Sep,Hamilton Alliance,133
-Sep,LRS,76
-Sep,Meridian Waste,129
-Sep,Priority Waste,79
-Sep,Republic Services,338
-Sep,Rumpke,417
-Sep,SmartTrash,102
-Sep,Standard Waste Services,97
-Sep,Universal Waste Systems,283
-Sep,Waste Connections,981
-Sep,Waste Management,644
-Sep,Waste Pro,290
-Oct,Active Waste Solutions,118
-Oct,All Vendors,13880
-Oct,Aspen Waste Systems,109
-Oct,Boren Brothers LLC,179
-Oct,Casella Waste Systems,144
-Oct,Cockey's Enterprises,200
-Oct,Frontier Waste,80
-Oct,Fusion Waste,87
-Oct,GFL Environmental,521
-Oct,Hamilton Alliance,137
-Oct,LRS,118
-Oct,Meridian Waste,88
-Oct,Priority Waste,81
-Oct,Republic Services,293
-Oct,Rumpke,401
-Oct,SmartTrash,97
-Oct,Standard Waste Services,128
-Oct,Universal Waste Systems,287
-Oct,Waste Connections,940
-Oct,Waste Management,632
-Oct,Waste Pro,346
-Nov,Active Waste Solutions,80
-Nov,All Vendors,13421
-Nov,Aspen Waste Systems,130
-Nov,Boren Brothers LLC,166
-Nov,Casella Waste Systems,148
-Nov,Cockey's Enterprises,230
-Nov,Frontier Waste,73
-Nov,Fusion Waste,108
-Nov,GFL Environmental,610
-Nov,Hamilton Alliance,140
-Nov,LRS,64
-Nov,Meridian Waste,178
-Nov,Priority Waste,10
-Nov,Republic Services,379
-Nov,Rumpke,448
-Nov,SmartTrash,127
-Nov,Standard Waste Services,118
-Nov,Universal Waste Systems,346
-Nov,Waste Connections,694
-Nov,Waste Management,661
-Nov,Waste Pro,310
-Dec,Active Waste Solutions,71
-Dec,All Vendors,14913
-Dec,Aspen Waste Systems,112
-Dec,Boren Brothers LLC,142
-Dec,Casella Waste Systems,152
-Dec,Cockey's Enterprises,209
-Dec,Frontier Waste,84
-Dec,Fusion Waste,117
-Dec,GFL Environmental,561
-Dec,Hamilton Alliance,111
-Dec,LRS,113
-Dec,Meridian Waste,182
-Dec,Priority Waste,152
-Dec,Republic Services,493
-Dec,Rumpke,446
-Dec,SmartTrash,230
-Dec,Standard Waste Services,110
-Dec,Universal Waste Systems,313
-Dec,Waste Connections,1128
-Dec,Waste Management,655
-Dec,Waste Pro,274
+Jan,ACE RECYCLING AND DISPOSAL,2557
+Jan,ANYTIME WASTE SYSTEMS,2514
+Jan,All Vendors,62222
+Jan,Boren Brothers LLC,764
+Jan,CASELLA WASTE SYSTEMS,698
+Jan,Fusion Waste,1089
+Jan,GFL,744
+Jan,GFL Environmental,1348
+Jan,"Hamilton Alliance, Inc",1613
+Jan,LAWRENCE WASTE SERVICES CORP,532
+Jan,Priority Waste IN,592
+Jan,Republic Services,1378
+Jan,Robinson Waste Services-Utah,557
+Jan,Rumpke,1645
+Jan,SBC Waste Solutions Inc,1298
+Jan,STANDARD WASTE SERVICES,893
+Jan,SmartTrash,700
+Jan,Waste Management - National,1897
+Jan,Wasteology,3568
+Jan,"Zarc Recycling, LLC",852
+Feb,ACE RECYCLING AND DISPOSAL,2563
+Feb,ANYTIME WASTE SYSTEMS,2247
+Feb,All Vendors,60718
+Feb,Boren Brothers LLC,574
+Feb,CASELLA WASTE SYSTEMS,699
+Feb,Fusion Waste,1008
+Feb,GFL,642
+Feb,GFL Environmental,1290
+Feb,"Hamilton Alliance, Inc",1456
+Feb,LAWRENCE WASTE SERVICES CORP,499
+Feb,Priority Waste IN,544
+Feb,Republic Services,1287
+Feb,Robinson Waste Services-Utah,532
+Feb,Rumpke,1691
+Feb,SBC Waste Solutions Inc,1194
+Feb,STANDARD WASTE SERVICES,790
+Feb,SmartTrash,715
+Feb,Waste Management - National,1910
+Feb,Wasteology,3539
+Feb,"Zarc Recycling, LLC",846
+Mar,ACE RECYCLING AND DISPOSAL,2407
+Mar,ANYTIME WASTE SYSTEMS,486
+Mar,All Vendors,27660
+Mar,Boren Brothers LLC,198
+Mar,CASELLA WASTE SYSTEMS,475
+Mar,Fusion Waste,357
+Mar,GFL,442
+Mar,GFL Environmental,982
+Mar,"Hamilton Alliance, Inc",64
+Mar,LAWRENCE WASTE SERVICES CORP,255
+Mar,Priority Waste IN,181
+Mar,Republic Services,737
+Mar,Robinson Waste Services-Utah,351
+Mar,Rumpke,1192
+Mar,SBC Waste Solutions Inc,91
+Mar,STANDARD WASTE SERVICES,55
+Mar,SmartTrash,688
+Mar,Wasteology,224
+Dec,All Vendors,9646
+Dec,Boren Brothers LLC,24
+Dec,Fusion Waste,31
+Dec,GFL Environmental,326
+Dec,Republic Services,568
+Dec,Rumpke,10
+Dec,SmartTrash,111
+Dec,Waste Connections,2380
