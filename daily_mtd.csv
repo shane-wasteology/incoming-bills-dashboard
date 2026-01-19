@@ -1,0 +1,26 @@
+month,day,count,isWeekend
+Nov,Nov 1,892,false
+Nov,Nov 2,456,true
+Nov,Nov 3,423,true
+Nov,Nov 4,1024,false
+Nov,Nov 5,987,false
+Nov,Nov 6,1102,false
+Nov,Nov 7,945,false
+Nov,Nov 8,512,true
+Nov,Nov 9,389,true
+Nov,Nov 10,1156,false
+Nov,Nov 11,1089,false
+Nov,Nov 12,978,false
+Nov,Nov 13,1234,false
+Nov,Nov 14,1087,false
+Nov,Nov 15,534,true
+Oct,Oct 1,845,false
+Oct,Oct 2,923,false
+Oct,Oct 3,1012,false
+Oct,Oct 4,478,true
+Oct,Oct 5,412,true
+Oct,Oct 6,1134,false
+Oct,Oct 7,1067,false
+Oct,Oct 8,989,false
+Oct,Oct 9,1145,false
+Oct,Oct 10,1023,false
