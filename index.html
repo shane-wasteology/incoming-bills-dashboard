@@ -465,9 +465,30 @@
     // ============================================================
     // DAILY CHART (Chart.js)
     // ============================================================
+    function getThreeMonthAvg() {
+      // Calculate daily average from last 3 closed months
+      var monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      var reversedMonths = availableMonths.slice().reverse();
+
+      // Skip current (incomplete) month, take next 3
+      var closedMonths = reversedMonths.slice(1, 4);
+
+      if (closedMonths.length === 0) {
+        // Fallback to all data
+        var allCounts = dailyDataAll.map(d => d.count);
+        return Math.round(allCounts.reduce((s, c) => s + c, 0) / allCounts.length);
+      }
+
+      var closedData = dailyDataAll.filter(d => closedMonths.includes(d.month));
+      if (closedData.length === 0) return 0;
+
+      var total = closedData.reduce((s, d) => s + d.count, 0);
+      return Math.round(total / closedData.length);
+    }
+
     function renderDailyChart() {
       var ctx = document.getElementById('daily-chart').getContext('2d');
-      
+
       if (dailyChart) dailyChart.destroy();
 
       if (!dailyData.length) {
@@ -485,18 +506,18 @@
       });
       var counts = dailyData.map(d => d.count);
       var backgroundColors = dailyData.map(d => d.isWeekend ? 'rgba(74, 155, 82, 0.4)' : 'rgba(74, 155, 82, 1)');
-      
+
       // Store full dates for stats display
       var fullDates = dailyData.map(d => d.day);
-      
+
       var mtdTotal = counts.reduce((s, c) => s + c, 0);
-      var dailyAvg = Math.round(mtdTotal / counts.length);
+      var threeMonthAvg = getThreeMonthAvg();  // Use 3-month average for line
       var peakIdx = counts.indexOf(Math.max(...counts));
 
       // Update stats
-      document.getElementById('daily-avg-label').textContent = 'Avg ' + dailyAvg + '/day';
+      document.getElementById('daily-avg-label').textContent = 'Avg ' + threeMonthAvg.toLocaleString() + '/day (3mo)';
       document.getElementById('stat-mtd-total').textContent = mtdTotal.toLocaleString();
-      document.getElementById('stat-daily-avg').textContent = dailyAvg.toLocaleString();
+      document.getElementById('stat-daily-avg').textContent = threeMonthAvg.toLocaleString();
       document.getElementById('stat-peak-day').textContent = formatDate(fullDates[peakIdx]);
       document.getElementById('stat-peak-volume').textContent = Math.max(...counts).toLocaleString();
 
@@ -548,7 +569,7 @@
           afterDraw: function(chart) {
             var yAxis = chart.scales.y;
             var ctx = chart.ctx;
-            var y = yAxis.getPixelForValue(dailyAvg);
+            var y = yAxis.getPixelForValue(threeMonthAvg);
             ctx.save();
             ctx.strokeStyle = '#f59e0b';
             ctx.lineWidth = 2;
@@ -658,11 +679,23 @@
     function renderAlerts() {
       var tbody = document.getElementById('alerts-table');
       var html = '';
-      
+
       if (alertsData.length === 0) {
         html = '<tr><td colspan="6" style="text-align: center; padding: 40px; color: #64748b;"><div style="font-size: 32px; margin-bottom: 12px;">✓</div>No vendors flagged</td></tr>';
       } else {
-        alertsData.forEach(function(r) {
+        // Sort: drops (red) first, then by magnitude of change
+        var sorted = alertsData.slice().sort(function(a, b) {
+          var aIsSpike = a.pct > 100;
+          var bIsSpike = b.pct > 100;
+          // Drops first
+          if (!aIsSpike && bIsSpike) return -1;
+          if (aIsSpike && !bIsSpike) return 1;
+          // Within same type, sort by magnitude (biggest change first)
+          var aMag = aIsSpike ? a.pct - 100 : 100 - a.pct;
+          var bMag = bIsSpike ? b.pct - 100 : 100 - b.pct;
+          return bMag - aMag;
+        });
+        sorted.forEach(function(r) {
           var isSpike = r.pct > 100;
           var change = isSpike ? (r.pct - 100).toFixed(0) : (100 - r.pct).toFixed(0);
           var badgeClass = isSpike ? 'badge badge-green' : 'badge badge-red';
