@@ -17,7 +17,8 @@
     
     /* Header */
     .header { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #2d3748; }
-    .logo { width: 48px; height: 48px; border-radius: 10px; background: linear-gradient(135deg, #4A9B52 0%, #357A3D 100%); display: flex; align-items: center; justify-content: center; color: #fff; font-weight: 700; font-size: 20px; box-shadow: 0 4px 12px rgba(74, 155, 82, 0.3); }
+    .logo { width: 48px; height: 48px; border-radius: 10px; box-shadow: 0 4px 12px rgba(74, 155, 82, 0.3); }
+    .logo img { width: 100%; height: 100%; object-fit: contain; }
     .title { font-size: 20px; font-weight: 600; color: #4A9B52; letter-spacing: 2px; text-transform: uppercase; }
     .subtitle { font-size: 12px; color: #64748b; margin-top: 4px; }
 
@@ -123,7 +124,7 @@
 <body>
   <div class="container">
     <div class="header">
-      <div class="logo">W</div>
+      <div class="logo"><img src="logo.png" alt="Wasteology"></div>
       <div>
         <div class="title">Incoming Bills</div>
         <div class="subtitle">Invoice volume monitoring • Data through <span id="data-date">--</span></div>
@@ -248,6 +249,19 @@
     var availableMonths = [];
     var dailyChart = null;
     var monthlyChart = null;
+
+    // ============================================================
+    // HELPERS
+    // ============================================================
+    function formatDate(dateStr) {
+      // Convert "2025-01-22" to "Jan 22"
+      var parts = dateStr.split('-');
+      if (parts.length !== 3) return dateStr;
+      var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      var month = months[parseInt(parts[1], 10) - 1];
+      var day = parseInt(parts[2], 10);
+      return month + ' ' + day;
+    }
 
     // ============================================================
     // CSV PARSING
@@ -428,13 +442,13 @@
       if (currentMonthData.length > 0) {
         var lastDay = currentMonthData[currentMonthData.length - 1];
         document.getElementById('kpi-yesterday').textContent = lastDay.count.toLocaleString();
-        document.getElementById('kpi-yesterday-date').textContent = lastDay.day;
-        document.getElementById('data-date').textContent = lastDay.day;
+        document.getElementById('kpi-yesterday-date').textContent = formatDate(lastDay.day);
+        document.getElementById('data-date').textContent = formatDate(lastDay.day);
       }
 
       var mtdTotal = currentMonthData.reduce(function(s, d) { return s + d.count; }, 0);
       document.getElementById('kpi-mtd').textContent = mtdTotal.toLocaleString();
-      document.getElementById('kpi-mtd-days').textContent = currentMonthData.length + ' days';
+      document.getElementById('kpi-mtd-days').textContent = currentMonthData.length + (currentMonthData.length === 1 ? ' day' : ' days');
       document.getElementById('kpi-mtd-label').textContent = currentMonth + ' MTD';
 
       var ytdTotal = 0;
@@ -483,7 +497,7 @@
       document.getElementById('daily-avg-label').textContent = 'Avg ' + dailyAvg + '/day';
       document.getElementById('stat-mtd-total').textContent = mtdTotal.toLocaleString();
       document.getElementById('stat-daily-avg').textContent = dailyAvg.toLocaleString();
-      document.getElementById('stat-peak-day').textContent = fullDates[peakIdx];
+      document.getElementById('stat-peak-day').textContent = formatDate(fullDates[peakIdx]);
       document.getElementById('stat-peak-volume').textContent = Math.max(...counts).toLocaleString();
 
       dailyChart = new Chart(ctx, {
