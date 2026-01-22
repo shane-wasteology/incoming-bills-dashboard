@@ -11,7 +11,7 @@ vendor,month,count
 1-800-GOT-JUNK National,Oct 2025,18
 1-800-GOT-JUNK National,Nov 2025,13
 1-800-GOT-JUNK National,Dec 2025,24
-1-800-GOT-JUNK National,Jan 2026,14
+1-800-GOT-JUNK National,Jan 2026,22
 121 Disposal,Jan 2025,1
 121 Disposal,Mar 2025,10
 121 Disposal,Apr 2025,8
@@ -23,7 +23,7 @@ vendor,month,count
 121 Disposal,Oct 2025,11
 121 Disposal,Nov 2025,15
 121 Disposal,Dec 2025,19
-121 Disposal,Jan 2026,12
+121 Disposal,Jan 2026,14
 4G Futures,Jan 2025,3
 4G Futures,Feb 2025,5
 4G Futures,Mar 2025,4
@@ -34,6 +34,7 @@ vendor,month,count
 4G Futures,Oct 2025,6
 4G Futures,Nov 2025,6
 4G Futures,Dec 2025,6
+4G Futures,Jan 2026,6
 501 Sanitation,Sep 2025,1
 501 Sanitation,Dec 2025,3
 501 Sanitation,Jan 2026,1
@@ -57,6 +58,7 @@ A&J Trash,Sep 2025,3
 A&J Trash,Oct 2025,1
 A&J Trash,Nov 2025,1
 A&J Trash,Dec 2025,1
+A&J Trash,Jan 2026,1
 A&L Compaction,May 2025,3
 A&L Compaction,Jul 2025,1
 A&L Compaction,Oct 2025,1
@@ -86,7 +88,7 @@ A-1 Disposal,Sep 2025,5
 A-1 Disposal,Oct 2025,4
 A-1 Disposal,Nov 2025,5
 A-1 Disposal,Dec 2025,6
-A-1 Disposal,Jan 2026,3
+A-1 Disposal,Jan 2026,5
 A-1 Little John,Jun 2025,1
 A-1 Little John,Jul 2025,2
 A-1 Little John,Aug 2025,1
@@ -94,6 +96,7 @@ A-1 Little John,Sep 2025,1
 A-1 Little John,Oct 2025,1
 A-1 Little John,Nov 2025,1
 A-1 Little John,Dec 2025,1
+A-1 Little John,Jan 2026,1
 A1 Porta Potty,Jan 2025,1
 A1 Porta Potty,Feb 2025,1
 A1 Porta Potty,Mar 2025,1
@@ -118,7 +121,7 @@ AAA Disposal Service,Sep 2025,8
 AAA Disposal Service,Oct 2025,12
 AAA Disposal Service,Nov 2025,9
 AAA Disposal Service,Dec 2025,11
-AAA Disposal Service,Jan 2026,10
+AAA Disposal Service,Jan 2026,11
 AB-8 Waste Solutions,May 2025,4
 AB-8 Waste Solutions,Jun 2025,2
 AB-8 Waste Solutions,Jul 2025,2
@@ -152,7 +155,7 @@ ABC Waste Of Savannah,Sep 2025,9
 ABC Waste Of Savannah,Oct 2025,15
 ABC Waste Of Savannah,Nov 2025,16
 ABC Waste Of Savannah,Dec 2025,14
-ABC Waste Of Savannah,Jan 2026,12
+ABC Waste Of Savannah,Jan 2026,18
 ABS Sanitation,Apr 2025,2
 ABS Sanitation,May 2025,2
 ABS Sanitation,Jun 2025,1
@@ -173,7 +176,7 @@ ACE Recycling and Disposal,Sep 2025,23
 ACE Recycling and Disposal,Oct 2025,20
 ACE Recycling and Disposal,Nov 2025,25
 ACE Recycling and Disposal,Dec 2025,26
-ACE Recycling and Disposal,Jan 2026,26
+ACE Recycling and Disposal,Jan 2026,27
 ACES Disposal,Jan 2025,10
 ACES Disposal,Feb 2025,12
 ACES Disposal,Mar 2025,13
@@ -186,7 +189,7 @@ ACES Disposal,Sep 2025,13
 ACES Disposal,Oct 2025,15
 ACES Disposal,Nov 2025,12
 ACES Disposal,Dec 2025,19
-ACES Disposal,Jan 2026,13
+ACES Disposal,Jan 2026,15
 AG Logistics,Jan 2025,12
 AG Logistics,Feb 2025,14
 AG Logistics,Mar 2025,11
@@ -221,7 +224,7 @@ AM Disposal,Sep 2025,8
 AM Disposal,Oct 2025,5
 AM Disposal,Nov 2025,6
 AM Disposal,Dec 2025,6
-AM Disposal,Jan 2026,6
+AM Disposal,Jan 2026,8
 AMG Resources,Feb 2025,1
 AMG Resources,Apr 2025,1
 AMG Resources,Jun 2025,1
@@ -255,7 +258,7 @@ AT Disposal,Sep 2025,6
 AT Disposal,Oct 2025,3
 AT Disposal,Nov 2025,6
 AT Disposal,Dec 2025,12
-AT Disposal,Jan 2026,4
+AT Disposal,Jan 2026,11
 AWS,Feb 2025,1
 AWS,Mar 2025,1
 AWS,Apr 2025,2
@@ -321,7 +324,7 @@ Ace Waste Systems,Sep 2025,11
 Ace Waste Systems,Oct 2025,18
 Ace Waste Systems,Nov 2025,12
 Ace Waste Systems,Dec 2025,9
-Ace Waste Systems,Jan 2026,10
+Ace Waste Systems,Jan 2026,13
 Active Waste Solutions,Jan 2025,47
 Active Waste Solutions,Feb 2025,47
 Active Waste Solutions,Mar 2025,43
@@ -334,7 +337,7 @@ Active Waste Solutions,Sep 2025,37
 Active Waste Solutions,Oct 2025,119
 Active Waste Solutions,Nov 2025,81
 Active Waste Solutions,Dec 2025,72
-Active Waste Solutions,Jan 2026,29
+Active Waste Solutions,Jan 2026,78
 Adam's Disposal,Jan 2025,1
 Adam's Disposal,Feb 2025,1
 Adam's Disposal,May 2025,1
@@ -368,7 +371,7 @@ Advance Machine & Hydraulic,Sep 2025,10
 Advance Machine & Hydraulic,Oct 2025,9
 Advance Machine & Hydraulic,Nov 2025,8
 Advance Machine & Hydraulic,Dec 2025,2
-Advance Machine & Hydraulic,Jan 2026,1
+Advance Machine & Hydraulic,Jan 2026,5
 Advanced Document Solutions,Apr 2025,1
 Advanced Document Solutions,May 2025,2
 Advanced Document Solutions,Jun 2025,1
@@ -400,7 +403,7 @@ Akat Scrap Metal,Sep 2025,4
 Akat Scrap Metal,Oct 2025,4
 Akat Scrap Metal,Nov 2025,3
 Akat Scrap Metal,Dec 2025,3
-Akat Scrap Metal,Jan 2026,2
+Akat Scrap Metal,Jan 2026,3
 Al Clawson Disposal,Jan 2025,2
 Al Clawson Disposal,Feb 2025,5
 Al Clawson Disposal,Mar 2025,1
@@ -437,7 +440,7 @@ Alaska Waste,Sep 2025,27
 Alaska Waste,Oct 2025,20
 Alaska Waste,Nov 2025,19
 Alaska Waste,Dec 2025,19
-Alaska Waste,Jan 2026,1
+Alaska Waste,Jan 2026,2
 All American Waste,Jan 2025,19
 All American Waste,Feb 2025,21
 All American Waste,Mar 2025,8
@@ -450,7 +453,7 @@ All American Waste,Sep 2025,15
 All American Waste,Oct 2025,27
 All American Waste,Nov 2025,30
 All American Waste,Dec 2025,39
-All American Waste,Jan 2026,6
+All American Waste,Jan 2026,8
 All Florida Scrap Metals,Jan 2025,3
 All Florida Scrap Metals,Feb 2025,3
 All Florida Scrap Metals,Mar 2025,4
@@ -459,8 +462,9 @@ All Florida Scrap Metals,May 2025,3
 All Florida Scrap Metals,Jul 2025,2
 All Florida Scrap Metals,Aug 2025,3
 All Florida Scrap Metals,Oct 2025,1
-All Florida Scrap Metals,Nov 2025,3
+All Florida Scrap Metals,Nov 2025,4
 All Florida Scrap Metals,Dec 2025,2
+All Florida Scrap Metals,Jan 2026,2
 All Metals Recycling,Jan 2025,8
 All Metals Recycling,Feb 2025,7
 All Metals Recycling,Mar 2025,7
@@ -472,6 +476,7 @@ All Metals Recycling,Sep 2025,3
 All Metals Recycling,Oct 2025,14
 All Metals Recycling,Nov 2025,6
 All Metals Recycling,Dec 2025,22
+All Metals Recycling,Jan 2026,1
 All Star Roll-Off,Sep 2025,5
 All Star Roll-Off,Oct 2025,1
 All Star Roll-Off,Nov 2025,2
@@ -499,12 +504,12 @@ All Vendors,Apr 2025,13221
 All Vendors,May 2025,12568
 All Vendors,Jun 2025,12414
 All Vendors,Jul 2025,13339
-All Vendors,Aug 2025,10171
+All Vendors,Aug 2025,10170
 All Vendors,Sep 2025,13133
-All Vendors,Oct 2025,13880
-All Vendors,Nov 2025,13415
-All Vendors,Dec 2025,14780
-All Vendors,Jan 2026,9771
+All Vendors,Oct 2025,13877
+All Vendors,Nov 2025,13418
+All Vendors,Dec 2025,14750
+All Vendors,Jan 2026,12028
 All Waste Inc,Jan 2025,16
 All Waste Inc,Feb 2025,14
 All Waste Inc,Mar 2025,13
@@ -538,7 +543,7 @@ Allstate Equipment Services,Sep 2025,4
 Allstate Equipment Services,Oct 2025,3
 Allstate Equipment Services,Nov 2025,5
 Allstate Equipment Services,Dec 2025,6
-Allstate Equipment Services,Jan 2026,4
+Allstate Equipment Services,Jan 2026,7
 Alpha Waste Disposal,Jan 2025,3
 Alpha Waste Disposal,Feb 2025,1
 Alpha Waste Disposal,Mar 2025,1
@@ -574,7 +579,7 @@ American Disposal,Sep 2025,61
 American Disposal,Oct 2025,30
 American Disposal,Nov 2025,42
 American Disposal,Dec 2025,43
-American Disposal,Jan 2026,36
+American Disposal,Jan 2026,46
 American Eagle Waste,Jan 2025,1
 American Eagle Waste,Feb 2025,2
 American Eagle Waste,Mar 2025,1
@@ -591,7 +596,7 @@ American Eagle Waste,Jan 2026,1
 American Metal & Paper,Oct 2025,1
 American Metal & Paper,Nov 2025,2
 American Metal & Paper,Dec 2025,1
-American Metal & Paper,Jan 2026,1
+American Metal & Paper,Jan 2026,2
 American Recycling,Jan 2025,2
 American Recycling,Mar 2025,3
 American Recycling,Apr 2025,1
@@ -602,7 +607,7 @@ American Recycling,Sep 2025,1
 American Recycling,Oct 2025,3
 American Recycling,Nov 2025,2
 American Recycling,Dec 2025,3
-American Recycling,Jan 2026,7
+American Recycling,Jan 2026,8
 American Sanitation,May 2025,1
 American Sanitation,Jun 2025,1
 American Sanitation,Jul 2025,1
@@ -611,6 +616,7 @@ American Sanitation,Sep 2025,1
 American Sanitation,Oct 2025,4
 American Sanitation,Nov 2025,2
 American Sanitation,Dec 2025,2
+American Sanitation,Jan 2026,2
 American Waste Control,Jan 2025,3
 American Waste Control,Feb 2025,4
 American Waste Control,Mar 2025,4
@@ -687,7 +693,7 @@ Anytime Waste Systems,Sep 2025,648
 Anytime Waste Systems,Oct 2025,993
 Anytime Waste Systems,Nov 2025,1107
 Anytime Waste Systems,Dec 2025,960
-Anytime Waste Systems,Jan 2026,239
+Anytime Waste Systems,Jan 2026,680
 Apex Recycling & Disposal,Jan 2025,1
 Apex Recycling & Disposal,Feb 2025,4
 Apex Recycling & Disposal,Mar 2025,4
@@ -712,7 +718,7 @@ Apex Waste,Sep 2025,19
 Apex Waste,Oct 2025,24
 Apex Waste,Nov 2025,24
 Apex Waste,Dec 2025,25
-Apex Waste,Jan 2026,83
+Apex Waste,Jan 2026,94
 Appalachian Waste Management,Jan 2025,5
 Appalachian Waste Management,Feb 2025,2
 Appalachian Waste Management,Mar 2025,2
@@ -758,7 +764,7 @@ Arrowaste,Sep 2025,22
 Arrowaste,Oct 2025,16
 Arrowaste,Nov 2025,22
 Arrowaste,Dec 2025,23
-Arrowaste,Jan 2026,18
+Arrowaste,Jan 2026,21
 Arrowhead Waste Services,Jan 2025,2
 Arrowhead Waste Services,Feb 2025,3
 Arrowhead Waste Services,Mar 2025,3
@@ -794,7 +800,7 @@ Aspen Waste Systems,Sep 2025,117
 Aspen Waste Systems,Oct 2025,109
 Aspen Waste Systems,Nov 2025,130
 Aspen Waste Systems,Dec 2025,112
-Aspen Waste Systems,Jan 2026,112
+Aspen Waste Systems,Jan 2026,113
 Athens Services,Jan 2025,42
 Athens Services,Feb 2025,40
 Athens Services,Mar 2025,37
@@ -802,12 +808,12 @@ Athens Services,Apr 2025,53
 Athens Services,May 2025,43
 Athens Services,Jun 2025,60
 Athens Services,Jul 2025,47
-Athens Services,Aug 2025,49
+Athens Services,Aug 2025,48
 Athens Services,Sep 2025,45
 Athens Services,Oct 2025,51
 Athens Services,Nov 2025,56
 Athens Services,Dec 2025,52
-Athens Services,Jan 2026,50
+Athens Services,Jan 2026,53
 Atlantic Waste,Jan 2025,3
 Atlantic Waste,Feb 2025,4
 Atlantic Waste,Mar 2025,4
@@ -820,7 +826,7 @@ Atlantic Waste,Sep 2025,12
 Atlantic Waste,Oct 2025,15
 Atlantic Waste,Nov 2025,7
 Atlantic Waste,Dec 2025,11
-Atlantic Waste,Jan 2026,5
+Atlantic Waste,Jan 2026,6
 Atlas Disposal,Jan 2025,16
 Atlas Disposal,Feb 2025,20
 Atlas Disposal,Mar 2025,20
@@ -830,7 +836,7 @@ Atlas Disposal,Jun 2025,27
 Atlas Disposal,Jul 2025,26
 Atlas Disposal,Aug 2025,18
 Atlas Disposal,Sep 2025,25
-Atlas Disposal,Oct 2025,26
+Atlas Disposal,Oct 2025,25
 Atlas Disposal,Nov 2025,28
 Atlas Disposal,Dec 2025,29
 Atlas Disposal,Jan 2026,28
@@ -846,6 +852,7 @@ Ava's Waste Removal,Sep 2025,1
 Ava's Waste Removal,Oct 2025,1
 Ava's Waste Removal,Nov 2025,1
 Ava's Waste Removal,Dec 2025,1
+Ava's Waste Removal,Jan 2026,1
 B&L Disposal,Mar 2025,2
 B&L Disposal,Apr 2025,1
 B&L Disposal,May 2025,2
@@ -880,6 +887,7 @@ BCDA The Trash Company,Sep 2025,2
 BCDA The Trash Company,Oct 2025,1
 BCDA The Trash Company,Nov 2025,2
 BCDA The Trash Company,Dec 2025,1
+BCDA The Trash Company,Jan 2026,1
 BFI Waste,Aug 2025,2
 BFI Waste,Sep 2025,2
 BFI Waste,Oct 2025,2
@@ -942,7 +950,7 @@ Barbarino Disposal,Sep 2025,2
 Barbarino Disposal,Oct 2025,3
 Barbarino Disposal,Nov 2025,2
 Barbarino Disposal,Dec 2025,2
-Barbarino Disposal,Jan 2026,1
+Barbarino Disposal,Jan 2026,2
 Basin Disposal Inc,Jan 2025,12
 Basin Disposal Inc,Feb 2025,10
 Basin Disposal Inc,Mar 2025,19
@@ -955,7 +963,7 @@ Basin Disposal Inc,Sep 2025,12
 Basin Disposal Inc,Oct 2025,20
 Basin Disposal Inc,Nov 2025,17
 Basin Disposal Inc,Dec 2025,18
-Basin Disposal Inc,Jan 2026,2
+Basin Disposal Inc,Jan 2026,16
 Basin Haulage,Feb 2025,5
 Basin Haulage,Mar 2025,2
 Basin Haulage,Apr 2025,4
@@ -1026,7 +1034,7 @@ Best Way Disposal,Sep 2025,59
 Best Way Disposal,Oct 2025,56
 Best Way Disposal,Nov 2025,62
 Best Way Disposal,Dec 2025,96
-Best Way Disposal,Jan 2026,96
+Best Way Disposal,Jan 2026,97
 BestTrash,Feb 2025,1
 BestTrash,Jun 2025,4
 BestTrash,Aug 2025,4
@@ -1114,7 +1122,7 @@ Blue Diamond Disposal,Sep 2025,12
 Blue Diamond Disposal,Oct 2025,14
 Blue Diamond Disposal,Nov 2025,13
 Blue Diamond Disposal,Dec 2025,15
-Blue Diamond Disposal,Jan 2026,5
+Blue Diamond Disposal,Jan 2026,12
 Blue Hills Environmental,Jan 2025,10
 Blue Hills Environmental,Feb 2025,4
 Blue Hills Environmental,Mar 2025,6
@@ -1160,7 +1168,7 @@ Boren Brothers LLC,Sep 2025,120
 Boren Brothers LLC,Oct 2025,179
 Boren Brothers LLC,Nov 2025,166
 Boren Brothers LLC,Dec 2025,141
-Boren Brothers LLC,Jan 2026,117
+Boren Brothers LLC,Jan 2026,123
 Borowide,Jan 2025,4
 Borowide,Feb 2025,6
 Borowide,Mar 2025,1
@@ -1173,7 +1181,7 @@ Borowide,Sep 2025,16
 Borowide,Oct 2025,20
 Borowide,Nov 2025,17
 Borowide,Dec 2025,42
-Borowide,Jan 2026,6
+Borowide,Jan 2026,19
 Boston Baler,Jan 2025,1
 Boston Baler,Feb 2025,1
 Boston Baler,Mar 2025,2
@@ -1198,7 +1206,7 @@ Boyas Recycling,Sep 2025,57
 Boyas Recycling,Oct 2025,42
 Boyas Recycling,Nov 2025,14
 Boyas Recycling,Dec 2025,78
-Boyas Recycling,Jan 2026,18
+Boyas Recycling,Jan 2026,22
 Bozeman MT Utilities,Jan 2025,3
 Bozeman MT Utilities,Feb 2025,4
 Bozeman MT Utilities,Mar 2025,3
@@ -1206,7 +1214,7 @@ Bozeman MT Utilities,Jun 2025,5
 Bozeman MT Utilities,Aug 2025,4
 Bozeman MT Utilities,Sep 2025,8
 Bozeman MT Utilities,Nov 2025,5
-Bozeman MT Utilities,Dec 2025,10
+Bozeman MT Utilities,Dec 2025,9
 Bozeman MT Utilities,Jan 2026,1
 Bozzuto BRS Services,Jan 2025,1
 Bozzuto BRS Services,Feb 2025,2
@@ -1245,11 +1253,12 @@ Breezy Hollow,Sep 2025,3
 Breezy Hollow,Oct 2025,2
 Breezy Hollow,Nov 2025,5
 Breezy Hollow,Dec 2025,4
-Breezy Hollow,Jan 2026,1
+Breezy Hollow,Jan 2026,3
 Brew Crew Environmental,May 2025,1
 Brew Crew Environmental,Jun 2025,1
 Brew Crew Environmental,Sep 2025,1
 Brew Crew Environmental,Nov 2025,1
+Brew Crew Environmental,Jan 2026,1
 Bridge City Sanitation,Jan 2025,2
 Bridge City Sanitation,Feb 2025,1
 Bridge City Sanitation,Apr 2025,4
@@ -1272,6 +1281,7 @@ Bright Disposal Services,Sep 2025,3
 Bright Disposal Services,Oct 2025,2
 Bright Disposal Services,Nov 2025,2
 Bright Disposal Services,Dec 2025,2
+Bright Disposal Services,Jan 2026,2
 Brookings Dumpster Service,Feb 2025,1
 Brookings Dumpster Service,May 2025,2
 Brookings Dumpster Service,Jun 2025,1
@@ -1287,6 +1297,7 @@ Brothers Disposal,Jul 2025,2
 Brothers Disposal,Oct 2025,2
 Brothers Disposal,Nov 2025,1
 Brothers Disposal,Dec 2025,1
+Brothers Disposal,Jan 2026,1
 Bruin Waste Management,Jan 2025,2
 Bruin Waste Management,Feb 2025,4
 Bruin Waste Management,Mar 2025,6
@@ -1318,6 +1329,7 @@ Buldo Container & Disposal,Aug 2025,3
 Buldo Container & Disposal,Sep 2025,1
 Buldo Container & Disposal,Nov 2025,2
 Buldo Container & Disposal,Dec 2025,2
+Buldo Container & Disposal,Jan 2026,2
 Bulldog Disposal,Jan 2025,2
 Bulldog Disposal,Feb 2025,1
 Bulldog Disposal,Apr 2025,1
@@ -1329,6 +1341,7 @@ Bulldog Disposal,Sep 2025,3
 Bulldog Disposal,Oct 2025,3
 Bulldog Disposal,Nov 2025,5
 Bulldog Disposal,Dec 2025,5
+Bulldog Disposal,Jan 2026,5
 Burgmeier's Hauling,Jan 2025,5
 Burgmeier's Hauling,Feb 2025,4
 Burgmeier's Hauling,Mar 2025,7
@@ -1341,7 +1354,7 @@ Burgmeier's Hauling,Sep 2025,3
 Burgmeier's Hauling,Oct 2025,6
 Burgmeier's Hauling,Nov 2025,8
 Burgmeier's Hauling,Dec 2025,7
-Burgmeier's Hauling,Jan 2026,7
+Burgmeier's Hauling,Jan 2026,8
 Burrtec Waste Industries,Jan 2025,32
 Burrtec Waste Industries,Feb 2025,80
 Burrtec Waste Industries,Mar 2025,58
@@ -1354,7 +1367,7 @@ Burrtec Waste Industries,Sep 2025,36
 Burrtec Waste Industries,Oct 2025,70
 Burrtec Waste Industries,Nov 2025,12
 Burrtec Waste Industries,Dec 2025,96
-Burrtec Waste Industries,Jan 2026,5
+Burrtec Waste Industries,Jan 2026,19
 Butler Disposal Systems,Jan 2025,4
 Butler Disposal Systems,Mar 2025,3
 Butler Disposal Systems,Apr 2025,1
@@ -1365,7 +1378,7 @@ Butler Disposal Systems,Sep 2025,5
 Butler Disposal Systems,Oct 2025,4
 Butler Disposal Systems,Nov 2025,4
 Butler Disposal Systems,Dec 2025,2
-Butler Disposal Systems,Jan 2026,3
+Butler Disposal Systems,Jan 2026,5
 C&S Disposal,May 2025,1
 C&S Disposal,Jun 2025,1
 C&S Disposal,Jul 2025,2
@@ -1386,7 +1399,7 @@ CARDS,Sep 2025,9
 CARDS,Oct 2025,11
 CARDS,Nov 2025,10
 CARDS,Dec 2025,8
-CARDS,Jan 2026,22
+CARDS,Jan 2026,23
 CDA Garbage,Jan 2025,1
 CDA Garbage,Mar 2025,1
 CDA Garbage,Apr 2025,1
@@ -1411,7 +1424,7 @@ CR&R Inc Environmental Services,Sep 2025,44
 CR&R Inc Environmental Services,Oct 2025,62
 CR&R Inc Environmental Services,Nov 2025,49
 CR&R Inc Environmental Services,Dec 2025,56
-CR&R Inc Environmental Services,Jan 2026,54
+CR&R Inc Environmental Services,Jan 2026,56
 CRI-Curbside Rolloff Inc,Jan 2025,30
 CRI-Curbside Rolloff Inc,Feb 2025,25
 CRI-Curbside Rolloff Inc,Mar 2025,22
@@ -1424,11 +1437,11 @@ CRI-Curbside Rolloff Inc,Sep 2025,47
 CRI-Curbside Rolloff Inc,Oct 2025,58
 CRI-Curbside Rolloff Inc,Nov 2025,38
 CRI-Curbside Rolloff Inc,Dec 2025,45
-CRI-Curbside Rolloff Inc,Jan 2026,24
+CRI-Curbside Rolloff Inc,Jan 2026,37
 CRP Sanitation,Oct 2025,2
 CRP Sanitation,Nov 2025,2
 CRP Sanitation,Dec 2025,1
-CRP Sanitation,Jan 2026,1
+CRP Sanitation,Jan 2026,2
 CSD Disposal,Jan 2025,5
 CSD Disposal,Feb 2025,2
 CSD Disposal,Mar 2025,3
@@ -1485,6 +1498,7 @@ CWSI,Sep 2025,1
 CWSI,Oct 2025,1
 CWSI,Nov 2025,1
 CWSI,Dec 2025,1
+CWSI,Jan 2026,1
 California Waste Recovery,Jan 2025,5
 California Waste Recovery,Feb 2025,3
 California Waste Recovery,Mar 2025,2
@@ -1496,7 +1510,7 @@ California Waste Recovery,Aug 2025,2
 California Waste Recovery,Sep 2025,1
 California Waste Recovery,Oct 2025,1
 California Waste Recovery,Nov 2025,10
-California Waste Recovery,Jan 2026,2
+California Waste Recovery,Jan 2026,5
 Canusa Hershman,Oct 2025,3
 Canusa Hershman,Nov 2025,3
 Canusa Hershman,Dec 2025,5
@@ -1524,6 +1538,7 @@ Capital City,Sep 2025,2
 Capital City,Oct 2025,2
 Capital City,Nov 2025,2
 Capital City,Dec 2025,2
+Capital City,Jan 2026,3
 Capital Waste,Jan 2025,21
 Capital Waste,Feb 2025,27
 Capital Waste,Mar 2025,19
@@ -1536,7 +1551,7 @@ Capital Waste,Sep 2025,55
 Capital Waste,Oct 2025,34
 Capital Waste,Nov 2025,34
 Capital Waste,Dec 2025,42
-Capital Waste,Jan 2026,5
+Capital Waste,Jan 2026,10
 Cards KS,Jan 2025,6
 Cards KS,Feb 2025,3
 Cards KS,Mar 2025,4
@@ -1562,7 +1577,7 @@ Cards Mo,Sep 2025,13
 Cards Mo,Oct 2025,13
 Cards Mo,Nov 2025,14
 Cards Mo,Dec 2025,13
-Cards Mo,Jan 2026,13
+Cards Mo,Jan 2026,14
 Casella Waste Systems,Jan 2025,24
 Casella Waste Systems,Feb 2025,60
 Casella Waste Systems,Mar 2025,102
@@ -1575,7 +1590,7 @@ Casella Waste Systems,Sep 2025,138
 Casella Waste Systems,Oct 2025,148
 Casella Waste Systems,Nov 2025,150
 Casella Waste Systems,Dec 2025,155
-Casella Waste Systems,Jan 2026,149
+Casella Waste Systems,Jan 2026,154
 Cavossa Disposal,Jan 2025,1
 Cavossa Disposal,Feb 2025,2
 Cavossa Disposal,Mar 2025,1
@@ -1588,7 +1603,7 @@ Cavossa Disposal,Sep 2025,3
 Cavossa Disposal,Oct 2025,4
 Cavossa Disposal,Nov 2025,5
 Cavossa Disposal,Dec 2025,13
-Cavossa Disposal,Jan 2026,5
+Cavossa Disposal,Jan 2026,15
 Cedar Grove,Jan 2025,3
 Cedar Grove,Feb 2025,2
 Cedar Grove,Mar 2025,2
@@ -1664,6 +1679,7 @@ Chesapeake Waste,Sep 2025,2
 Chesapeake Waste,Oct 2025,5
 Chesapeake Waste,Nov 2025,3
 Chesapeake Waste,Dec 2025,3
+Chesapeake Waste,Jan 2026,3
 Cheyenne Board of Public Utilities,May 2025,3
 Cheyenne Board of Public Utilities,Jun 2025,2
 Cheyenne Board of Public Utilities,Jul 2025,4
@@ -1725,6 +1741,7 @@ Circle Sanitation,Sep 2025,12
 Circle Sanitation,Oct 2025,8
 Circle Sanitation,Nov 2025,8
 Circle Sanitation,Dec 2025,7
+Circle Sanitation,Jan 2026,6
 Citrus County Utilities,Feb 2025,4
 Citrus County Utilities,Mar 2025,1
 Citrus County Utilities,Apr 2025,2
@@ -1748,8 +1765,8 @@ City Waste,Aug 2025,13
 City Waste,Sep 2025,11
 City Waste,Oct 2025,17
 City Waste,Nov 2025,11
-City Waste,Dec 2025,14
-City Waste,Jan 2026,18
+City Waste,Dec 2025,15
+City Waste,Jan 2026,22
 City of Athens GA,Jan 2025,1
 City of Athens GA,Feb 2025,2
 City of Athens GA,Mar 2025,2
@@ -1762,6 +1779,7 @@ City of Athens GA,Sep 2025,2
 City of Athens GA,Oct 2025,1
 City of Athens GA,Nov 2025,1
 City of Athens GA,Dec 2025,2
+City of Athens GA,Jan 2026,1
 City of Bakersfield,Jan 2025,2
 City of Bakersfield,Feb 2025,1
 City of Bakersfield,Apr 2025,2
@@ -1773,7 +1791,7 @@ City of Bakersfield,Sep 2025,2
 City of Bakersfield,Oct 2025,2
 City of Bakersfield,Nov 2025,2
 City of Bakersfield,Dec 2025,2
-City of Bakersfield,Jan 2026,1
+City of Bakersfield,Jan 2026,2
 City of Bardstown,Jan 2025,3
 City of Bardstown,Feb 2025,4
 City of Bardstown,Mar 2025,9
@@ -1786,7 +1804,7 @@ City of Bardstown,Sep 2025,5
 City of Bardstown,Oct 2025,7
 City of Bardstown,Nov 2025,4
 City of Bardstown,Dec 2025,7
-City of Bardstown,Jan 2026,4
+City of Bardstown,Jan 2026,6
 City of Blackfoot,Jan 2025,4
 City of Blackfoot,Feb 2025,5
 City of Blackfoot,Mar 2025,5
@@ -1807,9 +1825,10 @@ City of Boise,Jun 2025,8
 City of Boise,Jul 2025,6
 City of Boise,Aug 2025,4
 City of Boise,Sep 2025,12
-City of Boise,Oct 2025,14
+City of Boise,Oct 2025,13
 City of Boise,Nov 2025,13
 City of Boise,Dec 2025,17
+City of Boise,Jan 2026,16
 City of Cartersville,Jan 2025,1
 City of Cartersville,Feb 2025,1
 City of Cartersville,May 2025,2
@@ -1872,7 +1891,7 @@ City of Deerfield Beach,Sep 2025,4
 City of Deerfield Beach,Oct 2025,4
 City of Deerfield Beach,Nov 2025,4
 City of Deerfield Beach,Dec 2025,3
-City of Deerfield Beach,Jan 2026,2
+City of Deerfield Beach,Jan 2026,3
 City of Del Rio,Jan 2025,1
 City of Del Rio,Mar 2025,1
 City of Del Rio,Apr 2025,1
@@ -1901,6 +1920,7 @@ City of Dickinson,Sep 2025,4
 City of Dickinson,Oct 2025,5
 City of Dickinson,Nov 2025,3
 City of Dickinson,Dec 2025,5
+City of Dickinson,Jan 2026,2
 City of Douglasville,Jan 2025,2
 City of Douglasville,Feb 2025,2
 City of Douglasville,Apr 2025,1
@@ -1924,6 +1944,7 @@ City of Durant,Sep 2025,1
 City of Durant,Oct 2025,1
 City of Durant,Nov 2025,1
 City of Durant,Dec 2025,1
+City of Durant,Jan 2026,1
 City of Emporia,Jan 2025,1
 City of Emporia,Feb 2025,1
 City of Emporia,Mar 2025,2
@@ -1949,7 +1970,7 @@ City of Fargo,Sep 2025,7
 City of Fargo,Oct 2025,9
 City of Fargo,Nov 2025,9
 City of Fargo,Dec 2025,11
-City of Fargo,Jan 2026,6
+City of Fargo,Jan 2026,8
 City of Fayette,Feb 2025,2
 City of Fayette,Mar 2025,3
 City of Fayette,Apr 2025,3
@@ -1973,7 +1994,7 @@ City of Foley,Sep 2025,2
 City of Foley,Oct 2025,1
 City of Foley,Nov 2025,2
 City of Foley,Dec 2025,2
-City of Foley,Jan 2026,1
+City of Foley,Jan 2026,2
 City of Fort Smith,Jan 2025,2
 City of Fort Smith,Feb 2025,2
 City of Fort Smith,Mar 2025,2
@@ -2006,6 +2027,7 @@ City of Grand Junction,Sep 2025,1
 City of Grand Junction,Oct 2025,3
 City of Grand Junction,Nov 2025,4
 City of Grand Junction,Dec 2025,1
+City of Grand Junction,Jan 2026,4
 City of Great Falls,Feb 2025,1
 City of Great Falls,Mar 2025,1
 City of Great Falls,Apr 2025,4
@@ -2017,7 +2039,7 @@ City of Great Falls,Sep 2025,5
 City of Great Falls,Oct 2025,4
 City of Great Falls,Nov 2025,2
 City of Great Falls,Dec 2025,4
-City of Great Falls,Jan 2026,1
+City of Great Falls,Jan 2026,2
 City of Green River,Jan 2025,2
 City of Green River,Mar 2025,1
 City of Green River,Apr 2025,1
@@ -2029,7 +2051,7 @@ City of Green River,Sep 2025,1
 City of Green River,Oct 2025,2
 City of Green River,Nov 2025,1
 City of Green River,Dec 2025,1
-City of Green River,Jan 2026,1
+City of Green River,Jan 2026,2
 City of Henagar,Sep 2025,1
 City of Henagar,Oct 2025,1
 City of Henagar,Nov 2025,1
@@ -2061,6 +2083,7 @@ City of Jackson,Sep 2025,9
 City of Jackson,Oct 2025,12
 City of Jackson,Nov 2025,11
 City of Jackson,Dec 2025,13
+City of Jackson,Jan 2026,10
 City of Kirkland,Jan 2025,2
 City of Kirkland,Mar 2025,2
 City of Kirkland,May 2025,2
@@ -2068,7 +2091,7 @@ City of Kirkland,Jul 2025,2
 City of Kirkland,Sep 2025,2
 City of Kirkland,Oct 2025,1
 City of Kirkland,Nov 2025,3
-City of Kirkland,Jan 2026,1
+City of Kirkland,Jan 2026,5
 City of Lakeland FL,Feb 2025,1
 City of Lakeland FL,Mar 2025,1
 City of Lakeland FL,May 2025,1
@@ -2090,11 +2113,13 @@ City of Lamar,Sep 2025,4
 City of Lamar,Oct 2025,3
 City of Lamar,Nov 2025,2
 City of Lamar,Dec 2025,2
+City of Lamar,Jan 2026,1
 City of Laramie,Apr 2025,2
 City of Laramie,May 2025,1
 City of Laramie,Jun 2025,1
 City of Laramie,Sep 2025,2
 City of Laramie,Oct 2025,2
+City of Laramie,Jan 2026,4
 City of Loganville,Feb 2025,1
 City of Loganville,Apr 2025,2
 City of Loganville,May 2025,1
@@ -2123,6 +2148,7 @@ City of McDonough,Sep 2025,3
 City of McDonough,Oct 2025,2
 City of McDonough,Nov 2025,2
 City of McDonough,Dec 2025,2
+City of McDonough,Jan 2026,2
 City of Meridian,Jan 2025,1
 City of Meridian,Feb 2025,1
 City of Meridian,Apr 2025,2
@@ -2145,7 +2171,7 @@ City of Mesa,Sep 2025,4
 City of Mesa,Oct 2025,2
 City of Mesa,Nov 2025,4
 City of Mesa,Dec 2025,3
-City of Mesa,Jan 2026,1
+City of Mesa,Jan 2026,2
 City of Mesquite,Jan 2025,2
 City of Mesquite,Feb 2025,2
 City of Mesquite,Mar 2025,4
@@ -2157,6 +2183,7 @@ City of Mesquite,Sep 2025,5
 City of Mesquite,Oct 2025,5
 City of Mesquite,Nov 2025,6
 City of Mesquite,Dec 2025,6
+City of Mesquite,Jan 2026,1
 City of Mont Belvieu,Feb 2025,1
 City of Mont Belvieu,Apr 2025,1
 City of Mont Belvieu,May 2025,1
@@ -2211,6 +2238,7 @@ City of Pembroke Pines,Sep 2025,7
 City of Pembroke Pines,Oct 2025,7
 City of Pembroke Pines,Nov 2025,7
 City of Pembroke Pines,Dec 2025,7
+City of Pembroke Pines,Jan 2026,8
 City of Quincy,May 2025,1
 City of Quincy,Jun 2025,2
 City of Quincy,Jul 2025,2
@@ -2261,6 +2289,7 @@ City of Scottsbluff,Aug 2025,1
 City of Scottsbluff,Oct 2025,3
 City of Scottsbluff,Nov 2025,1
 City of Scottsbluff,Dec 2025,1
+City of Scottsbluff,Jan 2026,1
 City of Sevierville,Jan 2025,1
 City of Sevierville,Feb 2025,1
 City of Sevierville,Mar 2025,1
@@ -2272,6 +2301,7 @@ City of Sevierville,Sep 2025,1
 City of Sevierville,Oct 2025,1
 City of Sevierville,Nov 2025,1
 City of Sevierville,Dec 2025,1
+City of Sevierville,Jan 2026,1
 City of Sherman,Jan 2025,1
 City of Sherman,Feb 2025,3
 City of Sherman,Mar 2025,1
@@ -2296,6 +2326,7 @@ City of Sidney,Sep 2025,1
 City of Sidney,Oct 2025,2
 City of Sidney,Nov 2025,1
 City of Sidney,Dec 2025,2
+City of Sidney,Jan 2026,2
 City of Snellville,Jan 2025,1
 City of Snellville,Feb 2025,1
 City of Snellville,Mar 2025,1
@@ -2391,7 +2422,7 @@ City of Tullahoma,Sep 2025,3
 City of Tullahoma,Oct 2025,3
 City of Tullahoma,Nov 2025,3
 City of Tullahoma,Dec 2025,3
-City of Tullahoma,Jan 2026,1
+City of Tullahoma,Jan 2026,3
 City of Tulsa,Jan 2025,3
 City of Tulsa,Feb 2025,4
 City of Tulsa,Mar 2025,3
@@ -2410,6 +2441,7 @@ City of Vinita,Mar 2025,1
 City of Vinita,May 2025,3
 City of Vinita,Sep 2025,1
 City of Vinita,Nov 2025,1
+City of Vinita,Jan 2026,1
 City of Visalia,Jan 2025,1
 City of Visalia,Feb 2025,1
 City of Visalia,Apr 2025,2
@@ -2421,7 +2453,6 @@ City of Visalia,Sep 2025,1
 City of Visalia,Oct 2025,2
 City of Visalia,Nov 2025,1
 City of Visalia,Dec 2025,1
-City of Visalia,Jan 2026,1
 City of Winfield,Jan 2025,1
 City of Winfield,Feb 2025,1
 City of Winfield,Mar 2025,1
@@ -2505,7 +2536,7 @@ Coastal Environmental Service,Sep 2025,1
 Coastal Environmental Service,Oct 2025,2
 Coastal Environmental Service,Nov 2025,2
 Coastal Environmental Service,Dec 2025,2
-Coastal Environmental Service,Jan 2026,1
+Coastal Environmental Service,Jan 2026,2
 Coastal Waste & Recycling,Jan 2025,54
 Coastal Waste & Recycling,Feb 2025,43
 Coastal Waste & Recycling,Mar 2025,43
@@ -2518,7 +2549,7 @@ Coastal Waste & Recycling,Sep 2025,69
 Coastal Waste & Recycling,Oct 2025,101
 Coastal Waste & Recycling,Nov 2025,86
 Coastal Waste & Recycling,Dec 2025,107
-Coastal Waste & Recycling,Jan 2026,16
+Coastal Waste & Recycling,Jan 2026,21
 Cockey's Enterprises,Jan 2025,28
 Cockey's Enterprises,Feb 2025,151
 Cockey's Enterprises,Mar 2025,130
@@ -2531,7 +2562,7 @@ Cockey's Enterprises,Sep 2025,179
 Cockey's Enterprises,Oct 2025,199
 Cockey's Enterprises,Nov 2025,229
 Cockey's Enterprises,Dec 2025,211
-Cockey's Enterprises,Jan 2026,166
+Cockey's Enterprises,Jan 2026,192
 Cogent Waste Solutions,Jan 2025,1
 Cogent Waste Solutions,Feb 2025,1
 Cogent Waste Solutions,Apr 2025,1
@@ -2543,7 +2574,7 @@ Cogent Waste Solutions,Sep 2025,2
 Cogent Waste Solutions,Oct 2025,2
 Cogent Waste Solutions,Nov 2025,2
 Cogent Waste Solutions,Dec 2025,11
-Cogent Waste Solutions,Jan 2026,4
+Cogent Waste Solutions,Jan 2026,9
 Coles County Sanitation,Jan 2025,1
 Coles County Sanitation,Feb 2025,1
 Coles County Sanitation,Apr 2025,2
@@ -2597,7 +2628,7 @@ Compactor Rentals of America,Aug 2025,30
 Compactor Rentals of America,Sep 2025,52
 Compactor Rentals of America,Oct 2025,50
 Compactor Rentals of America,Nov 2025,50
-Compactor Rentals of America,Dec 2025,60
+Compactor Rentals of America,Dec 2025,56
 Compactor Rentals of America,Jan 2026,48
 Complete Solutions & Sourcing,Sep 2025,1
 Complete Solutions & Sourcing,Oct 2025,3
@@ -2615,7 +2646,7 @@ CompostNow,Sep 2025,1
 CompostNow,Oct 2025,2
 CompostNow,Nov 2025,2
 CompostNow,Dec 2025,2
-CompostNow,Jan 2026,1
+CompostNow,Jan 2026,2
 Conex Recycling,Jan 2025,9
 Conex Recycling,Feb 2025,8
 Conex Recycling,Mar 2025,6
@@ -2641,7 +2672,7 @@ Conigliaro Industries,Sep 2025,23
 Conigliaro Industries,Oct 2025,23
 Conigliaro Industries,Nov 2025,16
 Conigliaro Industries,Dec 2025,24
-Conigliaro Industries,Jan 2026,5
+Conigliaro Industries,Jan 2026,11
 Container Rental Co,Jan 2025,5
 Container Rental Co,Feb 2025,4
 Container Rental Co,Mar 2025,2
@@ -2695,6 +2726,7 @@ Coos Bay Sanitary,Sep 2025,1
 Coos Bay Sanitary,Oct 2025,1
 Coos Bay Sanitary,Nov 2025,1
 Coos Bay Sanitary,Dec 2025,1
+Coos Bay Sanitary,Jan 2026,1
 Copper State Sanitation,Jan 2025,1
 Copper State Sanitation,Mar 2025,1
 Copper State Sanitation,Jun 2025,3
@@ -2724,7 +2756,7 @@ County Hauling,Sep 2025,24
 County Hauling,Oct 2025,29
 County Hauling,Nov 2025,34
 County Hauling,Dec 2025,34
-County Hauling,Jan 2026,14
+County Hauling,Jan 2026,32
 County Waste Systems,Jan 2025,7
 County Waste Systems,Feb 2025,8
 County Waste Systems,Mar 2025,5
@@ -2774,7 +2806,7 @@ Cram-A-Lot,Sep 2025,4
 Cram-A-Lot,Oct 2025,4
 Cram-A-Lot,Nov 2025,4
 Cram-A-Lot,Dec 2025,4
-Cram-A-Lot,Jan 2026,2
+Cram-A-Lot,Jan 2026,5
 Crane Roll-Off,Jan 2025,3
 Crane Roll-Off,Feb 2025,2
 Crane Roll-Off,Mar 2025,2
@@ -2836,6 +2868,7 @@ D Crescio Trucking,Sep 2025,20
 D Crescio Trucking,Oct 2025,7
 D Crescio Trucking,Nov 2025,17
 D Crescio Trucking,Dec 2025,16
+D Crescio Trucking,Jan 2026,5
 D&S Portable Toilets,Jan 2025,1
 D&S Portable Toilets,Feb 2025,1
 D&S Portable Toilets,Mar 2025,1
@@ -2854,6 +2887,7 @@ D&S Waste,Jul 2025,1
 D&S Waste,Sep 2025,2
 D&S Waste,Nov 2025,1
 D&S Waste,Dec 2025,2
+D&S Waste,Jan 2026,1
 DC Metals,Jan 2025,1
 DC Metals,Feb 2025,2
 DC Metals,Mar 2025,2
@@ -2879,7 +2913,7 @@ DC Waste,Sep 2025,3
 DC Waste,Oct 2025,3
 DC Waste,Nov 2025,3
 DC Waste,Dec 2025,4
-DC Waste,Jan 2026,3
+DC Waste,Jan 2026,4
 DKMM Solid Waste,Dec 2025,1
 Dan's Sanitation,Feb 2025,1
 Dan's Sanitation,Mar 2025,1
@@ -2932,7 +2966,7 @@ Debris to Green,Sep 2025,10
 Debris to Green,Oct 2025,10
 Debris to Green,Nov 2025,7
 Debris to Green,Dec 2025,11
-Debris to Green,Jan 2026,4
+Debris to Green,Jan 2026,7
 Dedicated Dumpster Service,Jan 2025,1
 Dedicated Dumpster Service,Mar 2025,2
 Dedicated Dumpster Service,Apr 2025,1
@@ -2982,7 +3016,7 @@ Delta Waste Solutions,Sep 2025,38
 Delta Waste Solutions,Oct 2025,43
 Delta Waste Solutions,Nov 2025,35
 Delta Waste Solutions,Dec 2025,39
-Delta Waste Solutions,Jan 2026,46
+Delta Waste Solutions,Jan 2026,48
 Denali Disposal,Jan 2025,1
 Denali Disposal,Feb 2025,2
 Denali Disposal,Mar 2025,2
@@ -3008,7 +3042,7 @@ Dependable Sanitation Inc,Sep 2025,4
 Dependable Sanitation Inc,Oct 2025,5
 Dependable Sanitation Inc,Nov 2025,6
 Dependable Sanitation Inc,Dec 2025,8
-Dependable Sanitation Inc,Jan 2026,7
+Dependable Sanitation Inc,Jan 2026,8
 Desert Green Disposal,Jan 2025,1
 Desert Green Disposal,Feb 2025,1
 Desert Green Disposal,Apr 2025,1
@@ -3030,7 +3064,7 @@ Detroit Disposal,Sep 2025,22
 Detroit Disposal,Oct 2025,30
 Detroit Disposal,Nov 2025,28
 Detroit Disposal,Dec 2025,31
-Detroit Disposal,Jan 2026,15
+Detroit Disposal,Jan 2026,22
 Diamond Disposal,Feb 2025,2
 Diamond Disposal,Apr 2025,3
 Diamond Disposal,May 2025,3
@@ -3040,7 +3074,7 @@ Diamond Disposal,Sep 2025,5
 Diamond Disposal,Oct 2025,3
 Diamond Disposal,Nov 2025,4
 Diamond Disposal,Dec 2025,2
-Diamond Disposal,Jan 2026,2
+Diamond Disposal,Jan 2026,5
 Dillon Disposal,Apr 2025,1
 Dillon Disposal,May 2025,1
 Dillon Disposal,Jun 2025,1
@@ -3049,7 +3083,7 @@ Dillon Disposal,Aug 2025,1
 Dillon Disposal,Oct 2025,1
 Dillon Disposal,Nov 2025,1
 Dillon Disposal,Dec 2025,5
-Dillon Disposal,Jan 2026,3
+Dillon Disposal,Jan 2026,4
 Direct Waste Services,Jan 2025,10
 Direct Waste Services,Feb 2025,10
 Direct Waste Services,Apr 2025,23
@@ -3078,7 +3112,7 @@ Disposal Management,Sep 2025,9
 Disposal Management,Oct 2025,13
 Disposal Management,Nov 2025,30
 Disposal Management,Dec 2025,7
-Disposal Management,Jan 2026,16
+Disposal Management,Jan 2026,21
 Disposal Services LLC,Feb 2025,5
 Disposal Services LLC,May 2025,5
 Disposal Services LLC,Jun 2025,16
@@ -3088,7 +3122,7 @@ Disposal Services LLC,Sep 2025,4
 Disposal Services LLC,Oct 2025,4
 Disposal Services LLC,Nov 2025,4
 Disposal Services LLC,Dec 2025,4
-Disposal Services LLC,Jan 2026,4
+Disposal Services LLC,Jan 2026,5
 Document Destruction of Virginia,Feb 2025,1
 Document Destruction of Virginia,Mar 2025,1
 Document Destruction of Virginia,Apr 2025,1
@@ -3099,6 +3133,7 @@ Document Destruction of Virginia,Aug 2025,1
 Document Destruction of Virginia,Oct 2025,2
 Document Destruction of Virginia,Nov 2025,1
 Document Destruction of Virginia,Dec 2025,2
+Document Destruction of Virginia,Jan 2026,1
 Dodd's Trash Hauling,Apr 2025,1
 Douglas Disposal,Jan 2025,1
 Douglas Disposal,Feb 2025,1
@@ -3122,6 +3157,7 @@ DuMontelle Waste,Sep 2025,1
 DuMontelle Waste,Oct 2025,1
 DuMontelle Waste,Nov 2025,1
 DuMontelle Waste,Dec 2025,1
+DuMontelle Waste,Jan 2026,2
 Dugger Trash Service,Jan 2025,2
 Dugger Trash Service,Feb 2025,2
 Dugger Trash Service,Apr 2025,2
@@ -3144,7 +3180,7 @@ Dunham,Sep 2025,4
 Dunham,Oct 2025,5
 Dunham,Nov 2025,2
 Dunham,Dec 2025,3
-Dunham,Jan 2026,2
+Dunham,Jan 2026,4
 Durflinger Disposal Service,Mar 2025,1
 Durflinger Disposal Service,Apr 2025,1
 Durflinger Disposal Service,May 2025,2
@@ -3153,6 +3189,7 @@ Durflinger Disposal Service,Jul 2025,1
 Durflinger Disposal Service,Oct 2025,2
 Durflinger Disposal Service,Nov 2025,2
 Durflinger Disposal Service,Dec 2025,1
+Durflinger Disposal Service,Jan 2026,1
 Dyersburg Gas & Water,Jan 2025,1
 Dyersburg Gas & Water,Mar 2025,1
 Dyersburg Gas & Water,Apr 2025,1
@@ -3172,6 +3209,7 @@ E.J. Harrison & Sons,Aug 2025,5
 E.J. Harrison & Sons,Sep 2025,8
 E.J. Harrison & Sons,Oct 2025,8
 E.J. Harrison & Sons,Dec 2025,17
+E.J. Harrison & Sons,Jan 2026,1
 E.L. Harvey & Sons,Jan 2025,6
 E.L. Harvey & Sons,Feb 2025,1
 E.L. Harvey & Sons,Mar 2025,9
@@ -3197,7 +3235,7 @@ EDCO Waste & Recycling Services,Sep 2025,28
 EDCO Waste & Recycling Services,Oct 2025,29
 EDCO Waste & Recycling Services,Nov 2025,36
 EDCO Waste & Recycling Services,Dec 2025,35
-EDCO Waste & Recycling Services,Jan 2026,21
+EDCO Waste & Recycling Services,Jan 2026,23
 EOMS Recycling,Jan 2025,10
 EOMS Recycling,Feb 2025,9
 EOMS Recycling,Apr 2025,27
@@ -3239,6 +3277,7 @@ Eagle Disposal,Sep 2025,42
 Eagle Disposal,Oct 2025,42
 Eagle Disposal,Nov 2025,42
 Eagle Disposal,Dec 2025,46
+Eagle Disposal,Jan 2026,43
 Eagle Equipment Corporation,Feb 2025,1
 Eagle Equipment Corporation,Mar 2025,6
 Eagle Equipment Corporation,May 2025,1
@@ -3269,6 +3308,7 @@ Earthwise Waste Solutions,Sep 2025,3
 Earthwise Waste Solutions,Oct 2025,4
 Earthwise Waste Solutions,Nov 2025,3
 Earthwise Waste Solutions,Dec 2025,3
+Earthwise Waste Solutions,Jan 2026,2
 East Central Kansas,Mar 2025,2
 East Central Kansas,Apr 2025,1
 East Central Kansas,May 2025,1
@@ -3308,7 +3348,7 @@ EcoSouth,Sep 2025,21
 EcoSouth,Oct 2025,24
 EcoSouth,Nov 2025,22
 EcoSouth,Dec 2025,44
-EcoSouth,Jan 2026,5
+EcoSouth,Jan 2026,13
 Econo Waste Inc,Jan 2025,2
 Econo Waste Inc,Apr 2025,3
 Econo Waste Inc,May 2025,10
@@ -3318,6 +3358,7 @@ Econo Waste Inc,Sep 2025,3
 Econo Waste Inc,Oct 2025,7
 Econo Waste Inc,Nov 2025,1
 Econo Waste Inc,Dec 2025,1
+Econo Waste Inc,Jan 2026,1
 Ecotech,Jan 2025,1
 Ecotech,Feb 2025,25
 Ecotech,Mar 2025,1
@@ -3330,11 +3371,12 @@ Ecotech,Sep 2025,59
 Ecotech,Oct 2025,7
 Ecotech,Nov 2025,36
 Ecotech,Dec 2025,37
-Ecotech,Jan 2026,20
+Ecotech,Jan 2026,21
 Ed's Disposal,Mar 2025,3
 Ed's Disposal,May 2025,2
 Ed's Disposal,Sep 2025,1
 Ed's Disposal,Nov 2025,2
+Ed's Disposal,Jan 2026,2
 Edge Waste,Apr 2025,1
 Edge Waste,Jun 2025,1
 Edge Waste,Jul 2025,2
@@ -3351,6 +3393,7 @@ Edward Arnold Scrap Processors,Jun 2025,1
 Edward Arnold Scrap Processors,Aug 2025,1
 Edward Arnold Scrap Processors,Sep 2025,2
 Edward Arnold Scrap Processors,Nov 2025,1
+Edward Arnold Scrap Processors,Jan 2026,1
 Efficient Roll-Off & Recycling,Jan 2025,2
 Efficient Roll-Off & Recycling,Feb 2025,1
 Efficient Roll-Off & Recycling,Apr 2025,10
@@ -3410,7 +3453,7 @@ Empire Recycling Corporation,Sep 2025,6
 Empire Recycling Corporation,Oct 2025,7
 Empire Recycling Corporation,Nov 2025,4
 Empire Recycling Corporation,Dec 2025,2
-Empire Recycling Corporation,Jan 2026,2
+Empire Recycling Corporation,Jan 2026,7
 Empire Waste,Jan 2025,28
 Empire Waste,Feb 2025,28
 Empire Waste,Apr 2025,29
@@ -3516,8 +3559,8 @@ FCC Environmental Services,Aug 2025,44
 FCC Environmental Services,Sep 2025,43
 FCC Environmental Services,Oct 2025,102
 FCC Environmental Services,Nov 2025,101
-FCC Environmental Services,Dec 2025,100
-FCC Environmental Services,Jan 2026,39
+FCC Environmental Services,Dec 2025,99
+FCC Environmental Services,Jan 2026,43
 Far West Recycling,Oct 2025,4
 Fayette Waste,Jan 2025,3
 Fayette Waste,Feb 2025,3
@@ -3574,7 +3617,7 @@ First Piedmont,Sep 2025,12
 First Piedmont,Oct 2025,10
 First Piedmont,Nov 2025,11
 First Piedmont,Dec 2025,10
-First Piedmont,Jan 2026,8
+First Piedmont,Jan 2026,9
 Five Star Waste,Mar 2025,2
 Five Star Waste,Apr 2025,5
 Five Star Waste,May 2025,3
@@ -3585,7 +3628,7 @@ Five Star Waste,Sep 2025,8
 Five Star Waste,Oct 2025,32
 Five Star Waste,Nov 2025,25
 Five Star Waste,Dec 2025,31
-Five Star Waste,Jan 2026,8
+Five Star Waste,Jan 2026,16
 Flood Brothers,Jan 2025,53
 Flood Brothers,Feb 2025,53
 Flood Brothers,Mar 2025,54
@@ -3610,7 +3653,7 @@ Florida Express Environmental,Aug 2025,10
 Florida Express Environmental,Sep 2025,9
 Florida Express Environmental,Oct 2025,9
 Florida Express Environmental,Nov 2025,12
-Florida Express Environmental,Dec 2025,18
+Florida Express Environmental,Dec 2025,16
 Florida Express Environmental,Jan 2026,9
 Florida Waste Solutions,Mar 2025,3
 Florida Waste Solutions,Apr 2025,2
@@ -3621,11 +3664,13 @@ Florida Waste Solutions,Sep 2025,3
 Florida Waste Solutions,Oct 2025,4
 Florida Waste Solutions,Nov 2025,3
 Florida Waste Solutions,Dec 2025,3
+Florida Waste Solutions,Jan 2026,2
 Fogle's,Jul 2025,4
 Fogle's,Aug 2025,5
 Fogle's,Oct 2025,5
 Fogle's,Nov 2025,1
 Fogle's,Dec 2025,12
+Fogle's,Jan 2026,1
 Food To Power,Apr 2025,3
 Food To Power,Jun 2025,2
 Food To Power,Jul 2025,1
@@ -3653,11 +3698,12 @@ Franklin Disposal,Sep 2025,1
 Franklin Disposal,Oct 2025,1
 Franklin Disposal,Nov 2025,1
 Franklin Disposal,Dec 2025,1
+Franklin Disposal,Jan 2026,1
 Franklin Pallet,Sep 2025,2
 Franklin Pallet,Oct 2025,4
 Franklin Pallet,Nov 2025,1
 Franklin Pallet,Dec 2025,1
-Franklin Pallet,Jan 2026,1
+Franklin Pallet,Jan 2026,2
 Friedman's Recycling,Jan 2025,60
 Friedman's Recycling,Feb 2025,60
 Friedman's Recycling,Mar 2025,55
@@ -3670,6 +3716,7 @@ Friedman's Recycling,Sep 2025,70
 Friedman's Recycling,Oct 2025,81
 Friedman's Recycling,Nov 2025,92
 Friedman's Recycling,Dec 2025,81
+Friedman's Recycling,Jan 2026,82
 Friends Garbage,Jan 2025,3
 Friends Garbage,Feb 2025,1
 Friends Garbage,Apr 2025,1
@@ -3681,6 +3728,7 @@ Friends Garbage,Sep 2025,2
 Friends Garbage,Oct 2025,2
 Friends Garbage,Nov 2025,2
 Friends Garbage,Dec 2025,2
+Friends Garbage,Jan 2026,2
 Frontier Waste,Jan 2025,34
 Frontier Waste,Feb 2025,33
 Frontier Waste,Mar 2025,43
@@ -3693,7 +3741,7 @@ Frontier Waste,Sep 2025,77
 Frontier Waste,Oct 2025,80
 Frontier Waste,Nov 2025,73
 Frontier Waste,Dec 2025,82
-Frontier Waste,Jan 2026,55
+Frontier Waste,Jan 2026,64
 Full Circle Recycling,Feb 2025,1
 Full Circle Recycling,Mar 2025,1
 Full Circle Recycling,Apr 2025,2
@@ -3704,7 +3752,8 @@ Full Circle Recycling,Aug 2025,1
 Full Circle Recycling,Sep 2025,2
 Full Circle Recycling,Oct 2025,2
 Full Circle Recycling,Nov 2025,2
-Full Circle Recycling,Dec 2025,3
+Full Circle Recycling,Dec 2025,2
+Full Circle Recycling,Jan 2026,1
 Fusion Waste,Jan 2025,48
 Fusion Waste,Feb 2025,45
 Fusion Waste,Mar 2025,52
@@ -3717,7 +3766,7 @@ Fusion Waste,Sep 2025,68
 Fusion Waste,Oct 2025,85
 Fusion Waste,Nov 2025,108
 Fusion Waste,Dec 2025,116
-Fusion Waste,Jan 2026,88
+Fusion Waste,Jan 2026,114
 G2 Revolution,Jan 2025,2
 G2 Revolution,Feb 2025,2
 G2 Revolution,Mar 2025,3
@@ -3741,8 +3790,8 @@ GFL Environmental,Aug 2025,520
 GFL Environmental,Sep 2025,568
 GFL Environmental,Oct 2025,568
 GFL Environmental,Nov 2025,660
-GFL Environmental,Dec 2025,607
-GFL Environmental,Jan 2026,285
+GFL Environmental,Dec 2025,606
+GFL Environmental,Jan 2026,544
 GHW Waste Services,Jan 2025,11
 GHW Waste Services,Feb 2025,20
 GHW Waste Services,Mar 2025,18
@@ -3812,7 +3861,7 @@ Gateway Disposal,Sep 2025,6
 Gateway Disposal,Oct 2025,6
 Gateway Disposal,Nov 2025,4
 Gateway Disposal,Dec 2025,5
-Gateway Disposal,Jan 2026,1
+Gateway Disposal,Jan 2026,3
 Gear For Waste,Feb 2025,1
 Gear For Waste,Mar 2025,2
 Gear For Waste,Apr 2025,1
@@ -3833,6 +3882,7 @@ Generated Materials Recovery,Aug 2025,1
 Generated Materials Recovery,Sep 2025,1
 Generated Materials Recovery,Oct 2025,1
 Generated Materials Recovery,Dec 2025,1
+Generated Materials Recovery,Jan 2026,1
 Geodom Carting,Jan 2025,4
 Geodom Carting,Feb 2025,3
 Geodom Carting,Mar 2025,2
@@ -3899,7 +3949,7 @@ Glendale Arizona Utilities,Sep 2025,4
 Glendale Arizona Utilities,Oct 2025,5
 Glendale Arizona Utilities,Nov 2025,5
 Glendale Arizona Utilities,Dec 2025,5
-Glendale Arizona Utilities,Jan 2026,1
+Glendale Arizona Utilities,Jan 2026,5
 Golden Eagle Services,Feb 2025,1
 Golden Eagle Services,Mar 2025,1
 Golden Eagle Services,Apr 2025,1
@@ -3957,7 +4007,7 @@ Good's Disposal,Sep 2025,3
 Good's Disposal,Oct 2025,5
 Good's Disposal,Nov 2025,4
 Good's Disposal,Dec 2025,5
-Good's Disposal,Jan 2026,2
+Good's Disposal,Jan 2026,3
 Goode Companies,Jan 2025,2
 Goode Companies,Feb 2025,1
 Goode Companies,Apr 2025,2
@@ -4019,7 +4069,7 @@ Granger Waste Services,Sep 2025,23
 Granger Waste Services,Oct 2025,20
 Granger Waste Services,Nov 2025,24
 Granger Waste Services,Dec 2025,23
-Granger Waste Services,Jan 2026,22
+Granger Waste Services,Jan 2026,25
 Graybill Equipment & Repair,Sep 2025,2
 Graybill Equipment & Repair,Oct 2025,2
 Graybill Equipment & Repair,Dec 2025,2
@@ -4047,7 +4097,7 @@ Green Guys,Sep 2025,7
 Green Guys,Oct 2025,13
 Green Guys,Nov 2025,6
 Green Guys,Dec 2025,7
-Green Guys,Jan 2026,1
+Green Guys,Jan 2026,3
 Green OBKY,Jan 2025,5
 Green OBKY,Mar 2025,8
 Green OBKY,Apr 2025,1
@@ -4095,7 +4145,7 @@ Greenway Waste,Sep 2025,6
 Greenway Waste,Oct 2025,2
 Greenway Waste,Nov 2025,1
 Greenway Waste,Dec 2025,8
-Greenway Waste,Jan 2026,1
+Greenway Waste,Jan 2026,5
 Greif,Jan 2025,8
 Greif,Feb 2025,5
 Greif,Mar 2025,5
@@ -4133,6 +4183,7 @@ Grizzly Disposal,Sep 2025,12
 Grizzly Disposal,Oct 2025,12
 Grizzly Disposal,Nov 2025,12
 Grizzly Disposal,Dec 2025,12
+Grizzly Disposal,Jan 2026,12
 Grogan Waste Services,Feb 2025,3
 Grogan Waste Services,Mar 2025,2
 Grogan Waste Services,Apr 2025,3
@@ -4143,7 +4194,7 @@ Grogan Waste Services,Sep 2025,4
 Grogan Waste Services,Oct 2025,4
 Grogan Waste Services,Nov 2025,4
 Grogan Waste Services,Dec 2025,4
-Grogan Waste Services,Jan 2026,7
+Grogan Waste Services,Jan 2026,6
 Guido's Services,Jan 2025,1
 Guido's Services,Aug 2025,2
 Guido's Services,Dec 2025,3
@@ -4276,7 +4327,7 @@ Harter's Fox Valley Disposal,Sep 2025,50
 Harter's Fox Valley Disposal,Oct 2025,55
 Harter's Fox Valley Disposal,Nov 2025,53
 Harter's Fox Valley Disposal,Dec 2025,60
-Harter's Fox Valley Disposal,Jan 2026,57
+Harter's Fox Valley Disposal,Jan 2026,58
 Haul Away Rubbish,Jan 2025,6
 Haul Away Rubbish,Feb 2025,3
 Haul Away Rubbish,Mar 2025,4
@@ -4289,7 +4340,7 @@ Haul Away Rubbish,Sep 2025,5
 Haul Away Rubbish,Oct 2025,6
 Haul Away Rubbish,Nov 2025,6
 Haul Away Rubbish,Dec 2025,6
-Haul Away Rubbish,Jan 2026,6
+Haul Away Rubbish,Jan 2026,7
 Heartland Waste Management,Apr 2025,1
 Heartland Waste Management,May 2025,6
 Heartland Waste Management,Jul 2025,3
@@ -4311,6 +4362,7 @@ Heavenly Trash,Sep 2025,12
 Heavenly Trash,Oct 2025,22
 Heavenly Trash,Nov 2025,12
 Heavenly Trash,Dec 2025,14
+Heavenly Trash,Jan 2026,12
 Heiberg Garbage,Jan 2025,8
 Heiberg Garbage,Feb 2025,9
 Heiberg Garbage,Mar 2025,8
@@ -4352,7 +4404,7 @@ Hill Country Waste,Sep 2025,7
 Hill Country Waste,Oct 2025,5
 Hill Country Waste,Nov 2025,4
 Hill Country Waste,Dec 2025,4
-Hill Country Waste,Jan 2026,6
+Hill Country Waste,Jan 2026,10
 Hillsboro Garbage Disposal,Jan 2025,1
 Hillsboro Garbage Disposal,Feb 2025,1
 Hillsboro Garbage Disposal,May 2025,2
@@ -4377,6 +4429,7 @@ Hillside Solutions,Sep 2025,3
 Hillside Solutions,Oct 2025,4
 Hillside Solutions,Nov 2025,3
 Hillside Solutions,Dec 2025,3
+Hillside Solutions,Jan 2026,4
 Hilltopper Refuse,Mar 2025,1
 Hilltopper Refuse,Apr 2025,1
 Hilltopper Refuse,May 2025,2
@@ -4413,7 +4466,7 @@ Hogland's Transfer,Sep 2025,6
 Hogland's Transfer,Oct 2025,6
 Hogland's Transfer,Nov 2025,4
 Hogland's Transfer,Dec 2025,7
-Hogland's Transfer,Jan 2026,2
+Hogland's Transfer,Jan 2026,3
 Hometown Sanitation,Jan 2025,2
 Hometown Sanitation,Feb 2025,4
 Hometown Sanitation,Mar 2025,6
@@ -4426,7 +4479,7 @@ Hometown Sanitation,Sep 2025,8
 Hometown Sanitation,Oct 2025,5
 Hometown Sanitation,Nov 2025,4
 Hometown Sanitation,Dec 2025,8
-Hometown Sanitation,Jan 2026,1
+Hometown Sanitation,Jan 2026,2
 Homewood Disposal Service,Jan 2025,38
 Homewood Disposal Service,Feb 2025,36
 Homewood Disposal Service,Mar 2025,42
@@ -4475,7 +4528,7 @@ Hoss Disposal,Aug 2025,1
 Hoss Disposal,Sep 2025,6
 Hoss Disposal,Oct 2025,3
 Hoss Disposal,Nov 2025,1
-Hoss Disposal,Dec 2025,10
+Hoss Disposal,Dec 2025,9
 Hotchkiss Disposal,Feb 2025,2
 Hotchkiss Disposal,Mar 2025,1
 Hotchkiss Disposal,Apr 2025,4
@@ -4486,6 +4539,7 @@ Hotchkiss Disposal,Aug 2025,4
 Hotchkiss Disposal,Oct 2025,3
 Hotchkiss Disposal,Nov 2025,5
 Hotchkiss Disposal,Dec 2025,8
+Hotchkiss Disposal,Jan 2026,2
 Howard Disposal,Jan 2025,15
 Howard Disposal,Feb 2025,5
 Howard Disposal,Mar 2025,2
@@ -4498,7 +4552,7 @@ Howard Disposal,Sep 2025,29
 Howard Disposal,Oct 2025,32
 Howard Disposal,Nov 2025,20
 Howard Disposal,Dec 2025,31
-Howard Disposal,Jan 2026,10
+Howard Disposal,Jan 2026,13
 Howie's Trash Service,Apr 2025,2
 Howie's Trash Service,May 2025,2
 Howie's Trash Service,Jun 2025,1
@@ -4587,7 +4641,7 @@ Idaho Falls Utilities,Sep 2025,32
 Idaho Falls Utilities,Oct 2025,28
 Idaho Falls Utilities,Nov 2025,34
 Idaho Falls Utilities,Dec 2025,32
-Idaho Falls Utilities,Jan 2026,2
+Idaho Falls Utilities,Jan 2026,34
 Ideal Trash and Recycling,Jun 2025,1
 Ideal Trash and Recycling,Jul 2025,1
 Ideal Trash and Recycling,Aug 2025,1
@@ -4668,7 +4722,7 @@ Interstate Waste Services,Sep 2025,27
 Interstate Waste Services,Oct 2025,37
 Interstate Waste Services,Nov 2025,49
 Interstate Waste Services,Dec 2025,51
-Interstate Waste Services,Jan 2026,13
+Interstate Waste Services,Jan 2026,16
 Iron City Express,Jan 2025,4
 Iron City Express,Feb 2025,2
 Iron City Express,Mar 2025,7
@@ -4681,7 +4735,7 @@ Iron City Express,Sep 2025,5
 Iron City Express,Oct 2025,6
 Iron City Express,Nov 2025,5
 Iron City Express,Dec 2025,7
-Iron City Express,Jan 2026,7
+Iron City Express,Jan 2026,8
 Iron Mountain,Feb 2025,3
 Iron Mountain,Apr 2025,3
 Iron Mountain,Jun 2025,1
@@ -4743,8 +4797,8 @@ J&K Trash,Aug 2025,6
 J&K Trash,Sep 2025,5
 J&K Trash,Oct 2025,9
 J&K Trash,Nov 2025,6
-J&K Trash,Dec 2025,8
-J&K Trash,Jan 2026,1
+J&K Trash,Dec 2025,7
+J&K Trash,Jan 2026,6
 J&R Sanitation,Apr 2025,2
 J&R Sanitation,May 2025,1
 J&R Sanitation,Jun 2025,1
@@ -4753,6 +4807,7 @@ J&R Sanitation,Aug 2025,1
 J&R Sanitation,Oct 2025,2
 J&R Sanitation,Nov 2025,1
 J&R Sanitation,Dec 2025,1
+J&R Sanitation,Jan 2026,1
 J&T Environmental Fleet Services,Jan 2025,1
 J&T Environmental Fleet Services,Feb 2025,7
 J&T Environmental Fleet Services,Mar 2025,4
@@ -4777,7 +4832,7 @@ J.P. Mascaro,Sep 2025,39
 J.P. Mascaro,Oct 2025,39
 J.P. Mascaro,Nov 2025,41
 J.P. Mascaro,Dec 2025,41
-J.P. Mascaro,Jan 2026,2
+J.P. Mascaro,Jan 2026,38
 JD Parker,Feb 2025,2
 JD Parker,Mar 2025,3
 JD Parker,Apr 2025,3
@@ -4805,7 +4860,7 @@ JLT Trucking,Sep 2025,11
 JLT Trucking,Oct 2025,10
 JLT Trucking,Nov 2025,11
 JLT Trucking,Dec 2025,13
-JLT Trucking,Jan 2026,14
+JLT Trucking,Jan 2026,16
 Jackson County Solid Waste,Jan 2025,1
 Jackson County Solid Waste,Feb 2025,1
 Jackson County Solid Waste,Mar 2025,1
@@ -4842,6 +4897,7 @@ Jettison Environmental,Aug 2025,2
 Jettison Environmental,Oct 2025,3
 Jettison Environmental,Nov 2025,5
 Jettison Environmental,Dec 2025,2
+Jettison Environmental,Jan 2026,1
 Jim Dedman's Sanitation,Jan 2025,1
 Jim Dedman's Sanitation,Feb 2025,1
 Jim Dedman's Sanitation,Mar 2025,1
@@ -4852,7 +4908,7 @@ Jim Dedman's Sanitation,Sep 2025,2
 Jim Dedman's Sanitation,Oct 2025,2
 Jim Dedman's Sanitation,Nov 2025,2
 Jim Dedman's Sanitation,Dec 2025,2
-Jim Dedman's Sanitation,Jan 2026,1
+Jim Dedman's Sanitation,Jan 2026,2
 Jim's Sanitation,Jan 2025,2
 Jim's Sanitation,Feb 2025,1
 Jim's Sanitation,Mar 2025,1
@@ -4889,7 +4945,7 @@ Junk King,Sep 2025,7
 Junk King,Oct 2025,11
 Junk King,Nov 2025,4
 Junk King,Dec 2025,5
-Junk King,Jan 2026,1
+Junk King,Jan 2026,2
 Junk Removed Now,Mar 2025,5
 Junk Removed Now,Apr 2025,5
 Junk Removed Now,May 2025,6
@@ -4900,7 +4956,7 @@ Junk Removed Now,Sep 2025,7
 Junk Removed Now,Oct 2025,2
 Junk Removed Now,Nov 2025,2
 Junk Removed Now,Dec 2025,3
-Junk Removed Now,Jan 2026,1
+Junk Removed Now,Jan 2026,2
 Junk Solutions,Jan 2025,1
 Junk Solutions,Feb 2025,1
 Junk Solutions,Mar 2025,2
@@ -4912,7 +4968,7 @@ Junk Solutions,Sep 2025,1
 Junk Solutions,Oct 2025,1
 Junk Solutions,Nov 2025,3
 Junk Solutions,Dec 2025,2
-Junk Solutions,Jan 2026,1
+Junk Solutions,Jan 2026,2
 K & K Sanitation,Mar 2025,2
 K & K Sanitation,Apr 2025,3
 K & K Sanitation,May 2025,3
@@ -4934,7 +4990,7 @@ K-Town Disposal,Sep 2025,9
 K-Town Disposal,Oct 2025,10
 K-Town Disposal,Nov 2025,4
 K-Town Disposal,Dec 2025,4
-K-Town Disposal,Jan 2026,4
+K-Town Disposal,Jan 2026,5
 KC Disposal,Jan 2025,1
 KC Disposal,Feb 2025,4
 KC Disposal,Mar 2025,4
@@ -4960,6 +5016,7 @@ KMG Hauling Inc,Sep 2025,32
 KMG Hauling Inc,Oct 2025,32
 KMG Hauling Inc,Nov 2025,30
 KMG Hauling Inc,Dec 2025,36
+KMG Hauling Inc,Jan 2026,39
 Kahut Waste,Jan 2025,3
 Kahut Waste,Feb 2025,3
 Kahut Waste,Mar 2025,2
@@ -4997,7 +5054,7 @@ Kamps Pallets,Sep 2025,2
 Kamps Pallets,Oct 2025,2
 Kamps Pallets,Nov 2025,2
 Kamps Pallets,Dec 2025,2
-Kamps Pallets,Jan 2026,1
+Kamps Pallets,Jan 2026,2
 Kept Companies,Jan 2025,1
 Kept Companies,Feb 2025,1
 Kept Companies,Oct 2025,1
@@ -5073,7 +5130,7 @@ KnightHorst,Sep 2025,8
 KnightHorst,Oct 2025,20
 KnightHorst,Nov 2025,33
 KnightHorst,Dec 2025,28
-KnightHorst,Jan 2026,8
+KnightHorst,Jan 2026,10
 Kohlmorgan Hauling,Apr 2025,2
 Kohlmorgan Hauling,May 2025,1
 Kohlmorgan Hauling,Jun 2025,1
@@ -5083,6 +5140,7 @@ Kohlmorgan Hauling,Sep 2025,2
 Kohlmorgan Hauling,Oct 2025,1
 Kohlmorgan Hauling,Nov 2025,1
 Kohlmorgan Hauling,Dec 2025,2
+Kohlmorgan Hauling,Jan 2026,1
 Kootenai County Solid Waste,Jan 2025,3
 Kootenai County Solid Waste,Feb 2025,5
 Kootenai County Solid Waste,Mar 2025,4
@@ -5095,7 +5153,7 @@ Kootenai County Solid Waste,Sep 2025,6
 Kootenai County Solid Waste,Oct 2025,9
 Kootenai County Solid Waste,Nov 2025,3
 Kootenai County Solid Waste,Dec 2025,8
-Kootenai County Solid Waste,Jan 2026,1
+Kootenai County Solid Waste,Jan 2026,7
 Kurtzman's Sanitation,Jan 2025,2
 Kurtzman's Sanitation,Feb 2025,1
 Kurtzman's Sanitation,Apr 2025,1
@@ -5107,6 +5165,7 @@ Kurtzman's Sanitation,Sep 2025,3
 Kurtzman's Sanitation,Oct 2025,2
 Kurtzman's Sanitation,Nov 2025,2
 Kurtzman's Sanitation,Dec 2025,3
+Kurtzman's Sanitation,Jan 2026,2
 L&L Site Services,Jan 2025,1
 L&L Site Services,Feb 2025,1
 L&L Site Services,Mar 2025,3
@@ -5119,6 +5178,7 @@ L&L Site Services,Sep 2025,5
 L&L Site Services,Oct 2025,4
 L&L Site Services,Nov 2025,4
 L&L Site Services,Dec 2025,4
+L&L Site Services,Jan 2026,4
 LCI Services,Nov 2025,10
 LK Specialties,Jan 2025,2
 LK Specialties,Feb 2025,3
@@ -5132,7 +5192,7 @@ LK Specialties,Sep 2025,3
 LK Specialties,Oct 2025,6
 LK Specialties,Nov 2025,2
 LK Specialties,Dec 2025,7
-LK Specialties,Jan 2026,2
+LK Specialties,Jan 2026,3
 LRS,Jan 2025,44
 LRS,Feb 2025,65
 LRS,Mar 2025,62
@@ -5144,8 +5204,8 @@ LRS,Aug 2025,60
 LRS,Sep 2025,83
 LRS,Oct 2025,124
 LRS,Nov 2025,69
-LRS,Dec 2025,119
-LRS,Jan 2026,55
+LRS,Dec 2025,118
+LRS,Jan 2026,57
 LaVeine Sanitation,Feb 2025,1
 LaVeine Sanitation,Apr 2025,1
 LaVeine Sanitation,May 2025,3
@@ -5195,7 +5255,7 @@ Lakeshore Recycling,Sep 2025,2
 Lakeshore Recycling,Oct 2025,15
 Lakeshore Recycling,Nov 2025,13
 Lakeshore Recycling,Dec 2025,8
-Lakeshore Recycling,Jan 2026,8
+Lakeshore Recycling,Jan 2026,9
 Lance Refuse,Jan 2025,1
 Lance Refuse,Feb 2025,3
 Lance Refuse,Apr 2025,1
@@ -5230,7 +5290,7 @@ Las Vegas Recycling,Sep 2025,30
 Las Vegas Recycling,Oct 2025,24
 Las Vegas Recycling,Nov 2025,23
 Las Vegas Recycling,Dec 2025,68
-Las Vegas Recycling,Jan 2026,19
+Las Vegas Recycling,Jan 2026,40
 Lawrence County Solid Waste,Jan 2025,6
 Lawrence County Solid Waste,Feb 2025,5
 Lawrence County Solid Waste,Apr 2025,4
@@ -5255,7 +5315,7 @@ Lawrence Waste Services Corp,Sep 2025,80
 Lawrence Waste Services Corp,Oct 2025,58
 Lawrence Waste Services Corp,Nov 2025,69
 Lawrence Waste Services Corp,Dec 2025,104
-Lawrence Waste Services Corp,Jan 2026,77
+Lawrence Waste Services Corp,Jan 2026,81
 Lemhi Sanitation,Jan 2025,1
 Lemhi Sanitation,Feb 2025,3
 Lemhi Sanitation,Mar 2025,1
@@ -5268,6 +5328,7 @@ Lemhi Sanitation,Sep 2025,3
 Lemhi Sanitation,Oct 2025,2
 Lemhi Sanitation,Nov 2025,4
 Lemhi Sanitation,Dec 2025,4
+Lemhi Sanitation,Jan 2026,1
 Lex Serv,Jan 2025,1
 Lex Serv,Feb 2025,1
 Lex Serv,Apr 2025,8
@@ -5295,6 +5356,7 @@ Liberty Ashes,Sep 2025,1
 Liberty Ashes,Oct 2025,1
 Liberty Ashes,Nov 2025,2
 Liberty Ashes,Dec 2025,1
+Liberty Ashes,Jan 2026,1
 Liberty Disposal,Jan 2025,8
 Liberty Disposal,Feb 2025,9
 Liberty Disposal,Mar 2025,8
@@ -5307,7 +5369,7 @@ Liberty Disposal,Sep 2025,10
 Liberty Disposal,Oct 2025,16
 Liberty Disposal,Nov 2025,15
 Liberty Disposal,Dec 2025,15
-Liberty Disposal,Jan 2026,9
+Liberty Disposal,Jan 2026,13
 Liberty Waste Solutions,Jan 2025,5
 Liberty Waste Solutions,Feb 2025,6
 Liberty Waste Solutions,Mar 2025,6
@@ -5320,7 +5382,7 @@ Liberty Waste Solutions,Sep 2025,48
 Liberty Waste Solutions,Oct 2025,69
 Liberty Waste Solutions,Nov 2025,81
 Liberty Waste Solutions,Dec 2025,86
-Liberty Waste Solutions,Jan 2026,50
+Liberty Waste Solutions,Jan 2026,59
 Lift Waste,Jan 2025,2
 Lift Waste,Feb 2025,3
 Lift Waste,Mar 2025,3
@@ -5346,7 +5408,7 @@ Lightning Disposal Inc,Sep 2025,24
 Lightning Disposal Inc,Oct 2025,34
 Lightning Disposal Inc,Nov 2025,28
 Lightning Disposal Inc,Dec 2025,31
-Lightning Disposal Inc,Jan 2026,4
+Lightning Disposal Inc,Jan 2026,12
 Live Oak,Jan 2025,12
 Live Oak,Feb 2025,10
 Live Oak,Mar 2025,12
@@ -5422,7 +5484,7 @@ MARS City of Beatrice,Sep 2025,3
 MARS City of Beatrice,Oct 2025,5
 MARS City of Beatrice,Nov 2025,2
 MARS City of Beatrice,Dec 2025,2
-MARS City of Beatrice,Jan 2026,2
+MARS City of Beatrice,Jan 2026,3
 MCUD Manatee,Jan 2025,3
 MCUD Manatee,Feb 2025,2
 MCUD Manatee,Mar 2025,3
@@ -5435,6 +5497,7 @@ MCUD Manatee,Sep 2025,5
 MCUD Manatee,Oct 2025,3
 MCUD Manatee,Nov 2025,3
 MCUD Manatee,Dec 2025,7
+MCUD Manatee,Jan 2026,2
 MDI - Mark Dunning Industries Inc,Jan 2025,17
 MDI - Mark Dunning Industries Inc,Feb 2025,20
 MDI - Mark Dunning Industries Inc,Mar 2025,17
@@ -5495,7 +5558,7 @@ Madison Materials,Sep 2025,5
 Madison Materials,Oct 2025,5
 Madison Materials,Nov 2025,1
 Madison Materials,Dec 2025,5
-Madison Materials,Jan 2026,1
+Madison Materials,Jan 2026,2
 Major Waste,Jan 2025,4
 Major Waste,Feb 2025,1
 Major Waste,Apr 2025,1
@@ -5556,6 +5619,7 @@ Marpan Supply,Sep 2025,6
 Marpan Supply,Oct 2025,7
 Marpan Supply,Nov 2025,5
 Marpan Supply,Dec 2025,3
+Marpan Supply,Jan 2026,3
 Martin Environmental,Jan 2025,6
 Martin Environmental,Feb 2025,5
 Martin Environmental,Mar 2025,3
@@ -5568,7 +5632,7 @@ Martin Environmental,Sep 2025,7
 Martin Environmental,Oct 2025,4
 Martin Environmental,Nov 2025,4
 Martin Environmental,Dec 2025,6
-Martin Environmental,Jan 2026,3
+Martin Environmental,Jan 2026,4
 Martin's Trash Service,Mar 2025,1
 Martin's Trash Service,Apr 2025,1
 Martin's Trash Service,May 2025,2
@@ -5590,6 +5654,7 @@ Maui Disposal Co,Aug 2025,1
 Maui Disposal Co,Sep 2025,1
 Maui Disposal Co,Oct 2025,1
 Maui Disposal Co,Dec 2025,2
+Maui Disposal Co,Jan 2026,1
 Mauldin Trash,Feb 2025,1
 Mauldin Trash,Apr 2025,1
 Mauldin Trash,May 2025,1
@@ -5613,7 +5678,7 @@ Maverick Waste,Dec 2025,2
 Maverick Waste,Jan 2026,1
 Mavilyn Industries,Nov 2025,1
 Mavilyn Industries,Dec 2025,1
-Mavilyn Industries,Jan 2026,1
+Mavilyn Industries,Jan 2026,2
 Mazza Recycling,Jan 2025,1
 Mazza Recycling,Feb 2025,1
 Mazza Recycling,Mar 2025,2
@@ -5638,6 +5703,7 @@ McCullough Rubbish,Sep 2025,2
 McCullough Rubbish,Oct 2025,2
 McCullough Rubbish,Nov 2025,2
 McCullough Rubbish,Dec 2025,2
+McCullough Rubbish,Jan 2026,2
 McGree Trucking,Jan 2025,1
 McGree Trucking,Feb 2025,2
 McGree Trucking,Mar 2025,2
@@ -5650,6 +5716,7 @@ McGree Trucking,Sep 2025,3
 McGree Trucking,Oct 2025,5
 McGree Trucking,Nov 2025,3
 McGree Trucking,Dec 2025,3
+McGree Trucking,Jan 2026,2
 Meridian Waste,Jan 2025,89
 Meridian Waste,Feb 2025,86
 Meridian Waste,Mar 2025,84
@@ -5662,15 +5729,15 @@ Meridian Waste,Sep 2025,136
 Meridian Waste,Oct 2025,150
 Meridian Waste,Nov 2025,145
 Meridian Waste,Dec 2025,153
-Meridian Waste,Jan 2026,21
+Meridian Waste,Jan 2026,138
 Meridian Waste - Huntsville Hauling,Jun 2025,33
 Meridian Waste - Huntsville Hauling,Jul 2025,81
 Meridian Waste - Huntsville Hauling,Aug 2025,21
 Meridian Waste - Huntsville Hauling,Sep 2025,38
 Meridian Waste - Huntsville Hauling,Oct 2025,36
 Meridian Waste - Huntsville Hauling,Nov 2025,38
-Meridian Waste - Huntsville Hauling,Dec 2025,39
-Meridian Waste - Huntsville Hauling,Jan 2026,2
+Meridian Waste - Huntsville Hauling,Dec 2025,38
+Meridian Waste - Huntsville Hauling,Jan 2026,39
 Metalico Youngstown,Apr 2025,2
 Metalico Youngstown,Oct 2025,1
 Metalpro,Jan 2025,34
@@ -5685,7 +5752,7 @@ Metalpro,Sep 2025,30
 Metalpro,Oct 2025,34
 Metalpro,Nov 2025,44
 Metalpro,Dec 2025,21
-Metalpro,Jan 2026,24
+Metalpro,Jan 2026,31
 Metech Recycling,Feb 2025,1
 Metech Recycling,Mar 2025,1
 Metech Recycling,Jun 2025,3
@@ -5707,7 +5774,7 @@ Miami-Dade DSWM,Sep 2025,7
 Miami-Dade DSWM,Oct 2025,13
 Miami-Dade DSWM,Nov 2025,10
 Miami-Dade DSWM,Dec 2025,8
-Miami-Dade DSWM,Jan 2026,2
+Miami-Dade DSWM,Jan 2026,7
 Miamitown Auto Parts,Jan 2025,2
 Miamitown Auto Parts,Feb 2025,12
 Miamitown Auto Parts,Apr 2025,5
@@ -5730,7 +5797,7 @@ Mid South Waste Disposal,Sep 2025,2
 Mid South Waste Disposal,Oct 2025,3
 Mid South Waste Disposal,Nov 2025,5
 Mid South Waste Disposal,Dec 2025,4
-Mid South Waste Disposal,Jan 2026,2
+Mid South Waste Disposal,Jan 2026,3
 Mid Valley Disposal,Jan 2025,2
 Mid Valley Disposal,Feb 2025,6
 Mid Valley Disposal,Mar 2025,5
@@ -5743,7 +5810,7 @@ Mid Valley Disposal,Sep 2025,11
 Mid Valley Disposal,Oct 2025,9
 Mid Valley Disposal,Nov 2025,14
 Mid Valley Disposal,Dec 2025,10
-Mid Valley Disposal,Jan 2026,8
+Mid Valley Disposal,Jan 2026,9
 Mid-Ohio Sanitation & Recycling,Feb 2025,1
 Mid-Ohio Sanitation & Recycling,Mar 2025,1
 Mid-Ohio Sanitation & Recycling,May 2025,1
@@ -5765,6 +5832,7 @@ Midwest Disposal IL,Sep 2025,1
 Midwest Disposal IL,Oct 2025,1
 Midwest Disposal IL,Nov 2025,1
 Midwest Disposal IL,Dec 2025,1
+Midwest Disposal IL,Jan 2026,1
 Midwest Paper,Jan 2025,1
 Midwest Paper,Feb 2025,2
 Midwest Paper,Mar 2025,8
@@ -5857,6 +5925,7 @@ Mills Brothers,Sep 2025,1
 Mills Brothers,Oct 2025,4
 Mills Brothers,Nov 2025,4
 Mills Brothers,Dec 2025,4
+Mills Brothers,Jan 2026,4
 Minnkota Recycling,Feb 2025,1
 Minnkota Recycling,Mar 2025,1
 Minnkota Recycling,Apr 2025,2
@@ -5877,6 +5946,7 @@ Missoula Compost,Aug 2025,2
 Missoula Compost,Sep 2025,1
 Missoula Compost,Oct 2025,1
 Missoula Compost,Dec 2025,2
+Missoula Compost,Jan 2026,1
 Modern Corporation,Jan 2025,4
 Modern Corporation,Feb 2025,11
 Modern Corporation,Mar 2025,10
@@ -5900,7 +5970,7 @@ Modern Disposal Services,Sep 2025,2
 Modern Disposal Services,Oct 2025,1
 Modern Disposal Services,Nov 2025,1
 Modern Disposal Services,Dec 2025,1
-Modern Disposal Services,Jan 2026,1
+Modern Disposal Services,Jan 2026,2
 Modern Recycling,Jan 2025,8
 Modern Recycling,Feb 2025,13
 Modern Recycling,Mar 2025,15
@@ -5965,7 +6035,7 @@ Mountain State Waste,Sep 2025,16
 Mountain State Waste,Oct 2025,11
 Mountain State Waste,Nov 2025,14
 Mountain State Waste,Dec 2025,15
-Mountain State Waste,Jan 2026,1
+Mountain State Waste,Jan 2026,13
 Mt Diablo Resource Recovery,Jan 2025,1
 Mt Diablo Resource Recovery,Feb 2025,2
 Mt Diablo Resource Recovery,Mar 2025,3
@@ -5998,9 +6068,10 @@ Murreys Disposal,Sep 2025,24
 Murreys Disposal,Oct 2025,21
 Murreys Disposal,Nov 2025,22
 Murreys Disposal,Dec 2025,19
-Murreys Disposal,Jan 2026,24
+Murreys Disposal,Jan 2026,48
 My Green Michigan,Nov 2025,1
 My Green Michigan,Dec 2025,2
+My Green Michigan,Jan 2026,1
 My Trash,Jan 2025,4
 My Trash,Feb 2025,6
 My Trash,Mar 2025,7
@@ -6013,7 +6084,7 @@ My Trash,Sep 2025,37
 My Trash,Oct 2025,39
 My Trash,Nov 2025,34
 My Trash,Dec 2025,41
-My Trash,Jan 2026,5
+My Trash,Jan 2026,35
 Myers Container Service,Jan 2025,2
 Myers Container Service,Feb 2025,5
 Myers Container Service,Mar 2025,2
@@ -6026,6 +6097,7 @@ Myers Container Service,Sep 2025,1
 Myers Container Service,Oct 2025,3
 Myers Container Service,Nov 2025,4
 Myers Container Service,Dec 2025,4
+Myers Container Service,Jan 2026,3
 NEI Pennsylvania,Jan 2025,3
 NEI Pennsylvania,Feb 2025,2
 NEI Pennsylvania,Mar 2025,1
@@ -6050,7 +6122,7 @@ NK Waste,Sep 2025,16
 NK Waste,Oct 2025,19
 NK Waste,Nov 2025,15
 NK Waste,Dec 2025,19
-NK Waste,Jan 2026,8
+NK Waste,Jan 2026,11
 NS Disposal,Jan 2025,1
 NS Disposal,Feb 2025,4
 NS Disposal,Mar 2025,2
@@ -6063,7 +6135,7 @@ NS Disposal,Sep 2025,4
 NS Disposal,Oct 2025,6
 NS Disposal,Nov 2025,3
 NS Disposal,Dec 2025,4
-NS Disposal,Jan 2026,2
+NS Disposal,Jan 2026,3
 NVA Services,Feb 2025,3
 NVA Services,Apr 2025,5
 NVA Services,May 2025,3
@@ -6093,9 +6165,9 @@ National Equipment Solutions,Jul 2025,41
 National Equipment Solutions,Aug 2025,37
 National Equipment Solutions,Sep 2025,43
 National Equipment Solutions,Oct 2025,66
-National Equipment Solutions,Nov 2025,53
-National Equipment Solutions,Dec 2025,61
-National Equipment Solutions,Jan 2026,4
+National Equipment Solutions,Nov 2025,54
+National Equipment Solutions,Dec 2025,62
+National Equipment Solutions,Jan 2026,10
 Nauset Disposal,Apr 2025,1
 Nauset Disposal,May 2025,1
 Nauset Disposal,Jun 2025,2
@@ -6128,7 +6200,7 @@ Nevada Recycling,Sep 2025,3
 Nevada Recycling,Oct 2025,3
 Nevada Recycling,Nov 2025,3
 Nevada Recycling,Dec 2025,3
-Nevada Recycling,Jan 2026,2
+Nevada Recycling,Jan 2026,4
 New Prague Sanitary,Jan 2025,1
 New Prague Sanitary,Mar 2025,2
 New Prague Sanitary,Apr 2025,2
@@ -6159,6 +6231,7 @@ Niese Hauling,Sep 2025,5
 Niese Hauling,Oct 2025,2
 Niese Hauling,Nov 2025,2
 Niese Hauling,Dec 2025,2
+Niese Hauling,Jan 2026,1
 Nisly Brothers,Feb 2025,1
 Nisly Brothers,Apr 2025,1
 Nisly Brothers,May 2025,1
@@ -6169,6 +6242,7 @@ Nisly Brothers,Sep 2025,1
 Nisly Brothers,Oct 2025,1
 Nisly Brothers,Nov 2025,1
 Nisly Brothers,Dec 2025,1
+Nisly Brothers,Jan 2026,1
 Nisswa Sanitation,Jan 2025,2
 Nisswa Sanitation,Apr 2025,1
 Nisswa Sanitation,May 2025,2
@@ -6217,6 +6291,7 @@ Norris Sanitation,Sep 2025,1
 Norris Sanitation,Oct 2025,1
 Norris Sanitation,Nov 2025,1
 Norris Sanitation,Dec 2025,1
+Norris Sanitation,Jan 2026,1
 North Country Disposal,Jan 2025,1
 North Country Disposal,Mar 2025,1
 North Country Disposal,May 2025,1
@@ -6262,7 +6337,7 @@ Northern Waste,Sep 2025,8
 Northern Waste,Oct 2025,7
 Northern Waste,Nov 2025,7
 Northern Waste,Dec 2025,8
-Northern Waste,Jan 2026,7
+Northern Waste,Jan 2026,8
 Novak Sanitary Service,Jan 2025,11
 Novak Sanitary Service,Feb 2025,12
 Novak Sanitary Service,Mar 2025,11
@@ -6289,6 +6364,7 @@ Ogborne Hauling,Aug 2025,2
 Ogborne Hauling,Sep 2025,2
 Ogborne Hauling,Oct 2025,2
 Ogborne Hauling,Dec 2025,2
+Ogborne Hauling,Jan 2026,2
 Ohio Valley Waste,Jan 2025,6
 Ohio Valley Waste,Feb 2025,7
 Ohio Valley Waste,Mar 2025,7
@@ -6312,6 +6388,7 @@ Okon Recycling,Sep 2025,2
 Okon Recycling,Oct 2025,2
 Okon Recycling,Nov 2025,2
 Okon Recycling,Dec 2025,2
+Okon Recycling,Jan 2026,2
 Olathe Kansas,Jan 2025,1
 Olathe Kansas,Feb 2025,1
 Olathe Kansas,Mar 2025,3
@@ -6324,7 +6401,7 @@ Olathe Kansas,Sep 2025,2
 Olathe Kansas,Oct 2025,4
 Olathe Kansas,Nov 2025,3
 Olathe Kansas,Dec 2025,3
-Olathe Kansas,Jan 2026,2
+Olathe Kansas,Jan 2026,3
 Olcese Waste Services,Jan 2025,2
 Olcese Waste Services,Feb 2025,1
 Olcese Waste Services,Apr 2025,1
@@ -6393,7 +6470,7 @@ Orlando Recycling,Sep 2025,2
 Orlando Recycling,Oct 2025,3
 Orlando Recycling,Nov 2025,3
 Orlando Recycling,Dec 2025,4
-Orlando Recycling,Jan 2026,3
+Orlando Recycling,Jan 2026,4
 Orlando Waste Paper,Jan 2025,6
 Orlando Waste Paper,Feb 2025,7
 Orlando Waste Paper,Mar 2025,8
@@ -6448,8 +6525,8 @@ PRIDE Disposal,Aug 2025,5
 PRIDE Disposal,Sep 2025,5
 PRIDE Disposal,Oct 2025,8
 PRIDE Disposal,Nov 2025,3
-PRIDE Disposal,Dec 2025,12
-PRIDE Disposal,Jan 2026,4
+PRIDE Disposal,Dec 2025,13
+PRIDE Disposal,Jan 2026,11
 Pacific Disposal,Jan 2025,3
 Pacific Disposal,Mar 2025,1
 Pacific Disposal,May 2025,2
@@ -6482,7 +6559,7 @@ Pacific Waste,Sep 2025,4
 Pacific Waste,Oct 2025,4
 Pacific Waste,Nov 2025,3
 Pacific Waste,Dec 2025,4
-Pacific Waste,Jan 2026,3
+Pacific Waste,Jan 2026,8
 Pak Rite Rentals,Feb 2025,1
 Pak Rite Rentals,Mar 2025,4
 Pak Rite Rentals,Apr 2025,4
@@ -6528,7 +6605,7 @@ Panzarella Waste & Recycling Services,Sep 2025,25
 Panzarella Waste & Recycling Services,Oct 2025,32
 Panzarella Waste & Recycling Services,Nov 2025,26
 Panzarella Waste & Recycling Services,Dec 2025,36
-Panzarella Waste & Recycling Services,Jan 2026,9
+Panzarella Waste & Recycling Services,Jan 2026,23
 Papillion Sanitation,Jan 2025,8
 Papillion Sanitation,Feb 2025,10
 Papillion Sanitation,Mar 2025,6
@@ -6541,7 +6618,7 @@ Papillion Sanitation,Sep 2025,30
 Papillion Sanitation,Oct 2025,19
 Papillion Sanitation,Nov 2025,16
 Papillion Sanitation,Dec 2025,27
-Papillion Sanitation,Jan 2026,4
+Papillion Sanitation,Jan 2026,6
 Pascon,Jan 2025,7
 Pascon,Feb 2025,5
 Pascon,Mar 2025,6
@@ -6554,7 +6631,7 @@ Pascon,Sep 2025,12
 Pascon,Oct 2025,11
 Pascon,Nov 2025,5
 Pascon,Dec 2025,8
-Pascon,Jan 2026,3
+Pascon,Jan 2026,7
 Paso Robles Waste,Feb 2025,2
 Paso Robles Waste,Mar 2025,2
 Paso Robles Waste,Apr 2025,2
@@ -6578,7 +6655,7 @@ Patriot Disposal,Sep 2025,18
 Patriot Disposal,Oct 2025,24
 Patriot Disposal,Nov 2025,29
 Patriot Disposal,Dec 2025,24
-Patriot Disposal,Jan 2026,2
+Patriot Disposal,Jan 2026,25
 Patterson Sanitation,Jan 2025,3
 Patterson Sanitation,Feb 2025,2
 Patterson Sanitation,Mar 2025,2
@@ -6617,7 +6694,7 @@ Pellitteri,Sep 2025,14
 Pellitteri,Oct 2025,9
 Pellitteri,Nov 2025,8
 Pellitteri,Dec 2025,7
-Pellitteri,Jan 2026,7
+Pellitteri,Jan 2026,11
 Pendleton Sanitary Service,Feb 2025,2
 Pendleton Sanitary Service,Apr 2025,1
 Pendleton Sanitary Service,May 2025,1
@@ -6628,6 +6705,7 @@ Pendleton Sanitary Service,Sep 2025,1
 Pendleton Sanitary Service,Oct 2025,2
 Pendleton Sanitary Service,Nov 2025,2
 Pendleton Sanitary Service,Dec 2025,2
+Pendleton Sanitary Service,Jan 2026,2
 Penn Waste,Jan 2025,16
 Penn Waste,Feb 2025,3
 Penn Waste,Mar 2025,10
@@ -6640,7 +6718,7 @@ Penn Waste,Sep 2025,5
 Penn Waste,Oct 2025,7
 Penn Waste,Nov 2025,4
 Penn Waste,Dec 2025,8
-Penn Waste,Jan 2026,6
+Penn Waste,Jan 2026,8
 Pennohio,Jan 2025,3
 Pennohio,Feb 2025,13
 Pennohio,Mar 2025,16
@@ -6653,7 +6731,7 @@ Pennohio,Sep 2025,6
 Pennohio,Oct 2025,8
 Pennohio,Nov 2025,4
 Pennohio,Dec 2025,16
-Pennohio,Jan 2026,3
+Pennohio,Jan 2026,5
 Perdue Environmental,Jan 2025,1
 Perdue Environmental,Feb 2025,1
 Perdue Environmental,Mar 2025,2
@@ -6669,7 +6747,7 @@ Pete & Pete Container Service,Jan 2025,4
 Pete & Pete Container Service,May 2025,1
 Pete & Pete Container Service,Nov 2025,3
 Pete & Pete Container Service,Dec 2025,11
-Pete & Pete Container Service,Jan 2026,3
+Pete & Pete Container Service,Jan 2026,8
 Pete and Pete,Jan 2025,21
 Pete and Pete,Feb 2025,22
 Pete and Pete,Mar 2025,1
@@ -6681,7 +6759,7 @@ Pete and Pete,Sep 2025,1
 Pete and Pete,Oct 2025,1
 Pete and Pete,Nov 2025,7
 Pete and Pete,Dec 2025,3
-Pete and Pete,Jan 2026,1
+Pete and Pete,Jan 2026,2
 Pike County Solid Waste,Jan 2025,1
 Pike County Solid Waste,Mar 2025,1
 Pike County Solid Waste,Apr 2025,2
@@ -6703,7 +6781,7 @@ Pluffmud Recycling,Aug 2025,1
 Pluffmud Recycling,Oct 2025,2
 Pluffmud Recycling,Nov 2025,2
 Pluffmud Recycling,Dec 2025,2
-Pluffmud Recycling,Jan 2026,1
+Pluffmud Recycling,Jan 2026,2
 Porter Trash,Mar 2025,1
 Porter Trash,Apr 2025,1
 Porter Trash,May 2025,2
@@ -6713,7 +6791,7 @@ Porter Trash,Sep 2025,3
 Porter Trash,Oct 2025,5
 Porter Trash,Nov 2025,3
 Porter Trash,Dec 2025,3
-Porter Trash,Jan 2026,3
+Porter Trash,Jan 2026,4
 Potties for the Rockies,Jul 2025,1
 Potties for the Rockies,Aug 2025,1
 Potties for the Rockies,Sep 2025,1
@@ -6742,7 +6820,7 @@ Premier Waste,Sep 2025,38
 Premier Waste,Oct 2025,7
 Premier Waste,Nov 2025,6
 Premier Waste,Dec 2025,6
-Premier Waste,Jan 2026,4
+Premier Waste,Jan 2026,6
 Prestige Disposal,Apr 2025,1
 Prestige Disposal,May 2025,1
 Prestige Disposal,Jun 2025,5
@@ -6752,7 +6830,7 @@ Prestige Disposal,Sep 2025,5
 Prestige Disposal,Oct 2025,6
 Prestige Disposal,Nov 2025,6
 Prestige Disposal,Dec 2025,4
-Prestige Disposal,Jan 2026,1
+Prestige Disposal,Jan 2026,3
 Priority Waste,Jan 2025,113
 Priority Waste,Feb 2025,109
 Priority Waste,Mar 2025,99
@@ -6765,7 +6843,7 @@ Priority Waste,Sep 2025,158
 Priority Waste,Oct 2025,167
 Priority Waste,Nov 2025,28
 Priority Waste,Dec 2025,297
-Priority Waste,Jan 2026,18
+Priority Waste,Jan 2026,36
 Pro Disposal,Feb 2025,1
 Pro Disposal,Mar 2025,5
 Pro Disposal,May 2025,3
@@ -6803,7 +6881,7 @@ Pullman Disposal,Sep 2025,2
 Pullman Disposal,Oct 2025,2
 Pullman Disposal,Nov 2025,3
 Pullman Disposal,Dec 2025,3
-Pullman Disposal,Jan 2026,3
+Pullman Disposal,Jan 2026,4
 Pyles Demolition Recycling,Feb 2025,1
 Pyles Demolition Recycling,Mar 2025,1
 Pyles Demolition Recycling,Apr 2025,2
@@ -6823,7 +6901,7 @@ Quincy Recycling,Sep 2025,4
 Quincy Recycling,Oct 2025,2
 Quincy Recycling,Nov 2025,3
 Quincy Recycling,Dec 2025,1
-Quincy Recycling,Jan 2026,5
+Quincy Recycling,Jan 2026,9
 R&R Recycling Inc,Jan 2025,2
 R&R Recycling Inc,Feb 2025,1
 R&R Recycling Inc,Mar 2025,2
@@ -6833,6 +6911,7 @@ R&R Recycling Inc,Jul 2025,1
 R&R Recycling Inc,Sep 2025,1
 R&R Recycling Inc,Oct 2025,4
 R&R Recycling Inc,Dec 2025,1
+R&R Recycling Inc,Jan 2026,1
 R&S Waste,Jan 2025,1
 R&S Waste,Feb 2025,1
 R&S Waste,Apr 2025,2
@@ -6879,7 +6958,7 @@ RAM Waste,Sep 2025,20
 RAM Waste,Oct 2025,21
 RAM Waste,Nov 2025,13
 RAM Waste,Dec 2025,18
-RAM Waste,Jan 2026,3
+RAM Waste,Jan 2026,15
 "RDT, Inc.",Jan 2025,24
 "RDT, Inc.",Feb 2025,1
 "RDT, Inc.",Apr 2025,5
@@ -6930,7 +7009,7 @@ Recology,Sep 2025,9
 Recology,Oct 2025,2
 Recology,Nov 2025,5
 Recology,Dec 2025,39
-Recology,Jan 2026,10
+Recology,Jan 2026,16
 Recycling Center of North Dakota,Jan 2025,1
 Recycling Center of North Dakota,Mar 2025,1
 Recycling Center of North Dakota,Apr 2025,1
@@ -6954,7 +7033,7 @@ Recycling Services of Florida,Aug 2025,3
 Recycling Services of Florida,Oct 2025,2
 Recycling Services of Florida,Nov 2025,5
 Recycling Services of Florida,Dec 2025,8
-Recycling Services of Florida,Jan 2026,3
+Recycling Services of Florida,Jan 2026,4
 Redbox+,Jan 2025,37
 Redbox+,Feb 2025,32
 Redbox+,Mar 2025,32
@@ -6992,6 +7071,7 @@ Redwood Waste,Nov 2025,1
 Redwood Waste,Dec 2025,1
 Reed Maintenance,Apr 2025,1
 Reed Maintenance,Sep 2025,1
+Reed Maintenance,Jan 2026,1
 Reliable Paper,Jan 2025,2
 Reliable Paper,Mar 2025,1
 Reliable Paper,May 2025,1
@@ -7011,6 +7091,7 @@ Reliable Paper Recycling,Sep 2025,3
 Reliable Paper Recycling,Oct 2025,3
 Reliable Paper Recycling,Nov 2025,2
 Reliable Paper Recycling,Dec 2025,3
+Reliable Paper Recycling,Jan 2026,3
 Reliable Sanitation,Jan 2025,4
 Reliable Sanitation,Feb 2025,5
 Reliable Sanitation,Mar 2025,5
@@ -7047,8 +7128,8 @@ Republic Services,Aug 2025,391
 Republic Services,Sep 2025,462
 Republic Services,Oct 2025,560
 Republic Services,Nov 2025,402
-Republic Services,Dec 2025,505
-Republic Services,Jan 2026,383
+Republic Services,Dec 2025,499
+Republic Services,Jan 2026,493
 Revolution Recycling,Mar 2025,1
 Revolution Recycling,Apr 2025,1
 Revolution Recycling,May 2025,1
@@ -7062,10 +7143,10 @@ Reworld,Jun 2025,2
 Reworld,Jul 2025,1
 Reworld,Aug 2025,2
 Reworld,Sep 2025,2
-Reworld,Oct 2025,4
+Reworld,Oct 2025,3
 Reworld,Nov 2025,7
 Reworld,Dec 2025,9
-Reworld,Jan 2026,4
+Reworld,Jan 2026,3
 Rhino Waste,Jan 2025,1
 Rhino Waste,Apr 2025,3
 Rhino Waste,Jun 2025,2
@@ -7073,7 +7154,7 @@ Rhino Waste,Aug 2025,3
 Rhino Waste,Sep 2025,6
 Rhino Waste,Nov 2025,2
 Rhino Waste,Dec 2025,2
-Rhino Waste,Jan 2026,7
+Rhino Waste,Jan 2026,8
 Richardson Waste,Jan 2025,2
 Richardson Waste,Feb 2025,7
 Richardson Waste,Mar 2025,6
@@ -7086,6 +7167,7 @@ Richardson Waste,Sep 2025,6
 Richardson Waste,Oct 2025,8
 Richardson Waste,Nov 2025,7
 Richardson Waste,Dec 2025,6
+Richardson Waste,Jan 2026,5
 Ridgerunner Container,Feb 2025,2
 Ridgerunner Container,Mar 2025,2
 Ridgerunner Container,Apr 2025,1
@@ -7132,6 +7214,7 @@ Roadrunner Sanitation,Sep 2025,4
 Roadrunner Sanitation,Oct 2025,3
 Roadrunner Sanitation,Nov 2025,3
 Roadrunner Sanitation,Dec 2025,3
+Roadrunner Sanitation,Jan 2026,6
 Roberts Enterprises,May 2025,1
 Roberts Enterprises,Jun 2025,1
 Roberts Enterprises,Jul 2025,1
@@ -7140,7 +7223,7 @@ Roberts Enterprises,Sep 2025,1
 Roberts Enterprises,Oct 2025,1
 Roberts Enterprises,Nov 2025,1
 Roberts Enterprises,Dec 2025,1
-Roberts Enterprises,Jan 2026,1
+Roberts Enterprises,Jan 2026,2
 Robinson Waste Services,Jan 2025,136
 Robinson Waste Services,Feb 2025,164
 Robinson Waste Services,Mar 2025,152
@@ -7153,10 +7236,10 @@ Robinson Waste Services,Sep 2025,198
 Robinson Waste Services,Oct 2025,216
 Robinson Waste Services,Nov 2025,210
 Robinson Waste Services,Dec 2025,204
-Robinson Waste Services,Jan 2026,199
+Robinson Waste Services,Jan 2026,204
 Rockwood Sustainable Solutions,Nov 2025,4
 Rockwood Sustainable Solutions,Dec 2025,5
-Rockwood Sustainable Solutions,Jan 2026,1
+Rockwood Sustainable Solutions,Jan 2026,4
 Rocky Ridge,Jan 2025,30
 Rocky Ridge,Feb 2025,40
 Rocky Ridge,Mar 2025,30
@@ -7169,7 +7252,7 @@ Rocky Ridge,Sep 2025,40
 Rocky Ridge,Oct 2025,34
 Rocky Ridge,Nov 2025,35
 Rocky Ridge,Dec 2025,37
-Rocky Ridge,Jan 2026,32
+Rocky Ridge,Jan 2026,35
 Roll Off Systems,Jan 2025,8
 Roll Off Systems,Feb 2025,9
 Roll Off Systems,Mar 2025,8
@@ -7207,6 +7290,7 @@ Roseburg Disposal,Aug 2025,1
 Roseburg Disposal,Sep 2025,1
 Roseburg Disposal,Oct 2025,1
 Roseburg Disposal,Nov 2025,1
+Roseburg Disposal,Jan 2026,2
 Royal Document Destruction,Jan 2025,8
 Royal Document Destruction,Feb 2025,3
 Royal Document Destruction,Mar 2025,4
@@ -7231,6 +7315,7 @@ Royal Oak Recycling,Sep 2025,1
 Royal Oak Recycling,Oct 2025,5
 Royal Oak Recycling,Nov 2025,3
 Royal Oak Recycling,Dec 2025,5
+Royal Oak Recycling,Jan 2026,3
 Rubatino Refuse,Jan 2025,3
 Rubatino Refuse,Feb 2025,1
 Rubatino Refuse,Mar 2025,2
@@ -7256,7 +7341,7 @@ Rumpke,Sep 2025,417
 Rumpke,Oct 2025,401
 Rumpke,Nov 2025,448
 Rumpke,Dec 2025,446
-Rumpke,Jan 2026,430
+Rumpke,Jan 2026,434
 Russell County Sanitation,Jan 2025,2
 Russell County Sanitation,Feb 2025,1
 Russell County Sanitation,Apr 2025,1
@@ -7273,7 +7358,7 @@ Ryland Environmental,Aug 2025,2
 Ryland Environmental,Sep 2025,2
 Ryland Environmental,Oct 2025,9
 Ryland Environmental,Nov 2025,19
-Ryland Environmental,Jan 2026,7
+Ryland Environmental,Jan 2026,13
 S.B. Cox,Jul 2025,1
 S.B. Cox,Aug 2025,1
 S.B. Cox,Oct 2025,2
@@ -7291,8 +7376,8 @@ SBC Waste Solutions Inc,Aug 2025,30
 SBC Waste Solutions Inc,Sep 2025,36
 SBC Waste Solutions Inc,Oct 2025,24
 SBC Waste Solutions Inc,Nov 2025,35
-SBC Waste Solutions Inc,Dec 2025,36
-SBC Waste Solutions Inc,Jan 2026,33
+SBC Waste Solutions Inc,Dec 2025,35
+SBC Waste Solutions Inc,Jan 2026,35
 SRG Spartanburg,Jun 2025,1
 SRG Spartanburg,Aug 2025,2
 SRG Spartanburg,Sep 2025,1
@@ -7311,7 +7396,7 @@ SSW Frontload,Aug 2025,1
 SSW Frontload,Sep 2025,11
 SSW Frontload,Oct 2025,7
 SSW Frontload,Nov 2025,9
-SSW Frontload,Dec 2025,13
+SSW Frontload,Dec 2025,12
 SSW-Box Services,Mar 2025,3
 SSW-Box Services,Apr 2025,1
 SSW-Box Services,May 2025,1
@@ -7321,7 +7406,7 @@ SSW-Box Services,Sep 2025,4
 SSW-Box Services,Oct 2025,7
 SSW-Box Services,Nov 2025,3
 SSW-Box Services,Dec 2025,6
-SSW-Box Services,Jan 2026,1
+SSW-Box Services,Jan 2026,3
 Sage Disposal,Jan 2025,1
 Sage Disposal,Feb 2025,1
 Sage Disposal,Mar 2025,2
@@ -7334,7 +7419,7 @@ Sage Disposal,Sep 2025,4
 Sage Disposal,Oct 2025,2
 Sage Disposal,Nov 2025,2
 Sage Disposal,Dec 2025,2
-Sage Disposal,Jan 2026,1
+Sage Disposal,Jan 2026,4
 Salandro Refuse,Jan 2025,1
 Salandro Refuse,Feb 2025,1
 Salandro Refuse,May 2025,1
@@ -7397,6 +7482,7 @@ Scraps Compost,Sep 2025,2
 Scraps Compost,Oct 2025,2
 Scraps Compost,Nov 2025,1
 Scraps Compost,Dec 2025,1
+Scraps Compost,Jan 2026,1
 Seadrunar Recycling,Feb 2025,2
 Seadrunar Recycling,Mar 2025,2
 Seadrunar Recycling,Apr 2025,3
@@ -7421,7 +7507,7 @@ Serv-Wel Disposal,Sep 2025,2
 Serv-Wel Disposal,Oct 2025,2
 Serv-Wel Disposal,Nov 2025,2
 Serv-Wel Disposal,Dec 2025,2
-Serv-Wel Disposal,Jan 2026,1
+Serv-Wel Disposal,Jan 2026,2
 Shamrock Waste,Sep 2025,3
 Shamrock Waste,Oct 2025,1
 Shamrock Waste,Dec 2025,2
@@ -7437,7 +7523,7 @@ Shank Waste,Sep 2025,3
 Shank Waste,Oct 2025,2
 Shank Waste,Nov 2025,3
 Shank Waste,Dec 2025,2
-Shank Waste,Jan 2026,2
+Shank Waste,Jan 2026,4
 Shawnee County Solid Waste,Jan 2025,1
 Shawnee County Solid Waste,Feb 2025,1
 Shawnee County Solid Waste,Mar 2025,1
@@ -7450,7 +7536,7 @@ Shawnee County Solid Waste,Sep 2025,1
 Shawnee County Solid Waste,Oct 2025,2
 Shawnee County Solid Waste,Nov 2025,4
 Shawnee County Solid Waste,Dec 2025,2
-Shawnee County Solid Waste,Jan 2026,3
+Shawnee County Solid Waste,Jan 2026,4
 Shular's Trash Service,Feb 2025,1
 Shular's Trash Service,Mar 2025,3
 Shular's Trash Service,Apr 2025,3
@@ -7472,7 +7558,7 @@ SmartTrash,Sep 2025,102
 SmartTrash,Oct 2025,97
 SmartTrash,Nov 2025,128
 SmartTrash,Dec 2025,230
-SmartTrash,Jan 2026,19
+SmartTrash,Jan 2026,20
 Smith Creek,Jan 2025,9
 Smith Creek,Feb 2025,9
 Smith Creek,Mar 2025,8
@@ -7485,7 +7571,7 @@ Smith Creek,Sep 2025,15
 Smith Creek,Oct 2025,36
 Smith Creek,Nov 2025,6
 Smith Creek,Dec 2025,14
-Smith Creek,Jan 2026,5
+Smith Creek,Jan 2026,15
 Smoky Mountain Waste,Jan 2025,1
 Smoky Mountain Waste,Feb 2025,2
 Smoky Mountain Waste,Mar 2025,2
@@ -7497,7 +7583,7 @@ Smoky Mountain Waste,Sep 2025,2
 Smoky Mountain Waste,Oct 2025,2
 Smoky Mountain Waste,Nov 2025,3
 Smoky Mountain Waste,Dec 2025,2
-Smoky Mountain Waste,Jan 2026,1
+Smoky Mountain Waste,Jan 2026,2
 Smurfit,Jan 2025,2
 Smurfit,Feb 2025,4
 Smurfit,Mar 2025,2
@@ -7522,6 +7608,7 @@ Snake River Dispose-All,Sep 2025,2
 Snake River Dispose-All,Oct 2025,2
 Snake River Dispose-All,Nov 2025,2
 Snake River Dispose-All,Dec 2025,2
+Snake River Dispose-All,Jan 2026,2
 Snake River Rubbish,Feb 2025,2
 Snake River Rubbish,Apr 2025,1
 Snake River Rubbish,May 2025,1
@@ -7643,7 +7730,7 @@ Southern Illinois Waste,Sep 2025,6
 Southern Illinois Waste,Oct 2025,7
 Southern Illinois Waste,Nov 2025,6
 Southern Illinois Waste,Dec 2025,6
-Southern Illinois Waste,Jan 2026,5
+Southern Illinois Waste,Jan 2026,6
 Southern Oregon Sanitation,Mar 2025,1
 Southern Oregon Sanitation,Apr 2025,1
 Southern Oregon Sanitation,May 2025,1
@@ -7665,7 +7752,7 @@ Southern Sanitation,Sep 2025,9
 Southern Sanitation,Oct 2025,7
 Southern Sanitation,Nov 2025,9
 Southern Sanitation,Dec 2025,13
-Southern Sanitation,Jan 2026,7
+Southern Sanitation,Jan 2026,8
 Southwest Sanitation,Jan 2025,1
 Southwest Sanitation,Feb 2025,2
 Southwest Sanitation,Mar 2025,1
@@ -7690,7 +7777,7 @@ Specialty Pallet,Sep 2025,6
 Specialty Pallet,Oct 2025,9
 Specialty Pallet,Nov 2025,4
 Specialty Pallet,Dec 2025,9
-Specialty Pallet,Jan 2026,3
+Specialty Pallet,Jan 2026,6
 Specific Waste,Jan 2025,2
 Specific Waste,Feb 2025,3
 Specific Waste,Mar 2025,4
@@ -7703,7 +7790,7 @@ Specific Waste,Sep 2025,5
 Specific Waste,Oct 2025,2
 Specific Waste,Nov 2025,5
 Specific Waste,Dec 2025,2
-Specific Waste,Jan 2026,4
+Specific Waste,Jan 2026,11
 Standard Waste Services,Jan 2025,180
 Standard Waste Services,Feb 2025,113
 Standard Waste Services,Mar 2025,99
@@ -7716,7 +7803,7 @@ Standard Waste Services,Sep 2025,97
 Standard Waste Services,Oct 2025,128
 Standard Waste Services,Nov 2025,119
 Standard Waste Services,Dec 2025,109
-Standard Waste Services,Jan 2026,83
+Standard Waste Services,Jan 2026,114
 Standing Rock Sanitation,Jun 2025,4
 Standing Rock Sanitation,Aug 2025,1
 Standing Rock Sanitation,Sep 2025,2
@@ -7735,6 +7822,7 @@ Star Waste,Sep 2025,2
 Star Waste,Oct 2025,6
 Star Waste,Nov 2025,3
 Star Waste,Dec 2025,3
+Star Waste,Jan 2026,3
 Step Up Disposals,Jan 2025,1
 Step Up Disposals,Mar 2025,2
 Step Up Disposals,Apr 2025,3
@@ -7746,6 +7834,7 @@ Step Up Disposals,Sep 2025,1
 Step Up Disposals,Oct 2025,1
 Step Up Disposals,Nov 2025,2
 Step Up Disposals,Dec 2025,2
+Step Up Disposals,Jan 2026,1
 Stericycle,Jan 2025,7
 Stericycle,Feb 2025,4
 Stericycle,Mar 2025,3
@@ -7758,7 +7847,7 @@ Stericycle,Sep 2025,10
 Stericycle,Oct 2025,21
 Stericycle,Nov 2025,27
 Stericycle,Dec 2025,24
-Stericycle,Jan 2026,9
+Stericycle,Jan 2026,15
 Steve's Sanitation,Jan 2025,1
 Steve's Sanitation,Feb 2025,1
 Steve's Sanitation,Mar 2025,1
@@ -7784,7 +7873,7 @@ Stevens Disposal,Sep 2025,31
 Stevens Disposal,Oct 2025,32
 Stevens Disposal,Nov 2025,29
 Stevens Disposal,Dec 2025,31
-Stevens Disposal,Jan 2026,24
+Stevens Disposal,Jan 2026,30
 Stewart Sanitation,Jan 2025,1
 Stewart Sanitation,Feb 2025,2
 Stewart Sanitation,Mar 2025,2
@@ -7838,6 +7927,7 @@ Suburban Waste Services,Sep 2025,6
 Suburban Waste Services,Oct 2025,7
 Suburban Waste Services,Nov 2025,7
 Suburban Waste Services,Dec 2025,7
+Suburban Waste Services,Jan 2026,9
 Sunny Trash Hauling,Jan 2025,1
 Sunny Trash Hauling,May 2025,2
 Sunny Trash Hauling,Jun 2025,3
@@ -7862,7 +7952,7 @@ Sunshine Disposal & Recycling,Sep 2025,3
 Sunshine Disposal & Recycling,Oct 2025,4
 Sunshine Disposal & Recycling,Nov 2025,5
 Sunshine Disposal & Recycling,Dec 2025,4
-Sunshine Disposal & Recycling,Jan 2026,3
+Sunshine Disposal & Recycling,Jan 2026,4
 Sutton Disposal,Jan 2025,3
 Sutton Disposal,Feb 2025,1
 Sutton Disposal,Mar 2025,1
@@ -7895,7 +7985,7 @@ T & G Sanitation,Sep 2025,2
 T & G Sanitation,Oct 2025,4
 T & G Sanitation,Nov 2025,4
 T & G Sanitation,Dec 2025,3
-T & G Sanitation,Jan 2026,3
+T & G Sanitation,Jan 2026,4
 T-Mac Inc,Feb 2025,2
 T-Mac Inc,Mar 2025,1
 T-Mac Inc,Apr 2025,2
@@ -7917,6 +8007,7 @@ TDS LLC,Sep 2025,1
 TDS LLC,Oct 2025,1
 TDS LLC,Nov 2025,1
 TDS LLC,Dec 2025,1
+TDS LLC,Jan 2026,1
 TEG Lease,Aug 2025,2
 TEG Lease,Sep 2025,2
 TEG Lease,Oct 2025,2
@@ -7946,7 +8037,7 @@ TK Trash,Sep 2025,14
 TK Trash,Oct 2025,14
 TK Trash,Nov 2025,12
 TK Trash,Dec 2025,12
-TK Trash,Jan 2026,12
+TK Trash,Jan 2026,13
 TNR Hauling,Dec 2025,1
 TRASHCO,Jan 2025,5
 TRASHCO,Mar 2025,2
@@ -7959,7 +8050,7 @@ TRASHCO,Sep 2025,5
 TRASHCO,Oct 2025,4
 TRASHCO,Nov 2025,10
 TRASHCO,Dec 2025,6
-TRASHCO,Jan 2026,1
+TRASHCO,Jan 2026,5
 Tacoma Public Utilities,Jan 2025,1
 Tacoma Public Utilities,Feb 2025,1
 Tacoma Public Utilities,Mar 2025,2
@@ -7972,6 +8063,7 @@ Tacoma Public Utilities,Sep 2025,2
 Tacoma Public Utilities,Oct 2025,2
 Tacoma Public Utilities,Nov 2025,1
 Tacoma Public Utilities,Dec 2025,1
+Tacoma Public Utilities,Jan 2026,1
 Tahoe Basin Container,Aug 2025,1
 Tahoe Basin Container,Sep 2025,2
 Tahoe Basin Container,Oct 2025,4
@@ -8002,6 +8094,7 @@ Talon Sanitation,Sep 2025,2
 Talon Sanitation,Oct 2025,2
 Talon Sanitation,Nov 2025,1
 Talon Sanitation,Dec 2025,1
+Talon Sanitation,Jan 2026,2
 Taylor & Sons,Jan 2025,3
 Taylor & Sons,Feb 2025,2
 Taylor & Sons,Mar 2025,3
@@ -8039,7 +8132,7 @@ Texas Disposal,Dec 2025,19
 Texas Disposal,Jan 2026,4
 Texas Dumpsters,Oct 2025,1
 Texas Dumpsters,Dec 2025,7
-Texas Dumpsters,Jan 2026,2
+Texas Dumpsters,Jan 2026,3
 Texas Pride Disposal,Jan 2025,9
 Texas Pride Disposal,Mar 2025,8
 Texas Pride Disposal,Apr 2025,9
@@ -8050,12 +8143,13 @@ Texas Pride Disposal,Aug 2025,18
 Texas Pride Disposal,Sep 2025,12
 Texas Pride Disposal,Oct 2025,9
 Texas Pride Disposal,Nov 2025,9
-Texas Pride Disposal,Dec 2025,12
+Texas Pride Disposal,Dec 2025,11
 Texas Pride Disposal,Jan 2026,8
 The Shred Truck,Apr 2025,1
 The Shred Truck,Oct 2025,3
 The Shred Truck,Nov 2025,1
 The Shred Truck,Dec 2025,1
+The Shred Truck,Jan 2026,1
 The Trash Guys,Feb 2025,2
 The Trash Guys,Mar 2025,1
 The Trash Guys,Apr 2025,3
@@ -8067,6 +8161,7 @@ The Trash Guys,Sep 2025,5
 The Trash Guys,Oct 2025,5
 The Trash Guys,Nov 2025,2
 The Trash Guys,Dec 2025,3
+The Trash Guys,Jan 2026,4
 The Trash Man,Jan 2025,3
 The Trash Man,Feb 2025,3
 The Trash Man,Mar 2025,2
@@ -8090,6 +8185,7 @@ Thomas Trash,Sep 2025,1
 Thomas Trash,Oct 2025,3
 Thomas Trash,Nov 2025,1
 Thomas Trash,Dec 2025,3
+Thomas Trash,Jan 2026,1
 Thompson Sanitation,Jan 2025,1
 Thompson Sanitation,Feb 2025,4
 Thompson Sanitation,Mar 2025,8
@@ -8102,7 +8198,7 @@ Thompson Sanitation,Sep 2025,6
 Thompson Sanitation,Oct 2025,11
 Thompson Sanitation,Nov 2025,5
 Thompson Sanitation,Dec 2025,7
-Thompson Sanitation,Jan 2026,2
+Thompson Sanitation,Jan 2026,5
 Thompson's Sanitary Service,Jan 2025,3
 Thompson's Sanitary Service,Feb 2025,2
 Thompson's Sanitary Service,Mar 2025,2
@@ -8128,7 +8224,7 @@ Tiger Sanitation,Sep 2025,23
 Tiger Sanitation,Oct 2025,20
 Tiger Sanitation,Nov 2025,26
 Tiger Sanitation,Dec 2025,26
-Tiger Sanitation,Jan 2026,25
+Tiger Sanitation,Jan 2026,27
 Tim's Trash Service,Apr 2025,1
 Tim's Trash Service,May 2025,1
 Tim's Trash Service,Jun 2025,1
@@ -8145,6 +8241,7 @@ Timberline LLC,Sep 2025,2
 Timberline LLC,Oct 2025,2
 Timberline LLC,Nov 2025,1
 Timberline LLC,Dec 2025,2
+Timberline LLC,Jan 2026,2
 Timmons Waste Service,Jan 2025,1
 Timmons Waste Service,Feb 2025,3
 Timmons Waste Service,Apr 2025,1
@@ -8165,7 +8262,7 @@ Toro Waste,Jul 2025,1
 Toro Waste,Sep 2025,4
 Toro Waste,Oct 2025,4
 Toro Waste,Dec 2025,9
-Toro Waste,Jan 2026,2
+Toro Waste,Jan 2026,3
 Total Disposal Inc,Jan 2025,3
 Total Disposal Inc,Feb 2025,4
 Total Disposal Inc,Mar 2025,3
@@ -8178,7 +8275,7 @@ Total Disposal Inc,Sep 2025,6
 Total Disposal Inc,Oct 2025,5
 Total Disposal Inc,Nov 2025,7
 Total Disposal Inc,Dec 2025,6
-Total Disposal Inc,Jan 2026,7
+Total Disposal Inc,Jan 2026,9
 Total Reclaim,Feb 2025,8
 Total Reclaim,Mar 2025,3
 Total Reclaim,Apr 2025,7
@@ -8190,11 +8287,12 @@ Total Reclaim,Sep 2025,4
 Total Reclaim,Oct 2025,7
 Total Reclaim,Nov 2025,8
 Total Reclaim,Dec 2025,8
-Total Reclaim,Jan 2026,1
+Total Reclaim,Jan 2026,7
 Total Waste Management,Oct 2025,1
 Total Waste Management,Nov 2025,1
 Tovar Equipment,Oct 2025,5
 Tovar Equipment,Dec 2025,1
+Tovar Equipment,Jan 2026,1
 Tower Compactor Rental,Jan 2025,29
 Tower Compactor Rental,Feb 2025,28
 Tower Compactor Rental,Mar 2025,30
@@ -8207,7 +8305,7 @@ Tower Compactor Rental,Sep 2025,53
 Tower Compactor Rental,Oct 2025,61
 Tower Compactor Rental,Nov 2025,63
 Tower Compactor Rental,Dec 2025,65
-Tower Compactor Rental,Jan 2026,4
+Tower Compactor Rental,Jan 2026,69
 Town & Country Disposal,Apr 2025,1
 Town & Country Disposal,May 2025,1
 Town & Country Disposal,Nov 2025,1
@@ -8225,6 +8323,7 @@ Town of Apple Valley,Sep 2025,1
 Town of Apple Valley,Oct 2025,2
 Town of Apple Valley,Nov 2025,2
 Town of Apple Valley,Dec 2025,1
+Town of Apple Valley,Jan 2026,1
 Town of Dutch John,Jan 2025,1
 Town of Dutch John,Apr 2025,1
 Town of Dutch John,May 2025,1
@@ -8309,7 +8408,7 @@ Trash Rangers,Sep 2025,2
 Trash Rangers,Oct 2025,3
 Trash Rangers,Nov 2025,4
 Trash Rangers,Dec 2025,9
-Trash Rangers,Jan 2026,6
+Trash Rangers,Jan 2026,7
 Trash Taxi,Jan 2025,6
 Trash Taxi,Feb 2025,6
 Trash Taxi,Mar 2025,10
@@ -8322,7 +8421,7 @@ Trash Taxi,Sep 2025,20
 Trash Taxi,Oct 2025,15
 Trash Taxi,Nov 2025,15
 Trash Taxi,Dec 2025,16
-Trash Taxi,Jan 2026,7
+Trash Taxi,Jan 2026,15
 Treasure Coast Recycling,Jan 2025,7
 Treasure Coast Recycling,Feb 2025,4
 Treasure Coast Recycling,Mar 2025,6
@@ -8347,6 +8446,7 @@ Tri-City Disposal,Sep 2025,3
 Tri-City Disposal,Oct 2025,3
 Tri-City Disposal,Nov 2025,3
 Tri-City Disposal,Dec 2025,3
+Tri-City Disposal,Jan 2026,2
 Tri-County Industries,Jan 2025,4
 Tri-County Industries,Feb 2025,4
 Tri-County Industries,Mar 2025,6
@@ -8364,6 +8464,7 @@ Tri-State Carting,Sep 2025,1
 Tri-State Carting,Oct 2025,1
 Tri-State Carting,Nov 2025,1
 Tri-State Carting,Dec 2025,1
+Tri-State Carting,Jan 2026,1
 Tri-State Disposal,Jan 2025,2
 Tri-State Disposal,Feb 2025,1
 Tri-State Disposal,Mar 2025,3
@@ -8375,6 +8476,7 @@ Tri-State Disposal,Aug 2025,1
 Tri-State Disposal,Sep 2025,4
 Tri-State Disposal,Nov 2025,8
 Tri-State Disposal,Dec 2025,4
+Tri-State Disposal,Jan 2026,4
 Trident Waste,Jan 2025,7
 Trident Waste,Feb 2025,6
 Trident Waste,Mar 2025,10
@@ -8433,6 +8535,7 @@ Tropical Trash,Sep 2025,2
 Tropical Trash,Oct 2025,2
 Tropical Trash,Nov 2025,2
 Tropical Trash,Dec 2025,1
+Tropical Trash,Jan 2026,1
 Troupe Waste,Jan 2025,1
 Troupe Waste,Mar 2025,1
 Troupe Waste,Apr 2025,2
@@ -8444,7 +8547,7 @@ Troupe Waste,Sep 2025,2
 Troupe Waste,Oct 2025,3
 Troupe Waste,Nov 2025,3
 Troupe Waste,Dec 2025,3
-Troupe Waste,Jan 2026,3
+Troupe Waste,Jan 2026,5
 Tygarts Valley Sanitation,Jan 2025,2
 Tygarts Valley Sanitation,Feb 2025,3
 Tygarts Valley Sanitation,Mar 2025,2
@@ -8467,6 +8570,7 @@ U & I Sanitation,Sep 2025,3
 U & I Sanitation,Oct 2025,3
 U & I Sanitation,Nov 2025,4
 U & I Sanitation,Dec 2025,3
+U & I Sanitation,Jan 2026,2
 UDP TN Hauling,Jun 2025,1
 UDP TN Hauling,Jul 2025,8
 UDP TN Hauling,Aug 2025,2
@@ -8485,8 +8589,8 @@ USA Waste & Recycling,Aug 2025,29
 USA Waste & Recycling,Sep 2025,13
 USA Waste & Recycling,Oct 2025,27
 USA Waste & Recycling,Nov 2025,40
-USA Waste & Recycling,Dec 2025,34
-USA Waste & Recycling,Jan 2026,8
+USA Waste & Recycling,Dec 2025,33
+USA Waste & Recycling,Jan 2026,15
 United Rentals,Jan 2025,3
 United Rentals,Feb 2025,2
 United Rentals,Mar 2025,2
@@ -8499,6 +8603,7 @@ United Rentals,Sep 2025,1
 United Rentals,Oct 2025,4
 United Rentals,Nov 2025,4
 United Rentals,Dec 2025,3
+United Rentals,Jan 2026,2
 United States Disposal,Jun 2025,1
 United States Disposal,Jul 2025,1
 United States Disposal,Aug 2025,1
@@ -8528,7 +8633,7 @@ Universal Waste Systems,Sep 2025,283
 Universal Waste Systems,Oct 2025,287
 Universal Waste Systems,Nov 2025,347
 Universal Waste Systems,Dec 2025,313
-Universal Waste Systems,Jan 2026,285
+Universal Waste Systems,Jan 2026,299
 Updike Industries,Jan 2025,8
 Updike Industries,Feb 2025,3
 Updike Industries,Mar 2025,2
@@ -8540,6 +8645,7 @@ Updike Industries,Sep 2025,6
 Updike Industries,Oct 2025,5
 Updike Industries,Nov 2025,5
 Updike Industries,Dec 2025,5
+Updike Industries,Jan 2026,5
 Upper Valley Disposal,Feb 2025,1
 Upper Valley Disposal,Mar 2025,1
 Upper Valley Disposal,Apr 2025,4
@@ -8574,7 +8680,7 @@ VLS Environmental Solutions,Sep 2025,5
 VLS Environmental Solutions,Oct 2025,1
 VLS Environmental Solutions,Nov 2025,2
 VLS Environmental Solutions,Dec 2025,110
-VLS Environmental Solutions,Jan 2026,1
+VLS Environmental Solutions,Jan 2026,2
 Valley Sanitation LLC,Jan 2025,1
 Valley Sanitation LLC,Mar 2025,1
 Valley Sanitation LLC,Apr 2025,3
@@ -8586,7 +8692,7 @@ Valley Sanitation LLC,Sep 2025,2
 Valley Sanitation LLC,Oct 2025,2
 Valley Sanitation LLC,Nov 2025,1
 Valley Sanitation LLC,Dec 2025,4
-Valley Sanitation LLC,Jan 2026,1
+Valley Sanitation LLC,Jan 2026,2
 Valley Vista,Jan 2025,18
 Valley Vista,Feb 2025,8
 Valley Vista,Mar 2025,21
@@ -8599,7 +8705,7 @@ Valley Vista,Sep 2025,25
 Valley Vista,Oct 2025,20
 Valley Vista,Nov 2025,20
 Valley Vista,Dec 2025,20
-Valley Vista,Jan 2026,14
+Valley Vista,Jan 2026,21
 Valley Waste Service,Jan 2025,2
 Valley Waste Service,Feb 2025,1
 Valley Waste Service,Mar 2025,2
@@ -8642,6 +8748,7 @@ Velpen Trucking,Sep 2025,21
 Velpen Trucking,Oct 2025,11
 Velpen Trucking,Nov 2025,10
 Velpen Trucking,Dec 2025,10
+Velpen Trucking,Jan 2026,1
 Vista Recycling,Jan 2025,15
 Vista Recycling,Mar 2025,9
 Vista Recycling,May 2025,20
@@ -8651,7 +8758,7 @@ Vista Recycling,Sep 2025,10
 Vista Recycling,Oct 2025,10
 Vista Recycling,Nov 2025,15
 Vista Recycling,Dec 2025,11
-Vista Recycling,Jan 2026,10
+Vista Recycling,Jan 2026,11
 Vogel Disposal,Jan 2025,11
 Vogel Disposal,Feb 2025,9
 Vogel Disposal,Mar 2025,10
@@ -8664,7 +8771,7 @@ Vogel Disposal,Sep 2025,12
 Vogel Disposal,Oct 2025,12
 Vogel Disposal,Nov 2025,16
 Vogel Disposal,Dec 2025,13
-Vogel Disposal,Jan 2026,13
+Vogel Disposal,Jan 2026,14
 Volunteer Disposal West,Jan 2025,1
 Volunteer Disposal West,Feb 2025,1
 Volunteer Disposal West,Mar 2025,2
@@ -8702,7 +8809,7 @@ WM Compactor Solutions,Sep 2025,3
 WM Compactor Solutions,Oct 2025,3
 WM Compactor Solutions,Nov 2025,3
 WM Compactor Solutions,Dec 2025,14
-WM Compactor Solutions,Jan 2026,2
+WM Compactor Solutions,Jan 2026,4
 Walker Garbage and Recycling,Jan 2025,1
 Walker Garbage and Recycling,Feb 2025,1
 Walker Garbage and Recycling,Apr 2025,1
@@ -8726,7 +8833,7 @@ Walker Lake Disposal,Sep 2025,17
 Walker Lake Disposal,Oct 2025,14
 Walker Lake Disposal,Nov 2025,15
 Walker Lake Disposal,Dec 2025,21
-Walker Lake Disposal,Jan 2026,4
+Walker Lake Disposal,Jan 2026,9
 Walter's Recycling & Refuse,Jan 2025,28
 Walter's Recycling & Refuse,Feb 2025,27
 Walter's Recycling & Refuse,Mar 2025,23
@@ -8751,7 +8858,7 @@ Walters Sanitary Service,Sep 2025,6
 Walters Sanitary Service,Oct 2025,6
 Walters Sanitary Service,Nov 2025,5
 Walters Sanitary Service,Dec 2025,7
-Walters Sanitary Service,Jan 2026,5
+Walters Sanitary Service,Jan 2026,6
 Wampler Services,Apr 2025,1
 Wampler Services,May 2025,1
 Wampler Services,Jun 2025,1
@@ -8760,6 +8867,7 @@ Wampler Services,Sep 2025,2
 Wampler Services,Oct 2025,1
 Wampler Services,Nov 2025,1
 Wampler Services,Dec 2025,1
+Wampler Services,Jan 2026,1
 Ware Disposal,Jan 2025,26
 Ware Disposal,Feb 2025,40
 Ware Disposal,Mar 2025,53
@@ -8772,7 +8880,7 @@ Ware Disposal,Sep 2025,25
 Ware Disposal,Oct 2025,82
 Ware Disposal,Nov 2025,79
 Ware Disposal,Dec 2025,60
-Ware Disposal,Jan 2026,1
+Ware Disposal,Jan 2026,5
 Wasatch Waste,Jan 2025,16
 Wasatch Waste,Feb 2025,13
 Wasatch Waste,Mar 2025,18
@@ -8785,7 +8893,7 @@ Wasatch Waste,Sep 2025,4
 Wasatch Waste,Oct 2025,51
 Wasatch Waste,Nov 2025,26
 Wasatch Waste,Dec 2025,28
-Wasatch Waste,Jan 2026,21
+Wasatch Waste,Jan 2026,22
 Washler Garbage,Jan 2025,1
 Washler Garbage,Mar 2025,1
 Washler Garbage,Apr 2025,1
@@ -8823,6 +8931,7 @@ Waste Away,Sep 2025,8
 Waste Away,Oct 2025,1
 Waste Away,Nov 2025,2
 Waste Away,Dec 2025,2
+Waste Away,Jan 2026,1
 Waste Connections,Jan 2025,889
 Waste Connections,Feb 2025,548
 Waste Connections,Mar 2025,639
@@ -8834,8 +8943,8 @@ Waste Connections,Aug 2025,649
 Waste Connections,Sep 2025,1795
 Waste Connections,Oct 2025,1480
 Waste Connections,Nov 2025,1263
-Waste Connections,Dec 2025,1630
-Waste Connections,Jan 2026,805
+Waste Connections,Dec 2025,1622
+Waste Connections,Jan 2026,1589
 Waste Control,Jan 2025,1
 Waste Control,Feb 2025,1
 Waste Control,Mar 2025,2
@@ -8880,10 +8989,11 @@ Waste Management,Sep 2025,643
 Waste Management,Oct 2025,623
 Waste Management,Nov 2025,643
 Waste Management,Dec 2025,624
-Waste Management,Jan 2026,3
+Waste Management,Jan 2026,607
 Waste Masters,Oct 2025,5
 Waste Masters,Nov 2025,3
 Waste Masters,Dec 2025,1
+Waste Masters,Jan 2026,2
 Waste Path,Jan 2025,7
 Waste Path,Feb 2025,6
 Waste Path,Mar 2025,8
@@ -8908,8 +9018,8 @@ Waste Pro,Aug 2025,208
 Waste Pro,Sep 2025,291
 Waste Pro,Oct 2025,343
 Waste Pro,Nov 2025,318
-Waste Pro,Dec 2025,287
-Waste Pro,Jan 2026,288
+Waste Pro,Dec 2025,288
+Waste Pro,Jan 2026,297
 Waste Resources Gardena,Jan 2025,4
 Waste Resources Gardena,Feb 2025,5
 Waste Resources Gardena,Mar 2025,5
@@ -8966,7 +9076,7 @@ Waste Zero,Sep 2025,49
 Waste Zero,Oct 2025,88
 Waste Zero,Nov 2025,46
 Waste Zero,Dec 2025,43
-Waste Zero,Jan 2026,17
+Waste Zero,Jan 2026,46
 Wasteless Solutions,Oct 2025,2
 Wasteless Solutions,Nov 2025,7
 Wasteless Solutions,Dec 2025,4
@@ -9014,6 +9124,7 @@ Wayne County Utah,Sep 2025,1
 Wayne County Utah,Oct 2025,1
 Wayne County Utah,Nov 2025,19
 Wayne County Utah,Dec 2025,1
+Wayne County Utah,Jan 2026,1
 Weaver's Sanitation,Jan 2025,1
 Weaver's Sanitation,Mar 2025,2
 Weaver's Sanitation,Apr 2025,1
@@ -9057,7 +9168,7 @@ West Central Sanitation,Sep 2025,17
 West Central Sanitation,Oct 2025,16
 West Central Sanitation,Nov 2025,16
 West Central Sanitation,Dec 2025,17
-West Central Sanitation,Jan 2026,13
+West Central Sanitation,Jan 2026,17
 West Oahu Aggregate,Jan 2025,6
 West Oahu Aggregate,Feb 2025,2
 West Oahu Aggregate,Apr 2025,6
@@ -9080,7 +9191,7 @@ Western Disposal,Sep 2025,14
 Western Disposal,Oct 2025,17
 Western Disposal,Nov 2025,14
 Western Disposal,Dec 2025,10
-Western Disposal,Jan 2026,9
+Western Disposal,Jan 2026,10
 Western Elite,Jan 2025,9
 Western Elite,Feb 2025,8
 Western Elite,Mar 2025,3
@@ -9093,7 +9204,7 @@ Western Elite,Sep 2025,7
 Western Elite,Oct 2025,8
 Western Elite,Nov 2025,10
 Western Elite,Dec 2025,10
-Western Elite,Jan 2026,8
+Western Elite,Jan 2026,11
 Western Kane County,Jan 2025,6
 Western Kane County,Feb 2025,5
 Western Kane County,Mar 2025,6
@@ -9151,6 +9262,7 @@ WillScot,Sep 2025,14
 WillScot,Oct 2025,8
 WillScot,Nov 2025,7
 WillScot,Dec 2025,7
+WillScot,Jan 2026,7
 Willey Disposal,Jan 2025,3
 Willey Disposal,Feb 2025,3
 Willey Disposal,Mar 2025,2
@@ -9163,7 +9275,7 @@ Willey Disposal,Sep 2025,6
 Willey Disposal,Oct 2025,4
 Willey Disposal,Nov 2025,4
 Willey Disposal,Dec 2025,6
-Willey Disposal,Jan 2026,3
+Willey Disposal,Jan 2026,4
 William Sullivan,Jan 2025,1
 William Sullivan,Feb 2025,1
 William Sullivan,May 2025,1
@@ -9184,9 +9296,9 @@ Win Waste Innovations,Jul 2025,36
 Win Waste Innovations,Aug 2025,47
 Win Waste Innovations,Sep 2025,63
 Win Waste Innovations,Oct 2025,59
-Win Waste Innovations,Nov 2025,83
-Win Waste Innovations,Dec 2025,60
-Win Waste Innovations,Jan 2026,72
+Win Waste Innovations,Nov 2025,84
+Win Waste Innovations,Dec 2025,59
+Win Waste Innovations,Jan 2026,90
 Wise Environmental,Jan 2025,13
 Wise Environmental,Feb 2025,15
 Wise Environmental,Mar 2025,11
@@ -9199,7 +9311,7 @@ Wise Environmental,Sep 2025,22
 Wise Environmental,Oct 2025,22
 Wise Environmental,Nov 2025,29
 Wise Environmental,Dec 2025,27
-Wise Environmental,Jan 2026,2
+Wise Environmental,Jan 2026,3
 Wisneski Westmoreland,Jan 2025,2
 Wisneski Westmoreland,Feb 2025,2
 Wisneski Westmoreland,Mar 2025,1
@@ -9261,6 +9373,7 @@ Yreka Transfer,Sep 2025,2
 Yreka Transfer,Oct 2025,3
 Yreka Transfer,Nov 2025,2
 Yreka Transfer,Dec 2025,3
+Yreka Transfer,Jan 2026,2
 Zarc Recycling,Jan 2025,9
 Zarc Recycling,Feb 2025,15
 Zarc Recycling,Mar 2025,16
@@ -9273,4 +9386,5 @@ Zarc Recycling,Sep 2025,38
 Zarc Recycling,Oct 2025,37
 Zarc Recycling,Nov 2025,14
 Zarc Recycling,Dec 2025,11
+Zarc Recycling,Jan 2026,16
 Zero Waste,Dec 2025,1
